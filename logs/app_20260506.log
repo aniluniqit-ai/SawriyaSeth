@@ -1,0 +1,968 @@
+2026-05-06 08:30:37,320 [Capital] INFO: Capital loaded: ₹2,000
+2026-05-06 08:30:37,320 [MainGUI] INFO: Capital loaded: ₹2,000.00
+2026-05-06 08:30:38,466 [KotakAPI] WARNING: Old session expired (HTTP 404) — deleting, will do fresh login
+2026-05-06 08:30:38,491 [KotakAPI] INFO: TOTP generated: 300501
+2026-05-06 08:30:39,389 [KotakAPI] INFO: Kotak TOTP login OK (format=raw) ✅
+2026-05-06 08:30:39,459 [KotakAPI] INFO: Session saved to sessions/kotak_session.json
+2026-05-06 08:30:39,477 [MainGUI] INFO: Kotak API login successful.
+2026-05-06 08:30:39,829 [Database] ERROR: SQL Connection Failed (Make sure database 'LKS_Trader_DB' is created): ('28000', '[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'sa\'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "LKS_Trader_DB" requested by the login. The login failed. (4060); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'sa\'. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "LKS_Trader_DB" requested by the login. The login failed. (4060)')
+2026-05-06 08:30:39,829 [MainGUI] INFO: Connected to Microsoft SQL Server Database.
+2026-05-06 08:30:39,829 [AIDirector] WARNING: No DB connection. AI Director using default rules.
+2026-05-06 08:30:39,887 [MainGUI] INFO: 🤖 AI Director Selected Strategy: SMC_SCALP
+2026-05-06 08:30:39,954 [MainGUI] INFO: 🤖 AI Director linked to trader successfully!
+2026-05-06 08:30:40,351 [MomentumScalper] INFO: [NIFTY] VWAP reset for new day
+2026-05-06 08:30:40,520 [MomentumScalper] INFO: [BANKNIFTY] VWAP reset for new day
+2026-05-06 08:30:41,102 [MomentumScalper] INFO: [SENSEX] VWAP reset for new day
+2026-05-06 08:30:41,245 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-05-06 08:30:41,245 [telethon.crypto.aes] INFO: cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-05-06 08:30:41,636 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-05-06 08:30:41,715 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-05-06 08:30:43,044 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-05-06 08:30:43,060 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-05-06 08:30:43,060 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-05-06 08:30:43,076 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-05-06 08:30:43,076 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-05-06 08:30:43,092 [TGReader] INFO: Channel: Trading MasterMind
+2026-05-06 08:30:43,092 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-05-06 08:30:43,092 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,092 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,092 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,092 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,092 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,108 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,108 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,108 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,108 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,124 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,124 [TGReader] INFO: Channel: Stock
+2026-05-06 08:30:43,124 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,427 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,427 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,427 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,427 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,427 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,427 [TGReader] INFO: Channel: 9
+2026-05-06 08:30:43,427 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,437 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,437 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,437 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,437 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,437 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,437 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,760 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,760 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,776 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,776 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,776 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,776 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,776 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,776 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,776 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-05-06 08:30:43,776 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,776 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,776 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,776 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,776 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,786 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,801 [TGReader] INFO: Channel: 
+2026-05-06 08:30:43,801 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,247 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,247 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,247 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,247 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,247 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,247 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,247 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,247 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,263 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,263 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,263 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,263 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,263 [TGReader] INFO: Channel: A
+2026-05-06 08:30:44,263 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,263 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,263 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,263 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,263 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,263 [TGReader] INFO: Channel: R
+2026-05-06 08:30:44,263 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,263 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,263 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,279 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,279 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,279 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,470 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,470 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,487 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,487 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,487 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,487 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,487 [TGReader] INFO: Channel: 
+2026-05-06 08:30:44,694 [MomentumScalper] INFO: [FINNIFTY] VWAP reset for new day
+2026-05-06 08:30:45,992 [MainGUI] INFO: Telegram connected monitoring 101 channels
+2026-05-06 08:30:48,724 [MomentumScalper] INFO: [MIDCPNIFTY] VWAP reset for new day
+2026-05-06 08:30:52,740 [telethon.client.users] INFO: Sleeping for 25s (0:00:25) on GetHistoryRequest flood wait
+2026-05-06 08:34:43,204 [TGReader] INFO: [FOREX ANYLIZER ™️] Gold Jackpot :- 4635TO 4627🚀🚀
+
+80   Pips Running Profit🔥🔥
+
+F
+2026-05-06 08:34:43,236 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 CE entry=None conf=65
+2026-05-06 08:34:43,252 [TGReader] INFO: [FOREX ANYLIZER ™️] 🔤🔤🔤🔤         🔤🔤🔤🔤
+
+⭐  LIFETIME COPY MY TRADE (VIP ) CHHANEL 
+2026-05-06 08:34:43,252 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 259350 CE entry=None conf=65
+2026-05-06 08:41:40,194 [TGReader] INFO: [FOREX ANYLIZER ™️] AGLA JACKPOT VIP CHANNEL MAIN AYEGA SOCHO MAT JOIN FAST 🤑🤑
+2026-05-06 08:41:40,194 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None None None entry=None conf=40
+2026-05-06 08:45:43,522 [telethon.client.updates] INFO: Got difference for channel 1203364764 updates
+2026-05-06 08:56:00,320 [TGReader] INFO: [Trading MasterMind] 💥🔥JOIN OUR ZERO HERO GROUP 🔥💥
+
+Mastermind Primium💝
+Our Zero 
+2026-05-06 08:56:00,352 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None 10000 None entry=None conf=50
+2026-05-06 08:59:09,736 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-06 09:00:42,781 [telethon.client.updates] INFO: Got difference for account updates
+2026-05-06 09:00:43,844 [telethon.client.updates] INFO: Got difference for channel 2554879920 updates
+2026-05-06 09:11:48,484 [TGReader] INFO: [FOREX ANYLIZER ™️] NEW JACKPOT READY HAI DON'T MISS 🚨🚨
+2026-05-06 09:11:48,484 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None None None entry=None conf=40
+2026-05-06 09:15:01,732 [Capital] INFO: Capital daily reset — Current: ₹2,000 | Initial: ₹2,000 | Growth: +0.0%
+2026-05-06 09:15:01,779 [MainGUI] INFO: [09:15] Daily capital counters reset — 2026-05-06
+2026-05-06 09:15:03,305 [TGReader] INFO: [Trading MasterMind] 💥💥BOOM💥💥
+2026-05-06 09:15:03,305 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-05-06 09:15:03,433 [PrevDayLevels] INFO: [PDL] NIFTY: First run — waiting to build today's H/L
+2026-05-06 09:15:03,512 [PrevDayLevels] INFO: [PDL] BANKNIFTY: First run — waiting to build today's H/L
+2026-05-06 09:15:03,592 [PrevDayLevels] INFO: [PDL] FINNIFTY: First run — waiting to build today's H/L
+2026-05-06 09:15:03,655 [PrevDayLevels] INFO: [PDL] MIDCPNIFTY: First run — waiting to build today's H/L
+2026-05-06 09:15:03,813 [PrevDayLevels] INFO: [PDL] SENSEX: First run — waiting to build today's H/L
+2026-05-06 09:15:43,848 [telethon.client.updates] INFO: Got difference for channel 1242754182 updates
+2026-05-06 09:15:45,008 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-05-06 09:16:13,385 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-05-06 09:16:13,400 [TGReader] INFO: [FOREX ACADEMY] BUY  XAU/USD BELOW :- 4640
+
+
+TARGET : VIP 
+
+
+STOPLOSS  VIP
+2026-05-06 09:16:13,400 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 PE entry=None conf=65
+2026-05-06 09:16:49,112 [TGReader] INFO: [Trading MasterMind] SENSEX 77500 CE ABOVE 400
+
+TARGET- 440/470/500
+
+SL- PAID
+2026-05-06 09:16:49,112 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=True SENSEX 77500 CE entry=400.0 conf=95
+2026-05-06 09:16:49,112 [MainGUI] INFO: Signal Received: BUY SENSEX CE
+2026-05-06 09:16:49,127 [OptionTrader] INFO: Market closed for SENSEX — signal ignored
+2026-05-06 09:18:59,766 [TGReader] INFO: [👌 SMT - Education Group 👌] NIFTY 24200 PE Looking good 
+
+Above @ 170
+
+TARGET - 185, 200
+2026-05-06 09:18:59,766 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=True NIFTY 24200 PE entry=170.0 conf=95
+2026-05-06 09:18:59,904 [MainGUI] INFO: Signal Received: BUY NIFTY PE
+2026-05-06 09:18:59,904 [OptionTrader] INFO: Market closed for NIFTY — signal ignored
+2026-05-06 09:19:48,381 [TGReader] INFO: [👌 Stock Market Tps👌] NIFTY 24200 PE Looking good 
+
+Above @ 170
+
+TARGET - 185, 200
+2026-05-06 09:19:48,391 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=True NIFTY 24200 PE entry=170.0 conf=95
+2026-05-06 09:19:48,391 [MainGUI] INFO: Signal Received: BUY NIFTY PE
+2026-05-06 09:19:48,407 [OptionTrader] INFO: Market closed for NIFTY — signal ignored
+2026-05-06 09:20:38,843 [TGReader] INFO: [👌 SMT - Education Group 👌] 173++✅✅
+2026-05-06 09:20:38,843 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:20:43,590 [TGReader] INFO: [👌 SMT - Education Group 👌] 177++✅✅
+2026-05-06 09:20:43,590 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:20:47,038 [TGReader] INFO: [👌 SMT - Education Group 👌] Safe book other trill SL ✔️
+2026-05-06 09:20:47,054 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:21:49,744 [TGReader] INFO: [👌 Stock Market Tps👌] 177++✅✅
+2026-05-06 09:21:49,744 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:21:49,744 [TGReader] INFO: [👌 Stock Market Tps👌] Safe book other trill SL ✔️
+2026-05-06 09:21:49,744 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:21:49,760 [TGReader] INFO: [👌 Stock Market Tps👌] 173++✅✅
+2026-05-06 09:21:49,760 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:22:31,601 [TGReader] INFO: [👌 SMT - Education Group 👌] 182++✅✅
+2026-05-06 09:22:31,601 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:23:05,478 [TGReader] INFO: [👌 Stock Market Tps👌] 182++✅✅
+2026-05-06 09:23:05,478 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:23:54,962 [TGReader] INFO: [👌 SMT - Education Group 👌] 🔳  186++✅✅
+
+👉 1st Target🎯 done✅
+
+जय माता दी 🙏🏼
+2026-05-06 09:23:54,962 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:24:13,665 [TGReader] INFO: [👌 SMT - Education Group 👌] 189++✅✅
+2026-05-06 09:24:13,665 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:24:14,251 [telethon.client.updates] INFO: Got difference for channel 1203364764 updates
+2026-05-06 09:24:14,251 [TGReader] INFO: [👌 Stock Market Tps👌] 🔳  186++✅✅
+
+👉 1st Target🎯 done✅
+
+जय माता दी 🙏🏼
+2026-05-06 09:24:14,251 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:24:14,251 [TGReader] INFO: [👌 Stock Market Tps👌] 189++✅✅
+2026-05-06 09:24:14,251 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:25:01,208 [MomentumScalper] INFO: [FINNIFTY] Armed CE on Momentum Candle High: 26015.7
+2026-05-06 09:25:01,208 [MomentumScalper] INFO: [SENSEX] Armed CE on Momentum Candle High: 77522.09
+2026-05-06 09:30:43,073 [telethon.client.updates] INFO: Got difference for account updates
+2026-05-06 09:30:43,964 [telethon.client.updates] INFO: Got difference for channel 1242754182 updates
+2026-05-06 09:30:45,414 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-05-06 09:30:45,737 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-05-06 09:30:46,276 [MomentumScalper] INFO: [SENSEX] Armed CE on Momentum Candle High: 77456.41
+2026-05-06 09:31:21,284 [OptionTrader] INFO: TF [SENSEX] CE: passed=False RSI70 not 40-65
+2026-05-06 09:31:21,284 [OptionTrader] INFO: Auto signal TF blocked: RSI70 not 40-65
+2026-05-06 09:31:28,291 [MomentumScalper] INFO: [SENSEX] Armed CE on Momentum Candle High: 77456.41
+2026-05-06 09:31:33,292 [OptionTrader] INFO: TF [SENSEX] CE: passed=False RSI75 not 40-65
+2026-05-06 09:31:33,292 [OptionTrader] INFO: Auto signal TF blocked: RSI75 not 40-65
+2026-05-06 09:31:40,308 [MomentumScalper] INFO: [SENSEX] Armed CE on Momentum Candle High: 77456.41
+2026-05-06 09:33:40,332 [MomentumScalper] INFO: [MIDCPNIFTY] Armed CE on Momentum Candle High: 14128.85
+2026-05-06 09:33:51,913 [telethon.client.updates] INFO: Got difference for channel 1203364764 updates
+2026-05-06 09:33:51,928 [TGReader] INFO: [👌 Stock Market Tps👌] Demo Done 😘 Enjoy BreakFast 
+
+क्या कहते हो है तगड़ी Accuracy
+2026-05-06 09:33:51,928 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:35:51,704 [TGReader] INFO: [Trading MasterMind] 407🚀🚀
+2026-05-06 09:35:51,704 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:35:51,704 [TGReader] INFO: [Trading MasterMind] 402🚀🚀
+2026-05-06 09:35:51,720 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:35:51,720 [TGReader] INFO: [Trading MasterMind] 405🚀🚀
+2026-05-06 09:35:51,720 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:35:52,195 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-05-06 09:35:52,195 [TGReader] INFO: [Trading MasterMind] 410🚀🚀
+2026-05-06 09:35:52,195 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:35:52,195 [TGReader] INFO: [Trading MasterMind] 412🚀🚀
+2026-05-06 09:35:52,195 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:02,775 [TGReader] INFO: [Trading MasterMind] 425🚀🚀
+2026-05-06 09:36:02,775 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:02,775 [TGReader] INFO: [Trading MasterMind] 422🚀🚀
+2026-05-06 09:36:02,775 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:02,792 [TGReader] INFO: [Trading MasterMind] 415🚀🚀
+2026-05-06 09:36:02,792 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:02,792 [TGReader] INFO: [Trading MasterMind] 420🚀🚀
+2026-05-06 09:36:02,792 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:02,792 [TGReader] INFO: [Trading MasterMind] 417🚀🚀
+2026-05-06 09:36:02,792 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:09,959 [TGReader] INFO: [Trading MasterMind] 427🚀🚀
+2026-05-06 09:36:09,959 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:09,959 [TGReader] INFO: [Trading MasterMind] 430🚀🚀
+2026-05-06 09:36:09,959 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:09,959 [TGReader] INFO: [Trading MasterMind] 432🚀🚀
+2026-05-06 09:36:09,959 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:12,587 [TGReader] INFO: [Trading MasterMind] 435🚀🚀
+2026-05-06 09:36:12,587 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:14,778 [TGReader] INFO: [Trading MasterMind] 437🚀🚀
+2026-05-06 09:36:14,778 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:16,880 [TGReader] INFO: [Trading MasterMind] 440🚀🚀
+2026-05-06 09:36:16,880 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:18,667 [TGReader] INFO: [Trading MasterMind] 🔖✨ FIRST TARGET DONE✨🔖
+
+       🕯🛍MAZA AAGYA🛍🕯
+2026-05-06 09:36:18,667 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-05-06 09:36:51,848 [TGReader] INFO: [Trading MasterMind] 445🚀🚀
+2026-05-06 09:36:51,848 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:51,848 [TGReader] INFO: [Trading MasterMind] 458🚀🚀
+2026-05-06 09:36:51,848 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:51,864 [TGReader] INFO: [Trading MasterMind] 442🚀🚀
+2026-05-06 09:36:51,864 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:51,864 [TGReader] INFO: [Trading MasterMind] 460🚀🚀
+2026-05-06 09:36:51,864 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:51,864 [TGReader] INFO: [Trading MasterMind] 452🚀🚀
+2026-05-06 09:36:51,864 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:51,864 [TGReader] INFO: [Trading MasterMind] 447🚀🚀
+2026-05-06 09:36:51,864 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:51,888 [TGReader] INFO: [Trading MasterMind] 456🚀🚀
+2026-05-06 09:36:51,889 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:51,891 [TGReader] INFO: [Trading MasterMind] 454🚀🚀
+2026-05-06 09:36:51,891 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:51,891 [TGReader] INFO: [Trading MasterMind] 464🚀🚀
+2026-05-06 09:36:51,891 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:51,891 [TGReader] INFO: [Trading MasterMind] 462🚀🚀
+2026-05-06 09:36:51,891 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:36:51,891 [TGReader] INFO: [Trading MasterMind] 450🚀🚀
+2026-05-06 09:36:51,891 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:37:36,725 [TGReader] INFO: [Trading MasterMind] 468🚀🚀
+2026-05-06 09:37:36,725 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:37:36,740 [TGReader] INFO: [Trading MasterMind] 466🚀🚀
+2026-05-06 09:37:36,740 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:37:36,740 [TGReader] INFO: [Trading MasterMind] 475🚀🚀
+2026-05-06 09:37:36,740 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:37:36,750 [TGReader] INFO: [Trading MasterMind] 472🚀🚀
+2026-05-06 09:37:36,750 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:37:36,750 [TGReader] INFO: [Trading MasterMind] 473🚀🚀
+2026-05-06 09:37:36,750 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:37:36,750 [TGReader] INFO: [Trading MasterMind] FROM 400 TO 475💥💥💥💥
+#LIVE SURESHOT ZERO HERO JACKPOT TRADE R
+2026-05-06 09:37:36,750 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-05-06 09:37:36,750 [TGReader] INFO: [Trading MasterMind] 470🚀🚀
+2026-05-06 09:37:36,750 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-05-06 09:37:36,766 [TGReader] INFO: [Trading MasterMind] 🔖✨ SECOND TARGET DONE✨🔖
+
+       🕯🛍MAZA AAGYA🛍🕯
+2026-05-06 09:37:36,766 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-05-06 09:38:05,398 [MomentumScalper] INFO: [MIDCPNIFTY] Armed CE on Momentum Candle High: 14126.5
+2026-05-06 09:38:10,400 [OptionTrader] INFO: TF [MIDCPNIFTY] CE: passed=False RSI74 not 40-65
+2026-05-06 09:38:10,400 [OptionTrader] INFO: Auto signal TF blocked: RSI74 not 40-65
+2026-05-06 09:38:17,410 [MomentumScalper] INFO: [FINNIFTY] Armed CE on Momentum Candle High: 25972.55
+2026-05-06 09:38:17,410 [MomentumScalper] INFO: [MIDCPNIFTY] Armed CE on Momentum Candle High: 14126.5
+2026-05-06 09:38:22,416 [OptionTrader] INFO: TF [MIDCPNIFTY] CE: passed=False RSI78 not 40-65
+2026-05-06 09:38:22,416 [OptionTrader] INFO: Auto signal TF blocked: RSI78 not 40-65
+2026-05-06 09:38:29,421 [MomentumScalper] INFO: [MIDCPNIFTY] Armed CE on Momentum Candle High: 14126.5
+2026-05-06 09:38:34,422 [OptionTrader] INFO: TF [MIDCPNIFTY] CE: passed=False RSI81 not 40-65
+2026-05-06 09:38:34,422 [OptionTrader] INFO: Auto signal TF blocked: RSI81 not 40-65
+2026-05-06 09:39:01,432 [OptionTrader] INFO: TF [FINNIFTY] CE: passed=False RSI78 not 40-65
+2026-05-06 09:39:01,432 [OptionTrader] INFO: Auto signal TF blocked: RSI78 not 40-65
+2026-05-06 09:39:08,439 [MomentumScalper] INFO: [FINNIFTY] Armed CE on Momentum Candle High: 25972.55
+2026-05-06 09:39:13,440 [OptionTrader] INFO: TF [FINNIFTY] CE: passed=False RSI67 not 40-65
+2026-05-06 09:39:13,440 [OptionTrader] INFO: Auto signal TF blocked: RSI67 not 40-65
+2026-05-06 09:39:20,449 [MomentumScalper] INFO: [FINNIFTY] Armed CE on Momentum Candle High: 25972.55
+2026-05-06 09:39:25,451 [OptionTrader] INFO: TF [FINNIFTY] CE: passed=False RSI67 not 40-65
+2026-05-06 09:39:25,451 [OptionTrader] INFO: Auto signal TF blocked: RSI67 not 40-65
+2026-05-06 09:39:52,226 [TGReader] INFO: [Trading MasterMind] 💥🔥JOIN OUR ZERO HERO GROUP 🔥💥
+
+Mastermind Primium💝
+Our Zero 
+2026-05-06 09:39:52,226 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None 10000 None entry=None conf=50
+2026-05-06 09:45:44,073 [telethon.client.updates] INFO: Got difference for channel 1242754182 updates
+2026-05-06 09:45:45,687 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-05-06 09:45:45,687 [TGReader] INFO: [👌 SMT - Education Group 👌] Update your screen shot here 👇
+
+@Smt_servicee
+2026-05-06 09:45:45,687 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:46:05,126 [TGReader] INFO: [👌 SMT - Education Group 👌] 🔳  200++✅✅
+
+👉 All Target🎯 done✅
+
+जय माता दी 🙏🏼
+2026-05-06 09:46:05,143 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:47:01,273 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-06 09:47:25,388 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-06 09:49:53,492 [TGReader] INFO: [FOREX ACADEMY] BUY  XAU/USD BELOW :- 4642
+
+
+TARGET : VIP 
+
+
+STOPLOSS  VIP
+2026-05-06 09:49:53,493 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 PE entry=None conf=65
+2026-05-06 09:50:19,311 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-05-06 09:50:19,311 [TGReader] INFO: [👌 SMT - Education Group 👌] 211++✅✅
+2026-05-06 09:50:19,311 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:50:19,311 [TGReader] INFO: [👌 SMT - Education Group 👌] NIFTY 24150 PE Looking good 
+
+Above @ 180
+
+TARGET - 195, 210
+2026-05-06 09:50:19,326 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=True NIFTY 24150 PE entry=180.0 conf=95
+2026-05-06 09:50:19,384 [MainGUI] INFO: Signal Received: BUY NIFTY PE
+2026-05-06 09:50:19,384 [OptionTrader] INFO: 📡 Telegram signal from [👌 SMT - Education Group 👌]: NIFTY PE — proceeding to buy best ATM
+2026-05-06 09:50:19,498 [OptionChain] ERROR: Option chain fetch NIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:20,559 [OptionChain] ERROR: Option chain fetch NIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:21,609 [OptionChain] ERROR: Option chain fetch NIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:22,616 [OptionChain] INFO: [BudgetGuard] NIFTY PE | micro=True | capital=₹2000 | lot=25 | max_prem=₹80
+2026-05-06 09:50:22,616 [OptionChain] WARNING: No chain data — skipping strike selection
+2026-05-06 09:50:22,616 [OptionTrader] WARNING: [NIFTY] No option chain — estimated ATM premium: ₹80.0 (index=24129). Connect Kotak for real prices.
+2026-05-06 09:50:22,616 [OptionTrader] INFO: PAPER order: NIFTY24150PE qty=25 @80.0
+2026-05-06 09:50:22,616 [OptionTrader] INFO: 📄 PAPER | 📡 TELEGRAM
+Trade Opened!
+━━━━━━━━━━━━━━━
+📊 NIFTY24150PE
+💵 Entry : 80.0
+🛑 SL    : 64.0
+🎯 T1    : 95.0
+🎯 T2    : 110.0
+📦 Qty   : 25 (1 lot)
+📈 Trend : SIDEWAYS
+📡 Source: 👌 SMT - Education Group 👌
+2026-05-06 09:50:24,258 [TGReader] INFO: [👌 SMT - Education Group 👌] #pureriskytrade
+2026-05-06 09:50:24,258 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:50:24,268 [TGReader] INFO: [👌 SMT - Education Group 👌] 183++✅✅
+2026-05-06 09:50:24,268 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:50:24,310 [OptionChain] ERROR: Option chain fetch NIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:24,439 [TGReader] INFO: [👌 SMT - Education Group 👌] 186++✅✅
+2026-05-06 09:50:24,439 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:50:24,878 [telethon.client.updates] INFO: Got difference for account updates
+2026-05-06 09:50:25,398 [OptionChain] ERROR: Option chain fetch NIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:26,564 [OptionChain] ERROR: Option chain fetch NIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:27,578 [Candlestick] INFO: [NextCandleAnalyzer] TRAIL_SL: CONTINUATION — Trail SL: 64.0 → 64.0 (Bear | Low=24139.9 High=24144.0)
+2026-05-06 09:50:30,897 [TGReader] INFO: [👌 SMT - Education Group 👌] 190++✅✅
+2026-05-06 09:50:30,897 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:50:35,111 [OptionChain] ERROR: Option chain fetch NIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:36,181 [OptionChain] ERROR: Option chain fetch NIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:37,224 [OptionChain] ERROR: Option chain fetch NIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:37,872 [TGReader] INFO: [👌 SMT - Education Group 👌] 192++✅✅
+2026-05-06 09:50:37,872 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 09:50:38,241 [Candlestick] INFO: [NextCandleAnalyzer] TRAIL_SL: CONTINUATION — Trail SL: 64.0 → 64.0 (Bear | Low=24139.9 High=24144.0)
+2026-05-06 09:50:38,438 [OptionChain] ERROR: Option chain fetch NIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:39,504 [OptionChain] ERROR: Option chain fetch NIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:40,560 [OptionChain] ERROR: Option chain fetch NIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:41,567 [Candlestick] INFO: [NextCandleAnalyzer] TRAIL_SL: CONTINUATION — Trail SL: 64.0 → 64.0 (Bear | Low=24139.9 High=24144.0)
+2026-05-06 09:50:41,710 [OptionChain] ERROR: Option chain fetch NIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:42,765 [OptionChain] ERROR: Option chain fetch NIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:43,929 [OptionChain] ERROR: Option chain fetch NIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:44,932 [Candlestick] INFO: [NextCandleAnalyzer] TRAIL_SL: CONTINUATION — Trail SL: 64.0 → 64.0 (Bear | Low=24139.9 High=24144.0)
+2026-05-06 09:50:45,183 [OptionChain] ERROR: Option chain fetch NIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:46,250 [OptionChain] ERROR: Option chain fetch NIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:47,304 [OptionChain] ERROR: Option chain fetch NIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:48,320 [Candlestick] INFO: [NextCandleAnalyzer] TRAIL_SL: CONTINUATION — Trail SL: 64.0 → 64.0 (Bear | Low=24139.9 High=24144.0)
+2026-05-06 09:50:52,124 [OptionChain] ERROR: Option chain fetch NIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:53,184 [OptionChain] ERROR: Option chain fetch NIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:54,236 [OptionChain] ERROR: Option chain fetch NIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:55,253 [Candlestick] INFO: [NextCandleAnalyzer] TRAIL_SL: CONTINUATION — Trail SL: 64.0 → 64.0 (Bear | Low=24139.9 High=24144.0)
+2026-05-06 09:50:55,253 [MomentumScalper] INFO: [SENSEX] Armed PE on Momentum Candle Low: 77247.11
+2026-05-06 09:50:58,709 [OptionChain] ERROR: Option chain fetch NIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:50:59,761 [OptionChain] ERROR: Option chain fetch NIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:51:00,835 [OptionChain] ERROR: Option chain fetch NIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:51:03,244 [OptionTrader] INFO: Closed NIFTY24150PE MOMENTUM_LOST pnl=110
+2026-05-06 09:51:03,244 [OptionTrader] INFO: TF [SENSEX] PE: passed=False RSI6 not 35-60
+2026-05-06 09:51:03,244 [OptionTrader] INFO: Auto signal TF blocked: RSI6 not 35-60
+2026-05-06 09:51:45,268 [MomentumScalper] INFO: [BANKNIFTY] Armed CE on Momentum Candle High: 55171.25
+2026-05-06 09:52:00,271 [OptionTrader] INFO: TF [BANKNIFTY] CE: passed=True EMA50✅ MOM✅ RSI64✅
+2026-05-06 09:52:00,332 [OptionChain] ERROR: Option chain fetch BANKNIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:52:01,384 [OptionChain] ERROR: Option chain fetch BANKNIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:52:02,443 [OptionChain] ERROR: Option chain fetch BANKNIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:52:03,458 [OptionChain] INFO: [BudgetGuard] BANKNIFTY CE | micro=True | capital=₹2110 | lot=15 | max_prem=₹141
+2026-05-06 09:52:03,458 [OptionChain] WARNING: No chain data — skipping strike selection
+2026-05-06 09:52:03,462 [OptionTrader] WARNING: [BANKNIFTY] No option chain — estimated ATM premium: ₹140.7 (index=55180). Connect Kotak for real prices.
+2026-05-06 09:52:03,462 [OptionTrader] WARNING: Trade blocked: Cost ₹2110 > allowed capital ₹1688
+2026-05-06 09:52:12,147 [MomentumScalper] INFO: [BANKNIFTY] Armed CE on Momentum Candle High: 55171.25
+2026-05-06 09:52:17,149 [OptionTrader] INFO: TF [BANKNIFTY] CE: passed=True EMA50✅ MOM✅ RSI64✅
+2026-05-06 09:52:17,247 [OptionChain] ERROR: Option chain fetch BANKNIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:52:19,235 [OptionChain] ERROR: Option chain fetch BANKNIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:52:20,295 [OptionChain] ERROR: Option chain fetch BANKNIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:52:21,311 [OptionChain] INFO: [BudgetGuard] BANKNIFTY CE | micro=True | capital=₹2110 | lot=15 | max_prem=₹141
+2026-05-06 09:52:21,311 [OptionChain] WARNING: No chain data — skipping strike selection
+2026-05-06 09:52:21,311 [OptionTrader] WARNING: [BANKNIFTY] No option chain — estimated ATM premium: ₹140.7 (index=55182). Connect Kotak for real prices.
+2026-05-06 09:52:21,311 [OptionTrader] WARNING: Trade blocked: Cost ₹2110 > allowed capital ₹1688
+2026-05-06 09:52:30,010 [MomentumScalper] INFO: [BANKNIFTY] Armed CE on Momentum Candle High: 55171.25
+2026-05-06 09:52:35,013 [OptionTrader] INFO: TF [BANKNIFTY] CE: passed=False RSI82 not 40-65
+2026-05-06 09:52:35,013 [OptionTrader] INFO: Auto signal TF blocked: RSI82 not 40-65
+2026-05-06 09:56:12,399 [MomentumScalper] INFO: [NIFTY] Armed CE on Momentum Candle High: 24161.95
+2026-05-06 09:57:37,412 [OptionTrader] INFO: TF [NIFTY] CE: passed=True EMA50✅ MOM✅ RSI55✅
+2026-05-06 09:57:37,590 [OptionChain] ERROR: Option chain fetch NIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:57:38,660 [OptionChain] ERROR: Option chain fetch NIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:57:39,711 [OptionChain] ERROR: Option chain fetch NIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 09:57:40,719 [OptionChain] INFO: [BudgetGuard] NIFTY CE | micro=True | capital=₹2110 | lot=25 | max_prem=₹84
+2026-05-06 09:57:40,719 [OptionChain] WARNING: No chain data — skipping strike selection
+2026-05-06 09:57:40,719 [OptionTrader] WARNING: [NIFTY] No option chain — estimated ATM premium: ₹84.4 (index=24164). Connect Kotak for real prices.
+2026-05-06 09:57:40,719 [OptionTrader] WARNING: Trade blocked: Cost ₹2110 > allowed capital ₹1688
+2026-05-06 09:58:54,742 [TGReader] INFO: [FOREX ANYLIZER ™️] BUY  XAU/USD BELOW :- 4642
+
+
+TARGET : VIP 
+
+
+STOPLOSS  VIP
+2026-05-06 09:58:54,742 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 PE entry=None conf=65
+2026-05-06 10:02:55,353 [TGReader] INFO: [FOREX ACADEMY] NOT ACTIVE 👍🏻👍🏻
+2026-05-06 10:02:55,353 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None None None entry=None conf=40
+2026-05-06 10:02:55,877 [telethon.client.updates] INFO: Got difference for channel 1203364764 updates
+2026-05-06 10:03:55,454 [TGReader] INFO: [👌 Stock Market Tps👌] 🧿 अभी बहुत धमाके बाक़ी है keep Alart
+2026-05-06 10:03:55,454 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-05-06 10:05:19,473 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-05-06 10:05:19,473 [TGReader] INFO: [👌 SMT - Education Group 👌] 🔳  196++✅✅
+
+👉 1st Target🎯 done✅
+
+जय माता दी 🙏🏼
+2026-05-06 10:05:19,484 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 10:05:25,003 [telethon.client.updates] INFO: Got difference for account updates
+2026-05-06 10:06:44,355 [MomentumScalper] INFO: [NIFTY] Armed PE on Momentum Candle Low: 24099.25
+2026-05-06 10:06:49,356 [OptionTrader] INFO: TF [NIFTY] PE: passed=False RSI14 not 35-60
+2026-05-06 10:06:49,356 [OptionTrader] INFO: Auto signal TF blocked: RSI14 not 35-60
+2026-05-06 10:06:56,362 [MomentumScalper] INFO: [NIFTY] Armed PE on Momentum Candle Low: 24099.25
+2026-05-06 10:07:11,366 [OptionTrader] INFO: TF [NIFTY] PE: passed=False RSI28 not 35-60
+2026-05-06 10:07:11,366 [OptionTrader] INFO: Auto signal TF blocked: RSI28 not 35-60
+2026-05-06 10:09:56,824 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-05-06 10:09:56,824 [TGReader] INFO: [FOREX ACADEMY] BUY  XAU/USD BELOW :- 4645
+
+
+TARGET : VIP 
+
+
+STOPLOSS  VIP
+2026-05-06 10:09:56,834 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 PE entry=None conf=65
+2026-05-06 10:15:44,846 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-05-06 10:15:44,862 [TGReader] INFO: [FOREX ACADEMY] 4645❤️
+2026-05-06 10:15:44,879 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:15:44,879 [TGReader] INFO: [FOREX ACADEMY] 4645.50❤️
+2026-05-06 10:15:44,879 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:15:44,879 [TGReader] INFO: [FOREX ACADEMY] 4646❤️
+2026-05-06 10:15:44,879 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:15:44,879 [TGReader] INFO: [FOREX ACADEMY] 4646.50❤️
+2026-05-06 10:15:44,879 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:15:44,879 [TGReader] INFO: [FOREX ACADEMY] 4647❤️
+2026-05-06 10:15:44,879 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:15:44,894 [TGReader] INFO: [FOREX ACADEMY] 4647.50❤️
+2026-05-06 10:15:44,894 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:15:44,894 [TGReader] INFO: [FOREX ACADEMY] 4648❤️
+2026-05-06 10:15:44,894 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:15:44,894 [TGReader] INFO: [FOREX ACADEMY] 4648.50❤️
+2026-05-06 10:15:44,894 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:15:44,910 [TGReader] INFO: [FOREX ACADEMY] 4649❤️
+2026-05-06 10:15:44,910 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:16:24,665 [TGReader] INFO: [FOREX ANYLIZER ™️] 4642🔼🔼
+2026-05-06 10:16:24,665 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:16:57,242 [TGReader] INFO: [FOREX ANYLIZER ™️] 4643🔼🔼
+2026-05-06 10:16:57,242 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:16:57,258 [TGReader] INFO: [FOREX ANYLIZER ™️] 4644.50🔼🔼
+2026-05-06 10:16:57,258 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:16:57,258 [TGReader] INFO: [FOREX ANYLIZER ™️] 4644🔼🔼
+2026-05-06 10:16:57,258 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:16:57,273 [TGReader] INFO: [FOREX ANYLIZER ™️] 4642.50🔼🔼
+2026-05-06 10:16:57,273 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:16:57,273 [TGReader] INFO: [FOREX ANYLIZER ™️] 4643.50🔼🔼
+2026-05-06 10:16:57,273 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:17:08,622 [TGReader] INFO: [👌 SMT - Education Group 👌] NIFTY 24250 CE Looking good 
+
+Above @ 160
+
+TARGET - 179 , 21
+2026-05-06 10:17:08,622 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=True NIFTY 24250 CE entry=160.0 conf=95
+2026-05-06 10:17:08,648 [MainGUI] INFO: Signal Received: BUY NIFTY CE
+2026-05-06 10:17:08,648 [OptionTrader] INFO: 📡 Telegram signal from [👌 SMT - Education Group 👌]: NIFTY CE — proceeding to buy best ATM
+2026-05-06 10:17:09,569 [OptionChain] ERROR: Option chain fetch NIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 10:17:10,720 [OptionChain] ERROR: Option chain fetch NIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 10:17:11,778 [OptionChain] ERROR: Option chain fetch NIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 10:17:12,784 [OptionChain] INFO: [BudgetGuard] NIFTY CE | micro=True | capital=₹2110 | lot=25 | max_prem=₹84
+2026-05-06 10:17:12,784 [OptionChain] WARNING: No chain data — skipping strike selection
+2026-05-06 10:17:12,784 [OptionTrader] WARNING: [NIFTY] No option chain — estimated ATM premium: ₹48.3 (index=24128). Connect Kotak for real prices.
+2026-05-06 10:17:12,784 [OptionTrader] INFO: PAPER order: NIFTY24250CE qty=25 @48.3
+2026-05-06 10:17:12,800 [OptionTrader] INFO: 📄 PAPER | 📡 TELEGRAM
+Trade Opened!
+━━━━━━━━━━━━━━━
+📊 NIFTY24250CE
+💵 Entry : 48.3
+🛑 SL    : 38.3
+🎯 T1    : 63.3
+🎯 T2    : 78.3
+📦 Qty   : 25 (1 lot)
+📈 Trend : SIDEWAYS
+📡 Source: 👌 SMT - Education Group 👌
+2026-05-06 10:17:14,507 [TGReader] INFO: [FOREX ANYLIZER ™️] 4645🔼🔼
+2026-05-06 10:17:14,507 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:17:14,522 [TGReader] INFO: [FOREX ANYLIZER ™️] 4645.50🔼🔼
+2026-05-06 10:17:14,522 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:17:14,580 [OptionChain] ERROR: Option chain fetch NIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 10:17:14,621 [TGReader] INFO: [FOREX ANYLIZER ™️] 4546🔼🔼
+2026-05-06 10:17:14,621 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4550 None entry=None conf=50
+2026-05-06 10:17:15,630 [OptionChain] ERROR: Option chain fetch NIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 10:17:16,688 [OptionChain] ERROR: Option chain fetch NIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-06 10:17:17,696 [Candlestick] INFO: [NextCandleAnalyzer] EXIT: Next candle REVERSAL: Bearish | O=24130.6 C=24124.1
+2026-05-06 10:17:18,234 [TGReader] INFO: [FOREX ANYLIZER ™️] 4646.50🔼🔼
+2026-05-06 10:17:18,234 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:17:19,189 [OptionTrader] INFO: Closed NIFTY24250CE CANDLE_Next candle REVERSAL: Bearish | O=24130.6 C=24124.1 pnl=0
+2026-05-06 10:17:19,189 [OptionTrader] INFO: [NextCandle] EXIT NIFTY24250CE: Next candle REVERSAL: Bearish | O=24130.6 C=24124.1
+2026-05-06 10:17:56,262 [TGReader] INFO: [FOREX ANYLIZER ™️] 4647🔼🔼
+2026-05-06 10:17:56,262 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:17:56,262 [TGReader] INFO: [FOREX ANYLIZER ™️] 4648🔼🔼
+2026-05-06 10:17:56,262 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:17:56,262 [TGReader] INFO: [FOREX ANYLIZER ™️] 4647.50🔼🔼
+2026-05-06 10:17:56,262 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:17:56,278 [TGReader] INFO: [FOREX ANYLIZER ™️] 4648.5🔼🔼
+2026-05-06 10:17:56,278 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:18:57,511 [TGReader] INFO: [FOREX ANYLIZER ™️] 4649🔼🔼
+2026-05-06 10:18:57,511 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:19:58,340 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-05-06 10:19:58,350 [TGReader] INFO: [FOREX ACADEMY] 4649.50💜
+2026-05-06 10:19:58,366 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:19:58,366 [TGReader] INFO: [FOREX ACADEMY] 4650❤️
+2026-05-06 10:19:58,366 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:19:58,366 [TGReader] INFO: [FOREX ACADEMY] 4651❤️
+2026-05-06 10:19:58,366 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:19:58,366 [TGReader] INFO: [FOREX ACADEMY] 4652❤️
+2026-05-06 10:19:58,366 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 None entry=None conf=50
+2026-05-06 10:23:58,288 [TGReader] INFO: [FOREX ACADEMY] 4645 To 4651🚀🚀
+
+60 PIPS RUNNING 🔥🔥
+
+WHAT A SUPER JACKPOT🤑🤑
+2026-05-06 10:23:58,319 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4650 CE entry=None conf=65
+2026-05-06 10:24:58,449 [TGReader] INFO: [FOREX ACADEMY] 🔤🔤🔤🔤🔤 🔤🔤🔤🔤🔤
+
+3 + 3 MONTH FREE 😍😍
+
+ONLY 2990 💠💠
+
+
+STILL THINK
+2026-05-06 10:24:58,449 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 3000 None entry=None conf=50
+2026-05-06 10:25:33,571 [TGReader] INFO: [👌 SMT - Education Group 👌] 162++✅✅
+2026-05-06 10:25:33,571 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 10:25:33,571 [TGReader] INFO: [FOREX ACADEMY] 100$ To 10000$ Challenge Start Krege Jisko Bhi Join Hona He 
+2026-05-06 10:25:33,571 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 10000 None entry=None conf=50
+2026-05-06 10:25:36,798 [TGReader] INFO: [👌 SMT - Education Group 👌] 165++✅✅
+2026-05-06 10:25:36,798 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 10:25:39,948 [TGReader] INFO: [👌 SMT - Education Group 👌] 171++✅✅
+2026-05-06 10:25:39,963 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 10:25:41,442 [TGReader] INFO: [👌 SMT - Education Group 👌] Safe Can Book Other Must Trail SL
+2026-05-06 10:25:41,442 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-05-06 10:26:13,589 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-06 10:26:21,611 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by ConnectTimeoutError(<HTTPSConnection(host='e43.kotaksecurities.com', port=443) at 0x2503cba11f0>, 'Connection to e43.kotaksecurities.com timed out. (connect timeout=8)'))
+2026-05-06 10:26:29,623 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by ConnectTimeoutError(<HTTPSConnection(host='e43.kotaksecurities.com', port=443) at 0x2503cc41a30>, 'Connection to e43.kotaksecurities.com timed out. (connect timeout=8)'))
+2026-05-06 10:26:37,636 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by ConnectTimeoutError(<HTTPSConnection(host='e43.kotaksecurities.com', port=443) at 0x2503c965100>, 'Connection to e43.kotaksecurities.com timed out. (connect timeout=8)'))
+2026-05-06 10:26:45,642 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by ConnectTimeoutError(<HTTPSConnection(host='e43.kotaksecurities.com', port=443) at 0x250386ae420>, 'Connection to e43.kotaksecurities.com timed out. (connect timeout=8)'))
+2026-05-06 10:26:53,646 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by ConnectTimeoutError(<HTTPSConnection(host='e43.kotaksecurities.com', port=443) at 0x250386ad3a0>, 'Connection to e43.kotaksecurities.com timed out. (connect timeout=8)'))
+2026-05-06 10:26:53,646 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:53,646 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:53,656 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:53,656 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:56,664 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:56,664 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:56,679 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:56,679 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:56,712 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:56,712 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:56,712 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:56,712 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:56,727 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:56,727 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:59,737 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:59,737 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:59,737 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:59,753 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:59,753 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:59,763 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:59,763 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:59,763 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:59,778 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:26:59,778 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:02,792 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:02,792 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:02,808 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:02,818 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:02,818 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:02,818 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:02,833 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:02,833 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:02,833 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:02,833 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:05,848 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:05,853 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:05,853 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:05,853 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:05,853 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:05,853 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:05,869 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:05,869 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:05,869 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:05,869 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:08,886 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:08,886 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:08,886 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:08,886 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:08,886 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:08,903 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:08,913 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:08,913 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:08,913 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:08,913 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:11,923 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:11,923 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:11,923 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:11,923 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:11,923 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:11,939 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:11,949 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:11,949 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:11,949 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:11,949 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:14,960 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:14,976 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:14,992 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:15,002 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:15,002 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:15,017 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:15,017 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:15,033 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:15,033 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:15,033 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:17,850 [telethon.network.connection.connection] WARNING: Server closed the connection: [WinError 121] The semaphore timeout period has expired
+2026-05-06 10:27:17,860 [telethon.network.mtprotosender] INFO: Connection closed while receiving data: [WinError 121] The semaphore timeout period has expired
+2026-05-06 10:27:17,860 [telethon.network.mtprotosender] INFO: Closing current connection to begin reconnect...
+2026-05-06 10:27:17,860 [telethon.network.connection.connection] INFO: <class 'OSError'> during disconnect: [WinError 121] The semaphore timeout period has expired
+2026-05-06 10:27:17,860 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-05-06 10:27:17,860 [telethon.network.mtprotosender] WARNING: Attempt 1 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:18,045 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:18,048 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:18,048 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:18,064 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:18,064 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:18,079 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:18,079 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:18,079 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:18,079 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:18,095 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:18,870 [telethon.network.mtprotosender] WARNING: Attempt 2 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:19,874 [telethon.network.mtprotosender] WARNING: Attempt 3 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:20,878 [telethon.network.mtprotosender] WARNING: Attempt 4 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:21,106 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:21,106 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:21,106 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:21,106 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:21,122 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:21,122 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:21,122 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:21,122 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:21,138 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:21,138 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:21,880 [telethon.network.mtprotosender] WARNING: Attempt 5 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:22,882 [telethon.network.mtprotosender] WARNING: Attempt 6 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:23,885 [telethon.network.mtprotosender] INFO: Failed reconnection attempt 1 with ConnectionError
+2026-05-06 10:27:24,149 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:24,149 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:24,149 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:24,149 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:24,149 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:24,165 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:24,165 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:24,183 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:24,187 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:24,191 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:24,893 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-05-06 10:27:24,893 [telethon.network.mtprotosender] WARNING: Attempt 1 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:25,906 [telethon.network.mtprotosender] WARNING: Attempt 2 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:26,923 [telethon.network.mtprotosender] WARNING: Attempt 3 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:27,230 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:27,230 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:27,230 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:27,246 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:27,256 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:27,256 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:27,256 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:27,272 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:27,272 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:27,288 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:27,932 [telethon.network.mtprotosender] WARNING: Attempt 4 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:28,936 [telethon.network.mtprotosender] WARNING: Attempt 5 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:29,962 [telethon.network.mtprotosender] WARNING: Attempt 6 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:30,301 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:30,301 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:30,301 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:30,316 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:30,316 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:30,316 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:30,332 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:30,332 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:30,348 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:30,348 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:30,965 [telethon.network.mtprotosender] INFO: Failed reconnection attempt 2 with ConnectionError
+2026-05-06 10:27:31,971 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-05-06 10:27:31,971 [telethon.network.mtprotosender] WARNING: Attempt 1 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:43,011 [telethon.network.mtprotosender] WARNING: Attempt 2 at connecting failed: TimeoutError: 
+2026-05-06 10:27:43,521 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:54,019 [telethon.network.mtprotosender] WARNING: Attempt 3 at connecting failed: TimeoutError: 
+2026-05-06 10:27:54,595 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:54,595 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:54,605 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:54,605 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:54,605 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:54,621 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:54,636 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:54,639 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:54,647 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:55,025 [telethon.network.mtprotosender] WARNING: Attempt 4 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:56,048 [telethon.network.mtprotosender] WARNING: Attempt 5 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:57,061 [telethon.network.mtprotosender] WARNING: Attempt 6 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:27:57,681 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:57,697 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:57,707 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:57,738 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:57,748 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:57,748 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:57,764 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:57,764 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:57,780 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:57,780 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:27:58,076 [telethon.network.mtprotosender] INFO: Failed reconnection attempt 3 with ConnectionError
+2026-05-06 10:27:59,094 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-05-06 10:27:59,094 [telethon.network.mtprotosender] WARNING: Attempt 1 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:28:00,098 [telethon.network.mtprotosender] WARNING: Attempt 2 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:28:00,788 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:00,788 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:00,798 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:00,798 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:00,798 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:00,798 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:00,798 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:00,798 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:00,814 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:00,814 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:01,112 [telethon.network.mtprotosender] WARNING: Attempt 3 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:28:02,394 [telethon.network.mtprotosender] WARNING: Attempt 4 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:28:13,421 [telethon.network.mtprotosender] WARNING: Attempt 5 at connecting failed: TimeoutError: 
+2026-05-06 10:28:14,423 [telethon.network.mtprotosender] WARNING: Attempt 6 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:28:14,820 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:14,820 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:14,820 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:14,836 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:14,836 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:14,846 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:14,846 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:14,846 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:14,846 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:14,861 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:15,428 [telethon.network.mtprotosender] INFO: Failed reconnection attempt 4 with ConnectionError
+2026-05-06 10:28:16,430 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-05-06 10:28:16,430 [telethon.network.mtprotosender] WARNING: Attempt 1 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:28:17,457 [telethon.network.mtprotosender] WARNING: Attempt 2 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:28:17,871 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:17,871 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:17,871 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:17,871 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:17,886 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:17,886 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:17,886 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:17,896 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:17,896 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:17,896 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:18,463 [telethon.network.mtprotosender] WARNING: Attempt 3 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:28:19,477 [telethon.network.mtprotosender] WARNING: Attempt 4 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:28:20,479 [telethon.network.mtprotosender] WARNING: Attempt 5 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:28:20,904 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:20,911 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:20,911 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:20,911 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:20,926 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:20,926 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:20,926 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:20,926 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:20,926 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:20,942 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:21,487 [telethon.network.mtprotosender] WARNING: Attempt 6 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2026-05-06 10:28:22,500 [telethon.network.mtprotosender] INFO: Failed reconnection attempt 5 with ConnectionError
+2026-05-06 10:28:23,519 [telethon.network.mtprotosender] ERROR: Automatic reconnection failed 5 time(s)
+2026-05-06 10:28:23,519 [telethon.network.mtprotosender] INFO: Disconnecting from 91.108.56.189:443/TcpFull...
+2026-05-06 10:28:23,519 [telethon.network.mtprotosender] INFO: Disconnection from 91.108.56.189:443/TcpFull complete!
+2026-05-06 10:28:23,519 [asyncio] ERROR: Future exception was never retrieved
+future: <Future finished exception=ConnectionError('Connection to Telegram failed 5 time(s)')>
+ConnectionError: Connection to Telegram failed 5 time(s)
+2026-05-06 10:28:23,519 [telethon.network.mtprotosender] INFO: Not disconnecting (already have no connection)
+2026-05-06 10:28:23,650 [TGReader] ERROR: TG error: Connection to Telegram failed 5 time(s)
+2026-05-06 10:28:23,650 [Bot] ERROR: Bot send: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7996284517:AAEL3r8fgSs2WuX3VBhLiuOINTBy3Rgq8xU/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:23,950 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:23,950 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:23,957 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:23,957 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:23,957 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:23,957 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:23,957 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:23,973 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:23,973 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:23,973 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:26,988 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:26,988 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:26,988 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:26,988 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:26,988 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:27,003 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:27,003 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:27,013 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:27,013 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:27,013 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:30,022 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:30,022 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:30,022 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:30,022 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:30,022 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:30,038 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:30,038 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:30,048 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:30,048 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:30,048 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:33,057 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:33,057 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:33,073 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:33,073 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:33,088 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:33,098 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:33,098 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:33,114 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:33,114 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:33,114 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:36,127 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:36,127 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:36,127 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:36,127 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:36,142 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:36,142 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:36,152 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:36,152 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:36,152 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:36,152 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:49,386 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:56,436 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:56,463 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:56,504 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:56,520 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:56,520 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:56,535 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:56,578 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:56,760 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:56,760 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:59,775 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:59,775 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:59,775 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:59,791 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:59,791 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:59,801 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:59,801 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:59,801 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:59,801 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:28:59,816 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:02,823 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:02,823 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:02,823 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:02,839 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:02,839 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:02,839 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:02,849 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:02,849 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:02,849 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:02,849 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:05,863 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:05,863 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:05,863 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:05,879 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:05,879 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:05,895 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:05,905 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:05,905 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:05,905 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:05,905 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:09,645 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%2050/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:09,645 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Bank/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:09,656 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNifty%20Fin%20Service/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:09,656 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/nse_cm%7CNIFTY%20MID%20SELECT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:09,656 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CS%26P%20BSE%20BANKEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:09,672 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/bse_cm%7CSENSEX/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:09,688 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:09,688 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CCRUDEOIL26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:09,698 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26MAYFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 10:29:09,698 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Max retries exceeded with url: /script-details/1.0/quotes/neosymbol/mcx_fo%7CNATURALGAS26JUNFUT/ltp (Caused by NameResolutionError("HTTPSConnection(host='e43.kotaksecurities.com', port=443): Failed to resolve 'e43.kotaksecurities.com' ([Errno 11001] getaddrinfo failed)"))
+2026-05-06 11:44:45,110 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-06 12:21:57,429 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-06 14:22:29,806 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-06 14:51:42,735 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-06 16:07:12,106 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-06 16:23:50,042 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-06 16:42:22,778 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)

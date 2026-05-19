@@ -1,0 +1,10 @@
+2026-04-22 23:36:36,634 [MainGUI] INFO: Capital loaded: ₹1,000.00
+2026-04-22 23:36:37,032 [KotakAPI] INFO: TOTP: 185033
+2026-04-22 23:36:37,592 [MainGUI] INFO: Kotak API login successful.
+2026-04-22 23:36:37,707 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-22 23:36:37,724 [telethon.crypto.aes] INFO: cryptg detected, it will be used for encryption
+2026-04-22 23:36:39,415 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-22 23:36:39,529 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-22 23:36:45,930 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-22 23:36:57,442 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-22 23:37:12,421 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)

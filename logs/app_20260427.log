@@ -1,0 +1,1163 @@
+2026-04-27 08:30:40,547 [MainGUI] INFO: Capital loaded: ₹1,000.00
+2026-04-27 08:30:40,547 [MainGUI] INFO: Mapped CRUDEOIL to exact Kotak string: CRUDEOIL24NOVFUT
+2026-04-27 08:30:40,547 [MainGUI] INFO: Mapped NATURALGAS to exact Kotak string: NATURALGAS24NOVFUT
+2026-04-27 08:30:40,578 [MT5_API] ERROR: MT5 initialize() failed, error code: (-10003, 'IPC initialize failed, MetaTrader 5 x64 not found')
+2026-04-27 08:30:40,594 [MainGUI] INFO: XM MT5 Login Failed. Check credentials.
+2026-04-27 08:30:41,485 [KotakAPI] INFO: TOTP: 111609
+2026-04-27 08:30:42,453 [MainGUI] INFO: Kotak API login successful.
+2026-04-27 08:30:43,532 [Database] INFO: Connected to SQL Server: LKS_Trader_DB
+2026-04-27 08:30:43,672 [Database] INFO: Database Tables Verified
+2026-04-27 08:30:43,672 [MainGUI] INFO: Connected to Microsoft SQL Server Database.
+2026-04-27 08:30:43,672 [AIDirector] INFO: AI Director starting morning analysis...
+2026-04-27 08:30:44,000 [AIDirector] INFO: No past trade data found. Using SMC_SCALP default.
+2026-04-27 08:30:44,032 [MainGUI] INFO: 🤖 AI Director Selected Strategy: SMC_SCALP
+2026-04-27 08:30:45,078 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-27 08:30:45,094 [telethon.crypto.aes] INFO: cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-04-27 08:30:45,485 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-27 08:30:45,563 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-27 08:30:46,688 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-27 08:30:46,688 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-04-27 08:30:46,703 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-04-27 08:30:46,703 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-04-27 08:30:46,703 [TGReader] INFO: Channel: Trading MasterMind
+2026-04-27 08:30:46,703 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-04-27 08:30:46,719 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-04-27 08:30:46,719 [TGReader] INFO: Channel: 
+2026-04-27 08:30:46,719 [TGReader] INFO: Channel: 
+2026-04-27 08:30:46,719 [TGReader] INFO: Channel: 
+2026-04-27 08:30:46,719 [TGReader] INFO: Channel: 
+2026-04-27 08:30:46,719 [TGReader] INFO: Channel: 
+2026-04-27 08:30:46,735 [TGReader] INFO: Channel: 
+2026-04-27 08:30:46,735 [TGReader] INFO: Channel: 
+2026-04-27 08:30:46,735 [TGReader] INFO: Channel: 
+2026-04-27 08:30:46,735 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,094 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,094 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,094 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,110 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,110 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,110 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,110 [TGReader] INFO: Channel: 9
+2026-04-27 08:30:47,110 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,110 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,110 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,110 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,125 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,125 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,125 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,453 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,453 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,453 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,453 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,453 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,469 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,469 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,469 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-27 08:30:47,469 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,469 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,469 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,469 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,485 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,485 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,485 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,485 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,500 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,500 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,500 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,500 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,500 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,500 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,516 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,516 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,516 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,516 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,532 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,532 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,532 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,532 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,532 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,532 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,532 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,547 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,547 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,982 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,982 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,982 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,982 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,982 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,982 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,998 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,998 [TGReader] INFO: Channel: 
+2026-04-27 08:30:47,998 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,013 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,013 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,013 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,013 [TGReader] INFO: Channel: A
+2026-04-27 08:30:48,013 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,013 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,013 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,029 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,029 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,029 [TGReader] INFO: Channel: R
+2026-04-27 08:30:48,029 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,029 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,045 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,045 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,045 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,045 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,263 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,279 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,279 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,279 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,279 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,279 [TGReader] INFO: Channel: 
+2026-04-27 08:30:48,295 [TGReader] INFO: Channel: 
+2026-04-27 08:30:49,857 [MainGUI] INFO: Telegram connected monitoring 97 channels
+2026-04-27 08:30:56,653 [telethon.client.users] INFO: Sleeping for 24s (0:00:24) on GetHistoryRequest flood wait
+2026-04-27 08:34:39,479 [TGReader] INFO: [👌 SMT - Education Group 👌] The Good Morning dear Family ♥️
+
+जय माता दी दोस्तों 🙏🏼
+2026-04-27 08:34:39,495 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 08:34:39,542 [TGReader] INFO: [👌 Stock Market Tps👌] The Good Morning dear Family ♥️
+
+जय माता दी दोस्तों 🙏🏼
+2026-04-27 08:34:39,542 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-04-27 08:43:47,967 [TGReader] INFO: [Trading MasterMind] 💥🔥JOIN OUR ZERO HERO GROUP 🔥💥
+
+Mastermind Primium💝
+Our Zero 
+2026-04-27 08:43:47,967 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None 10000 None entry=None conf=50
+2026-04-27 08:45:47,440 [telethon.client.updates] INFO: Got difference for channel 2554879920 updates
+2026-04-27 08:50:00,569 [TGReader] INFO: [FOREX ANYLIZER ™️] 1st MORE GOLD SELL DONE IN  VIP GROUP 👆👆
+
+4697 TO  4722🔥🔥
+
+2
+2026-04-27 08:50:00,569 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 08:50:48,865 [TGReader] INFO: [FOREX ANYLIZER ™️] 🔤🔤🔤🔤         🔤🔤🔤🔤
+
+⭐  LIFETIME COPY MY TRADE (VIP ) CHHANEL 
+2026-04-27 08:50:48,881 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 259350 CE entry=None conf=65
+2026-04-27 08:54:49,349 [TGReader] INFO: [FOREX ANYLIZER ™️] https://www.xm.com/gw.php?gid=259344
+
+ACCOUNT OPEN KRO GYS 🚀
+2026-04-27 08:54:49,349 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 259350 CE entry=None conf=65
+2026-04-27 08:56:49,642 [TGReader] INFO: [FOREX ANYLIZER ™️] 100$ To 100000$ Challenge Day :- 7
+
+Capital :- 13550$ 
+
+Prof
+2026-04-27 08:56:49,642 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 100000 None entry=None conf=55
+2026-04-27 09:00:46,326 [telethon.client.updates] INFO: Got difference for account updates
+2026-04-27 09:06:25,256 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-27 09:15:46,435 [telethon.client.updates] INFO: Got difference for account updates
+2026-04-27 09:15:46,435 [TGReader] INFO: [Trading MasterMind] 💥💥BOOM💥💥
+2026-04-27 09:15:46,450 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:15:48,497 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 09:17:06,149 [TGReader] INFO: [👌 SMT - Education Group 👌] NIFTY 23950 CE Looking good 
+
+Above @ 180
+
+TARGET - 195, 210
+2026-04-27 09:17:06,149 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=True NIFTY 23950 CE entry=180.0 conf=95
+2026-04-27 09:17:06,165 [MainGUI] INFO: Signal Received: BUY NIFTY CE
+2026-04-27 09:17:06,165 [OptionTrader] INFO: Market closed for NIFTY — signal ignored
+2026-04-27 09:17:51,668 [TGReader] INFO: [👌 SMT - Education Group 👌] Buy only 180 above ✔️
+2026-04-27 09:17:51,668 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None CE entry=None conf=55
+2026-04-27 09:17:51,684 [TGReader] INFO: [Trading MasterMind] SENSEX 77000 CE ABOVE 680
+
+TARGET- 720/750/780
+
+SL- PAID
+2026-04-27 09:17:51,700 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=True SENSEX 77000 CE entry=680.0 conf=90
+2026-04-27 09:17:51,715 [MainGUI] INFO: Signal Received: BUY SENSEX CE
+2026-04-27 09:17:51,715 [OptionTrader] INFO: Market closed for SENSEX — signal ignored
+2026-04-27 09:17:51,715 [TGReader] INFO: [👌 Stock Market Tps👌] NIFTY 23950 CE Looking good 
+
+Above @ 180
+
+TARGET - 195, 210
+2026-04-27 09:17:51,715 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=True NIFTY 23950 CE entry=180.0 conf=90
+2026-04-27 09:17:51,747 [MainGUI] INFO: Signal Received: BUY NIFTY CE
+2026-04-27 09:17:51,747 [OptionTrader] INFO: Market closed for NIFTY — signal ignored
+2026-04-27 09:18:52,233 [TGReader] INFO: [👌 Stock Market Tps👌] Buy only 180 above ✔️
+2026-04-27 09:18:52,249 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None CE entry=None conf=55
+2026-04-27 09:21:44,861 [TGReader] INFO: [👌 SMT - Education Group 👌] 183++✅✅
+2026-04-27 09:21:44,861 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 09:21:50,221 [TGReader] INFO: [👌 SMT - Education Group 👌] 186++✅✅
+2026-04-27 09:21:50,221 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 09:21:55,395 [TGReader] INFO: [👌 SMT - Education Group 👌] 190++✅✅
+2026-04-27 09:21:55,395 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 09:22:00,804 [TGReader] INFO: [👌 SMT - Education Group 👌] 193++✅✅
+2026-04-27 09:22:00,820 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 09:22:09,068 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-27 09:22:52,709 [TGReader] INFO: [👌 Stock Market Tps👌] 186++✅✅
+2026-04-27 09:22:52,709 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-04-27 09:22:52,709 [TGReader] INFO: [👌 Stock Market Tps👌] 183++✅✅
+2026-04-27 09:22:52,725 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-04-27 09:23:52,842 [TGReader] INFO: [👌 Stock Market Tps👌] 190++✅✅
+2026-04-27 09:23:52,842 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-04-27 09:23:52,858 [TGReader] INFO: [👌 Stock Market Tps👌] 193++✅✅
+2026-04-27 09:23:52,858 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-04-27 09:25:53,073 [TGReader] INFO: [PREMIUM LEARNING] BUY ABOVE :- 140
+
+Target : 170/200
+2026-04-27 09:25:53,089 [SignalParser] INFO: Parsed [PREMIUM LEARNING]: valid=False None None CE entry=None conf=60
+2026-04-27 09:25:53,089 [TGReader] INFO: [PREMIUM LEARNING] Wait For Trigger👍🏻👍🏻
+2026-04-27 09:25:53,089 [SignalParser] INFO: Parsed [PREMIUM LEARNING]: valid=False None None None entry=None conf=40
+2026-04-27 09:26:00,725 [TGReader] INFO: [👌 SMT - Education Group 👌] 🔳  196++✅✅
+
+👉 1st Target🎯 done✅
+
+जय माता दी 🙏🏼
+2026-04-27 09:26:00,725 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 09:26:48,895 [TGReader] INFO: [👌 Stock Market Tps👌] 🔳  196++✅✅
+
+👉 1st Target🎯 done✅
+
+जय माता दी 🙏🏼
+2026-04-27 09:26:48,895 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-04-27 09:26:49,036 [TGReader] INFO: [👌 SMT - Education Group 👌] 200++✅✅
+2026-04-27 09:26:49,036 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 09:27:31,193 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-27 09:27:31,208 [TGReader] INFO: [👌 SMT - Education Group 👌] 205++✅✅
+2026-04-27 09:27:31,208 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 09:27:53,363 [TGReader] INFO: [👌 Stock Market Tps👌] 200++✅✅
+2026-04-27 09:27:53,363 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-04-27 09:27:53,363 [TGReader] INFO: [👌 Stock Market Tps👌] 205++✅✅
+2026-04-27 09:27:53,363 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-04-27 09:28:54,034 [telethon.client.updates] INFO: Got difference for channel 1242754182 updates
+2026-04-27 09:30:46,601 [telethon.client.updates] INFO: Got difference for account updates
+2026-04-27 09:30:46,601 [TGReader] INFO: [FOREX ANYLIZER ™️] 🔤🔤🔤🔤         🔤🔤🔤🔤
+
+⭐  LIFETIME COPY MY TRADE (VIP ) CHHANEL 
+2026-04-27 09:30:46,617 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 259350 CE entry=None conf=65
+2026-04-27 09:30:47,113 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-27 09:30:47,457 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-04-27 09:30:48,613 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 09:31:53,874 [TGReader] INFO: [FOREX ANYLIZER ™️] ACCOUNT OPEN FAST AND GET FREE LIFETIME VIP GROUP ACCESS 🔥🔥
+2026-04-27 09:31:53,874 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None None None entry=None conf=40
+2026-04-27 09:31:53,874 [TGReader] INFO: [FOREX ANYLIZER ™️] NEW BIG JACKPOT READY HAI MISS NHI HONA CHAHIYE 🚨🚨
+2026-04-27 09:31:53,889 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,659 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 09:33:54,659 [TGReader] INFO: [Trading MasterMind] 682🦋🦋
+2026-04-27 09:33:54,659 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,659 [TGReader] INFO: [Trading MasterMind] 685🦋🦋
+2026-04-27 09:33:54,675 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,675 [TGReader] INFO: [Trading MasterMind] 687🦋🦋
+2026-04-27 09:33:54,675 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,675 [TGReader] INFO: [Trading MasterMind] 690🦋🦋
+2026-04-27 09:33:54,675 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,675 [TGReader] INFO: [Trading MasterMind] 692🦋🦋
+2026-04-27 09:33:54,675 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,675 [TGReader] INFO: [Trading MasterMind] 695🦋🦋
+2026-04-27 09:33:54,675 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,690 [TGReader] INFO: [Trading MasterMind] 697🦋🦋
+2026-04-27 09:33:54,706 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,706 [TGReader] INFO: [Trading MasterMind] 700🦋🦋
+2026-04-27 09:33:54,722 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,722 [TGReader] INFO: [Trading MasterMind] 702🦋🦋
+2026-04-27 09:33:54,722 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,722 [TGReader] INFO: [Trading MasterMind] 705🦋🦋
+2026-04-27 09:33:54,722 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,722 [TGReader] INFO: [Trading MasterMind] 708🦋🦋
+2026-04-27 09:33:54,737 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,737 [TGReader] INFO: [Trading MasterMind] 710🦋🦋
+2026-04-27 09:33:54,737 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,753 [TGReader] INFO: [Trading MasterMind] 712🦋🦋
+2026-04-27 09:33:54,753 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,753 [TGReader] INFO: [Trading MasterMind] 715🦋🦋
+2026-04-27 09:33:54,753 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,753 [TGReader] INFO: [Trading MasterMind] 717🦋🦋
+2026-04-27 09:33:54,753 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:33:54,753 [TGReader] INFO: [Trading MasterMind] 720🦋🦋
+2026-04-27 09:33:54,769 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:34:18,969 [TGReader] INFO: [Trading MasterMind] ✨ FIRST TARGET DONE✨🔖
+
+       🕯🛍MAZA AAGYA🛍🕯
+2026-04-27 09:34:19,000 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:34:34,885 [TGReader] INFO: [Trading MasterMind] 🔖✨ FIRST TARGET DONE✨🔖
+
+       🕯🛍MAZA AAGYA🛍🕯
+2026-04-27 09:34:34,885 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:34:34,901 [TGReader] INFO: [Trading MasterMind] 722🦋🦋
+2026-04-27 09:34:34,901 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:34:34,901 [TGReader] INFO: [Trading MasterMind] 722🦋🦋
+2026-04-27 09:34:34,901 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:34:54,265 [TGReader] INFO: [Trading MasterMind] 726🦋🦋
+2026-04-27 09:34:54,265 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:34:54,280 [TGReader] INFO: [Trading MasterMind] 730🦋🦋
+2026-04-27 09:34:54,280 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:34:54,280 [TGReader] INFO: [Trading MasterMind] 724🦋🦋
+2026-04-27 09:34:54,280 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:34:54,280 [TGReader] INFO: [Trading MasterMind] 732🦋🦋
+2026-04-27 09:34:54,280 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:34:54,296 [TGReader] INFO: [Trading MasterMind] 734🦋🦋
+2026-04-27 09:34:54,296 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:34:54,296 [TGReader] INFO: [Trading MasterMind] 728🦋🦋
+2026-04-27 09:34:54,296 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:34:54,296 [TGReader] INFO: [PREMIUM LEARNING] EXIT KR DO COST TO COST👍🏻👍🏻
+2026-04-27 09:34:54,312 [SignalParser] INFO: Parsed [PREMIUM LEARNING]: valid=False None None None entry=None conf=40
+2026-04-27 09:34:54,312 [TGReader] INFO: [Trading MasterMind] 736🦋🦋
+2026-04-27 09:34:54,312 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:34:54,766 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 09:34:54,766 [TGReader] INFO: [Trading MasterMind] 738🦋🦋
+2026-04-27 09:34:54,781 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:00,532 [TGReader] INFO: [Trading MasterMind] 740🦋🦋
+2026-04-27 09:35:00,532 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:00,532 [TGReader] INFO: [Trading MasterMind] 744🦋🦋
+2026-04-27 09:35:00,532 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:00,548 [TGReader] INFO: [Trading MasterMind] 742🦋🦋
+2026-04-27 09:35:00,548 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:10,174 [TGReader] INFO: [Trading MasterMind] 746🦋🦋
+2026-04-27 09:35:10,174 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:10,720 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 09:35:10,736 [TGReader] INFO: [Trading MasterMind] 750🦋🦋
+2026-04-27 09:35:10,736 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:54,368 [TGReader] INFO: [PREMIUM LEARNING] NO LOSS 👍🏻👍🏻
+2026-04-27 09:35:54,368 [SignalParser] INFO: Parsed [PREMIUM LEARNING]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:54,431 [TGReader] INFO: [Trading MasterMind] 🔖✨ SECOND TARGET DONE✨🔖
+
+       🕯🛍MAZA AAGYA🛍🕯
+2026-04-27 09:35:54,431 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:54,446 [TGReader] INFO: [Trading MasterMind] 756🦋🦋
+2026-04-27 09:35:54,446 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:54,446 [TGReader] INFO: [Trading MasterMind] 752🦋🦋
+2026-04-27 09:35:54,446 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:54,446 [TGReader] INFO: [Trading MasterMind] 760🦋🦋
+2026-04-27 09:35:54,462 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:54,462 [TGReader] INFO: [Trading MasterMind] 754🦋🦋
+2026-04-27 09:35:54,462 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:54,477 [TGReader] INFO: [Trading MasterMind] 758🦋🦋
+2026-04-27 09:35:54,477 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:54,477 [TGReader] INFO: [Trading MasterMind] 764🦋🦋
+2026-04-27 09:35:54,477 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:54,477 [TGReader] INFO: [Trading MasterMind] 762🦋🦋
+2026-04-27 09:35:54,477 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:54,493 [TGReader] INFO: [Trading MasterMind] 770🦋🦋
+2026-04-27 09:35:54,493 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:54,509 [TGReader] INFO: [Trading MasterMind] 766🦋🦋
+2026-04-27 09:35:54,509 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:54,509 [TGReader] INFO: [Trading MasterMind] 772🦋🦋
+2026-04-27 09:35:54,509 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:54,509 [TGReader] INFO: [Trading MasterMind] 775🦋🦋
+2026-04-27 09:35:54,509 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:54,524 [TGReader] INFO: [Trading MasterMind] 777🦋🦋
+2026-04-27 09:35:54,524 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:54,540 [TGReader] INFO: [Trading MasterMind] 780🦋🦋
+2026-04-27 09:35:54,540 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:35:55,208 [TGReader] INFO: [Trading MasterMind] 🔖✨ ALL TARGET DONE✨🔖
+
+       🕯🛍MAZA AAGYA🛍🕯
+2026-04-27 09:35:55,208 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:36:54,981 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 09:36:54,997 [TGReader] INFO: [Trading MasterMind] FROM 680 TO 780💥💥💥💥
+#LIVE SURESHOT ZERO HERO JACKPOT TRADE R
+2026-04-27 09:36:54,997 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:38:55,339 [telethon.client.updates] INFO: Got difference for channel 1242754182 updates
+2026-04-27 09:42:31,296 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-27 09:43:55,347 [TGReader] INFO: [FOREX ACADEMY] SELL  XAU/USD BELOW :- 4727
+
+
+TARGET : VIP 
+
+
+STOPLOSS : VIP
+2026-04-27 09:43:55,347 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4750 PE entry=None conf=65
+2026-04-27 09:43:55,847 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 09:43:55,847 [TGReader] INFO: [Trading MasterMind] 💥🔥JOIN OUR ZERO HERO GROUP 🔥💥
+
+Mastermind Primium💝
+Our Zero 
+2026-04-27 09:43:55,862 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None 10000 None entry=None conf=50
+2026-04-27 09:43:55,987 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-27 09:45:47,563 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-04-27 09:48:55,938 [TGReader] INFO: [FOREX ACADEMY] 4726.50❤️
+2026-04-27 09:48:55,938 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4750 None entry=None conf=50
+2026-04-27 09:48:55,954 [TGReader] INFO: [FOREX ACADEMY] 4727❤️
+2026-04-27 09:48:55,954 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4750 None entry=None conf=50
+2026-04-27 09:49:26,282 [TGReader] INFO: [FOREX ACADEMY] 4726❤️
+2026-04-27 09:49:26,282 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4750 None entry=None conf=50
+2026-04-27 09:49:26,298 [TGReader] INFO: [FOREX ACADEMY] 4725❤️
+2026-04-27 09:49:26,298 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 09:49:26,298 [TGReader] INFO: [FOREX ACADEMY] 4725.50❤️
+2026-04-27 09:49:26,298 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 09:50:56,215 [TGReader] INFO: [Trading MasterMind] ZEROHERO PREMIUM GROUP 1st SEAT BOOKED✅
+2026-04-27 09:50:56,215 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:51:56,344 [TGReader] INFO: [Trading MasterMind] ZEROHERO PREMIUM GROUP 2nd SEAT BOOKED✅
+2026-04-27 09:51:56,344 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 09:57:31,399 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-27 10:02:57,691 [TGReader] INFO: [FOREX ACADEMY] 4727 To 4725🚀🚀
+
+20 PIPS RUNNING 🔥🔥
+
+WHAT A SUPER JACKPOT🤑🤑
+2026-04-27 10:02:57,691 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4750 CE entry=None conf=65
+2026-04-27 10:03:57,812 [TGReader] INFO: [FOREX ANYLIZER ™️] DON'T MISS 🚨
+2026-04-27 10:03:57,812 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None None None entry=None conf=40
+2026-04-27 10:12:31,513 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-27 10:13:47,956 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-27 10:20:30,396 [TGReader] INFO: [FOREX ACADEMY] 🔹NEXT GOLD TRADE COMING SOON IN PREMIUM GROUP PAY AND JOIN F
+2026-04-27 10:20:30,396 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None None None entry=None conf=40
+2026-04-27 10:20:30,428 [TGReader] INFO: [FOREX ACADEMY] 🔤🔤🔤🔤🔤 🔤🔤🔤🔤🔤
+
+3 + 3 MONTH FREE 😍😍
+
+ONLY 2990 💠💠
+
+
+STILL THINK
+2026-04-27 10:20:30,428 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 3000 None entry=None conf=50
+2026-04-27 10:27:31,605 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-27 10:33:02,144 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 10:33:02,159 [TGReader] INFO: [Trading MasterMind] 💥🔥JOIN OUR ZERO HERO GROUP 🔥💥
+
+Mastermind Primium💝
+Our Zero 
+2026-04-27 10:33:02,175 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None 10000 None entry=None conf=50
+2026-04-27 10:38:02,233 [TGReader] INFO: [FOREX ACADEMY] NEW JACKPOT READY HE JALDI KRO🚀🚀🚀🚀🚀
+2026-04-27 10:38:02,249 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None None CE entry=None conf=55
+2026-04-27 10:38:57,563 [telethon.client.updates] INFO: Got difference for channel 1242754182 updates
+2026-04-27 10:42:31,830 [TGReader] INFO: [Trading MasterMind] 🚀🚀MORNING BIG BLAST JACKPOT TRADE DONE IN PAID GROUP🚀🚀
+2026-04-27 10:42:31,846 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-04-27 10:45:47,678 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 10:45:47,693 [TGReader] INFO: [Trading MasterMind] ❤️‍🩹💰✨MONEY 3 TIMES✨💰❤️‍🩹
+
+     😎🥳 MAZA AAGYA 🥳😎
+
+👀🔝 AAJ PAI
+2026-04-27 10:45:47,693 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 10:45:52,612 [TGReader] INFO: [Trading MasterMind] ❤️‍🩹💰✨MONEY 5 TIMES✨💰❤️‍🩹
+
+     😎🥳 MAZA AAGYA 🥳😎
+
+👀🔝 AAJ PAI
+2026-04-27 10:45:52,612 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 10:46:03,138 [TGReader] INFO: [Trading MasterMind] ❤️‍🩹💰✨MONEY 7 TIMES✨💰❤️‍🩹
+
+     😎🥳 MAZA AAGYA 🥳😎
+
+👀🔝 AAJ PAI
+2026-04-27 10:46:03,138 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 10:46:45,593 [TGReader] INFO: [Trading MasterMind] ❤️‍🩹💰✨MONEY 10 TIMES✨💰❤️‍🩹
+
+     😎🥳 MAZA AAGYA 🥳😎
+
+👀🔝 AAJ PA
+2026-04-27 10:46:45,593 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 10:46:45,593 [TGReader] INFO: [Trading MasterMind] ❤️‍🩹💰✨MONEY 13 TIMES✨💰❤️‍🩹
+
+     😎🥳 MAZA AAGYA 🥳😎
+
+👀🔝 AAJ PA
+2026-04-27 10:46:45,593 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 10:47:03,290 [TGReader] INFO: [Trading MasterMind] ❤️‍🩹💰✨MONEY 20 TIMES✨💰❤️‍🩹
+
+     😎🥳 MAZA AAGYA 🥳😎
+
+👀🔝 AAJ PA
+2026-04-27 10:47:03,306 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 10:47:03,306 [TGReader] INFO: [Trading MasterMind] ❤️‍🩹💰✨MONEY 16 TIMES✨💰❤️‍🩹
+
+     😎🥳 MAZA AAGYA 🥳😎
+
+👀🔝 AAJ PA
+2026-04-27 10:47:03,306 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 10:48:03,686 [TGReader] INFO: [Trading MasterMind] ❤️‍🩹💰✨MONEY 25 TIMES✨💰❤️‍🩹
+
+     😎🥳 MAZA AAGYA 🥳😎
+
+👀🔝 AAJ PA
+2026-04-27 10:48:03,686 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 10:48:03,702 [TGReader] INFO: [Trading MasterMind] ❤️‍🩹💰✨MONEY 32 TIMES✨💰❤️‍🩹
+
+     😎🥳 MAZA AAGYA 🥳😎
+
+👀🔝 AAJ PA
+2026-04-27 10:48:03,718 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 10:48:03,718 [TGReader] INFO: [Trading MasterMind] ❤️‍🩹💰✨MONEY 30 TIMES✨💰❤️‍🩹
+
+     😎🥳 MAZA AAGYA 🥳😎
+
+👀🔝 AAJ PA
+2026-04-27 10:48:03,718 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 10:49:03,542 [TGReader] INFO: [Trading MasterMind] ❤️‍🩹💰✨MONEY 34 TIMES✨💰❤️‍🩹
+
+     😎🥳 MAZA AAGYA 🥳😎
+
+👀🔝 AAJ PA
+2026-04-27 10:49:03,557 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 10:49:03,557 [TGReader] INFO: [Trading MasterMind] 2 TO 68🔥🔥
+
+MONEY 34 TIMES🕯
+
+JACKPOT TRADE🚀
+
+ZERO TO HERO ☄️☄
+2026-04-27 10:49:03,557 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-04-27 10:49:50,297 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 10:52:04,032 [TGReader] INFO: [FOREX ANYLIZER ™️] READY ALLLLLL💥💥
+2026-04-27 10:52:04,032 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None None None entry=None conf=40
+2026-04-27 10:53:43,732 [telethon.client.updates] INFO: Got difference for channel 2554879920 updates
+2026-04-27 10:53:43,732 [TGReader] INFO: [FOREX ANYLIZER ™️] BUY XAU/USD BELOW :- 4718
+
+
+TARGET : VIP 
+
+
+STOPLOSS : VIP
+2026-04-27 10:53:43,732 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 PE entry=None conf=65
+2026-04-27 10:54:04,363 [TGReader] INFO: [Trading MasterMind] 💥🔥JOIN OUR ZERO HERO GROUP 🔥💥
+
+Mastermind Primium💝
+Our Zero 
+2026-04-27 10:54:04,363 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None 10000 None entry=None conf=50
+2026-04-27 10:55:21,259 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-27 10:55:21,259 [TGReader] INFO: [👌 SMT - Education Group 👌] NIFTY 24000 CE Looking good 
+
+Above @ 163
+
+TARGET - 180, 200
+2026-04-27 10:55:21,259 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=True NIFTY 24000 CE entry=163.0 conf=95
+2026-04-27 10:55:21,274 [MainGUI] INFO: Signal Received: BUY NIFTY CE
+2026-04-27 10:55:21,274 [OptionTrader] INFO: TF [NIFTY] CE: passed=False Warmup 0/50
+2026-04-27 10:55:41,564 [TGReader] INFO: [👌 SMT - Education Group 👌] #pureriskytrade
+2026-04-27 10:55:41,564 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 10:56:04,525 [TGReader] INFO: [FOREX ACADEMY] 4724.50❤️
+2026-04-27 10:56:04,525 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 10:56:04,525 [TGReader] INFO: [FOREX ACADEMY] 4724❤️
+2026-04-27 10:56:04,525 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 10:56:04,525 [TGReader] INFO: [FOREX ACADEMY] 4723❤️
+2026-04-27 10:56:04,525 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 10:56:04,541 [TGReader] INFO: [FOREX ACADEMY] 4722.50❤️
+2026-04-27 10:56:04,541 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 10:56:04,541 [TGReader] INFO: [FOREX ACADEMY] 4723.50❤️
+2026-04-27 10:56:04,541 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 10:57:04,675 [TGReader] INFO: [FOREX ACADEMY] 4722❤️
+2026-04-27 10:57:04,675 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 10:57:04,690 [TGReader] INFO: [FOREX ACADEMY] 4721.60❤️
+2026-04-27 10:57:04,690 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 10:57:04,690 [TGReader] INFO: [FOREX ACADEMY] 4721❤️
+2026-04-27 10:57:04,690 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 10:57:04,690 [TGReader] INFO: [FOREX ACADEMY] 4720.50❤️
+2026-04-27 10:57:04,690 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 10:57:04,690 [TGReader] INFO: [FOREX ACADEMY] 4720❤️
+2026-04-27 10:57:04,706 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 10:57:04,706 [TGReader] INFO: [FOREX ACADEMY] 4718❤️
+2026-04-27 10:57:04,706 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 10:57:04,706 [TGReader] INFO: [FOREX ACADEMY] 4716❤️
+2026-04-27 10:57:04,706 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 10:57:04,706 [TGReader] INFO: [FOREX ACADEMY] 4717❤️
+2026-04-27 10:57:04,706 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 10:57:04,722 [TGReader] INFO: [FOREX ACADEMY] 4719❤️
+2026-04-27 10:57:04,722 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 10:57:04,722 [TGReader] INFO: [FOREX ACADEMY] 4727 To 4716🚀🚀
+
+110 PIPS RUNNING 🔥🔥
+
+WHAT A SUPER JACKPOT🤑🤑
+2026-04-27 10:57:04,722 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4750 CE entry=None conf=65
+2026-04-27 10:58:56,584 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-27 10:58:57,178 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-04-27 10:58:57,193 [TGReader] INFO: [FOREX ACADEMY] 1st  GOLD JACKPOT DONE IN VIP GROUP 👆👆😍
+
+4720 To  4716++💥💥
+
+
+2026-04-27 10:58:57,193 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 10:59:04,897 [TGReader] INFO: [FOREX ACADEMY] 🔤🔤🔤🔤🔤 🔤🔤🔤🔤🔤
+
+3 + 3 MONTH FREE 😍😍
+
+ONLY 2990 💠💠
+
+
+STILL THINK
+2026-04-27 10:59:04,897 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 3000 None entry=None conf=50
+2026-04-27 11:00:00,542 [TGReader] INFO: [FOREX ACADEMY] 🔹NEXT GOLD TRADE COMING SOON IN PREMIUM GROUP PAY AND JOIN F
+2026-04-27 11:00:00,542 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None None None entry=None conf=40
+2026-04-27 11:00:47,662 [telethon.client.updates] INFO: Got difference for account updates
+2026-04-27 11:00:47,662 [TGReader] INFO: [FOREX ANYLIZER ™️] 4718🔼🔼
+2026-04-27 11:00:47,662 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 11:00:47,662 [TGReader] INFO: [FOREX ANYLIZER ™️] 4718.50🔼🔼
+2026-04-27 11:00:47,662 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 11:00:47,662 [TGReader] INFO: [FOREX ANYLIZER ™️] 4719🔼🔼
+2026-04-27 11:00:47,662 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 11:00:47,678 [TGReader] INFO: [FOREX ANYLIZER ™️] 4719.50🔼🔼
+2026-04-27 11:00:47,678 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 11:00:47,678 [TGReader] INFO: [FOREX ANYLIZER ™️] 4720🔼🔼
+2026-04-27 11:00:47,678 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 11:00:47,803 [telethon.client.updates] INFO: Got difference for channel 2421495601 updates
+2026-04-27 11:00:47,803 [TGReader] INFO: [PREMIUM LEARNING] VIDEO AANE VALI HE MUST IMPORTANT VIDEO HE SABHI KE LIYE PUR
+2026-04-27 11:00:47,803 [SignalParser] INFO: Parsed [PREMIUM LEARNING]: valid=False None None None entry=None conf=40
+2026-04-27 11:00:49,157 [telethon.client.updates] INFO: Got difference for channel 1562274895 updates
+2026-04-27 11:04:05,469 [TGReader] INFO: [FOREX ACADEMY] 50$ To 5000$ Challenge Day :- 06
+
+Today Profit :- 5$
+
+Runnin
+2026-04-27 11:04:05,485 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 5000 None entry=None conf=55
+2026-04-27 11:04:50,505 [TGReader] INFO: [FOREX ACADEMY] APKO BHI JOIN KRNA HE CHALLENGE ME JALDI KRO ABHI TO BS SURV
+2026-04-27 11:04:50,505 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None None None entry=None conf=40
+2026-04-27 11:05:12,278 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-27 11:06:06,283 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-27 11:06:28,652 [TGReader] INFO: [👌 SMT - Education Group 👌] SL hit ✔️
+2026-04-27 11:06:28,652 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 11:07:13,470 [OptionTrader] INFO: TF [BANKNIFTY] PE: passed=True EMA50✅ MOM✅ RSI40✅
+2026-04-27 11:07:13,517 [OptionChain] ERROR: Option chain fetch BANKNIFTY: Expecting value: line 1 column 1 (char 0)
+2026-04-27 11:07:13,517 [OptionChain] WARNING: No chain data — skipping strike selection
+2026-04-27 11:07:13,517 [OptionTrader] INFO: PAPER order: BANKNIFTY0PE qty=15 @50.0
+2026-04-27 11:07:13,517 [OptionTrader] INFO: 📄 Position Opened!
+━━━━━━━━━━━━━━━
+📊 BANKNIFTY0PE
+💵 Entry : 50.0
+🛑 SL    : 40.0
+🎯 T1    : 60.0
+🎯 T2    : 150.0
+📦 Qty   : 15 (15 lot)
+📈 Trend : SIDEWAYS
+📡 Source: auto_strategy
+2026-04-27 11:07:31,950 [OptionTrader] INFO: TF [FINNIFTY] PE: passed=True EMA50✅ MOM✅ RSI41✅
+2026-04-27 11:07:31,996 [OptionChain] ERROR: Option chain fetch FINNIFTY: Expecting value: line 1 column 1 (char 0)
+2026-04-27 11:07:32,012 [OptionChain] WARNING: No chain data — skipping strike selection
+2026-04-27 11:07:32,012 [OptionTrader] WARNING: Trade blocked: Cost ₹1250 > 80% of capital ₹1000
+2026-04-27 11:08:40,445 [OptionTrader] INFO: TF [SENSEX] PE: passed=True EMA50✅ MOM✅ RSI40✅
+2026-04-27 11:08:40,492 [OptionChain] ERROR: Option chain fetch SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-27 11:08:40,492 [OptionChain] WARNING: No chain data — skipping strike selection
+2026-04-27 11:08:40,492 [OptionTrader] INFO: PAPER order: SENSEX0PE qty=10 @50.0
+2026-04-27 11:08:40,492 [OptionTrader] INFO: 📄 Position Opened!
+━━━━━━━━━━━━━━━
+📊 SENSEX0PE
+💵 Entry : 50.0
+🛑 SL    : 40.0
+🎯 T1    : 60.0
+🎯 T2    : 150.0
+📦 Qty   : 10 (10 lot)
+📈 Trend : SIDEWAYS
+📡 Source: auto_strategy
+2026-04-27 11:12:17,780 [TGReader] INFO: [👌 SMT - Education Group 👌] NIFTY 23900 CE Looking good 
+
+Above @ 205
+
+TARGET - 220, 235
+2026-04-27 11:12:17,780 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=True NIFTY 23900 CE entry=205.0 conf=95
+2026-04-27 11:12:17,796 [MainGUI] INFO: Signal Received: BUY NIFTY CE
+2026-04-27 11:12:17,796 [OptionTrader] INFO: TF [NIFTY] CE: passed=True EMA50✅ MOM✅ RSI52✅
+2026-04-27 11:12:17,796 [OptionTrader] INFO: BOS not confirmed for CE
+2026-04-27 11:14:21,028 [TGReader] INFO: [👌 SMT - Education Group 👌] 208++✅✅
+2026-04-27 11:14:21,028 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 11:14:28,325 [TGReader] INFO: [👌 SMT - Education Group 👌] 212++✅✅
+2026-04-27 11:14:28,325 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 11:14:34,232 [TGReader] INFO: [👌 SMT - Education Group 👌] 215++✅✅
+2026-04-27 11:14:34,232 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 11:14:38,597 [TGReader] INFO: [👌 SMT - Education Group 👌] Safe book other trill SL ✔️
+2026-04-27 11:14:38,597 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 11:14:45,608 [TGReader] INFO: [👌 SMT - Education Group 👌] 217++✅✅
+2026-04-27 11:14:45,608 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 11:16:33,153 [TGReader] INFO: [👌 SMT - Education Group 👌] 🔳  222++✅✅
+
+👉 1st Target🎯 done✅
+
+जय माता दी 🙏🏼
+2026-04-27 11:16:33,169 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 11:18:11,302 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-27 11:18:11,302 [TGReader] INFO: [👌 SMT - Education Group 👌] 227++✅✅
+2026-04-27 11:18:11,302 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 11:19:50,525 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 11:21:06,398 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-27 11:22:14,781 [TGReader] INFO: [GOLD TRADER SAM] Good Morning Traders 😎 
+
+Decide to be great—because average 
+2026-04-27 11:22:14,781 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None None None entry=None conf=40
+2026-04-27 11:23:07,739 [TGReader] INFO: [GOLD TRADER SAM] Those who are serious about earning profits from gold tradin
+2026-04-27 11:23:07,739 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None None PE entry=None conf=55
+2026-04-27 11:30:00,644 [TGReader] INFO: [FOREX ANYLIZER ™️] Gold Jackpot :- 4718TO 4720🚀🚀
+
+30 Pips Running Profit🔥🔥
+
+Ful
+2026-04-27 11:30:00,644 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 CE entry=None conf=65
+2026-04-27 11:30:00,660 [TGReader] INFO: [Trading MasterMind] 💥🔥JOIN OUR ZERO HERO GROUP 🔥💥
+
+Mastermind Primium💝
+Our Zero 
+2026-04-27 11:30:00,660 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None 10000 None entry=None conf=50
+2026-04-27 11:30:00,660 [TGReader] INFO: [FOREX ANYLIZER ™️] 🔤🔤🔤🔤         🔤🔤🔤🔤
+
+⭐  LIFETIME COPY MY TRADE (VIP ) CHHANEL 
+2026-04-27 11:30:00,660 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 259350 CE entry=None conf=65
+2026-04-27 11:33:11,409 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-27 11:36:06,507 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-27 11:38:09,631 [TGReader] INFO: [FOREX ANYLIZER ™️] JALDI SE ACCOUNT OPEN KRO GUYS 250 PIPS SIGNAL COMING  IN VI
+2026-04-27 11:38:09,631 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None None None entry=None conf=40
+2026-04-27 11:41:10,325 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-27 11:42:10,605 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-04-27 11:42:10,605 [TGReader] INFO: [FOREX ACADEMY] NEW JACKPOT READY HE JALDI KRO😍😍
+2026-04-27 11:42:10,605 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None None None entry=None conf=40
+2026-04-27 11:43:10,267 [TGReader] INFO: [PREMIUM LEARNING] BUY ABOVE :- 120
+
+Target : 150/200
+2026-04-27 11:43:10,267 [SignalParser] INFO: Parsed [PREMIUM LEARNING]: valid=False None None CE entry=None conf=60
+2026-04-27 11:48:10,862 [TGReader] INFO: [Trading MasterMind] ✅✅HURRY UP GUYS JOIN FAST✅✅
+2026-04-27 11:48:10,862 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 11:52:11,327 [TGReader] INFO: [👌 Stock Market Tps👌] पहली बार इस RATE में जल्दी से लूट लो
+
+https://cosmofeed.com/
+2026-04-27 11:52:11,342 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-04-27 11:53:44,244 [telethon.client.updates] INFO: Got difference for channel 2554879920 updates
+2026-04-27 11:55:09,845 [TGReader] INFO: [PREMIUM LEARNING] Sl : 105
+2026-04-27 11:55:09,845 [SignalParser] INFO: Parsed [PREMIUM LEARNING]: valid=False None None None entry=None conf=45
+2026-04-27 12:02:13,002 [telethon.client.updates] INFO: Got difference for channel 1916910342 updates
+2026-04-27 12:03:11,611 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-27 12:07:13,086 [TGReader] INFO: [Trading MasterMind] 💥🔥JOIN OUR ZERO HERO GROUP 🔥💥
+
+Mastermind Primium💝
+Our Zero 
+2026-04-27 12:07:13,086 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None 10000 None entry=None conf=50
+2026-04-27 12:18:11,720 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-27 12:19:14,751 [TGReader] INFO: [FOREX ANYLIZER ™️] VIP GROUP MAIN TANDAV HO RAHA HAI 😍😍😍SOCHO MAT ACCOUNT OPEN 
+2026-04-27 12:19:14,751 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None None CE entry=None conf=55
+2026-04-27 12:33:11,819 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-27 12:35:16,769 [TGReader] INFO: [FOREX ANYLIZER ™️] 2nd  MORE GOLD SELL DONE IN  VIP GROUP 👆👆
+
+4715  TO  4709🔥🔥
+
+2026-04-27 12:35:16,769 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 12:36:06,977 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-27 12:44:17,852 [TGReader] INFO: [FOREX ACADEMY] BUY  XAU/USD BELOW :- 4715
+
+
+TARGET : VIP 
+
+
+STOPLOSS : VIP
+2026-04-27 12:44:17,852 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 PE entry=None conf=65
+2026-04-27 12:45:48,412 [telethon.client.updates] INFO: Got difference for account updates
+2026-04-27 12:45:48,412 [TGReader] INFO: [Trading MasterMind] 📈ONE MORE BIG BLAST JACKPOT TRADE DONE IN PAID GROUP📈
+2026-04-27 12:45:48,412 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-04-27 12:45:49,099 [telethon.client.updates] INFO: Got difference for channel 2608338318 updates
+2026-04-27 12:48:12,087 [TGReader] INFO: [Trading MasterMind] ❤️‍🩹💰✨MONEY 2 TIMES✨💰❤️‍🩹
+
+     😎🥳 MAZA AAGYA 🥳😎
+
+👀🔝 AAJ PAI
+2026-04-27 12:48:12,087 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 12:49:18,491 [TGReader] INFO: [Trading MasterMind] 35 TO 61🔥🔥
+
+MONEY 2 TIMES🕯
+
+JACKPOT TRADE🚀
+
+ZERO TO HERO ☄️☄
+2026-04-27 12:49:18,491 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None CE entry=None conf=55
+2026-04-27 12:52:18,842 [TGReader] INFO: [Trading MasterMind] 💥🔥JOIN OUR ZERO HERO GROUP 🔥💥
+
+Mastermind Primium💝
+Our Zero 
+2026-04-27 12:52:18,857 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None 10000 None entry=None conf=50
+2026-04-27 12:52:18,857 [TGReader] INFO: [Trading MasterMind] NEXT TRADE COMING SOON PREMIUM GROUP JOIN FAST ✅✅
+2026-04-27 12:52:18,857 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 13:00:05,324 [TGReader] INFO: [👌 SMT - Education Group 👌] Sensex 77300 CE Looking good 
+
+Above @ 535
+
+TARGET - 600 , 7
+2026-04-27 13:00:05,324 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=True SENSEX 77300 CE entry=535.0 conf=95
+2026-04-27 13:00:05,340 [MainGUI] INFO: Signal Received: BUY SENSEX CE
+2026-04-27 13:00:05,340 [OptionTrader] INFO: TF [SENSEX] CE: passed=True EMA50✅ MOM✅ RSI55✅
+2026-04-27 13:00:05,340 [OptionTrader] INFO: BOS not confirmed for CE
+2026-04-27 13:03:50,287 [TGReader] INFO: [👌 SMT - Education Group 👌] 540++✅✅
+2026-04-27 13:03:50,287 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 13:03:56,452 [TGReader] INFO: [👌 SMT - Education Group 👌] 550++✅✅
+2026-04-27 13:03:56,452 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 13:04:00,396 [TGReader] INFO: [👌 SMT - Education Group 👌] 560++✅✅
+2026-04-27 13:04:00,396 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 13:04:12,282 [TGReader] INFO: [👌 SMT - Education Group 👌] 576++✅✅
+2026-04-27 13:04:12,282 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 13:04:51,382 [TGReader] INFO: [FOREX ACADEMY] 4715.50💜
+2026-04-27 13:04:51,382 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 13:04:51,398 [TGReader] INFO: [FOREX ACADEMY] 4715💜
+2026-04-27 13:04:51,398 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 13:05:00,514 [TGReader] INFO: [FOREX ACADEMY] 4717💜
+2026-04-27 13:05:00,514 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 13:05:00,530 [TGReader] INFO: [FOREX ACADEMY] 4716.50💜
+2026-04-27 13:05:00,530 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 13:05:00,530 [TGReader] INFO: [FOREX ACADEMY] 4716💜
+2026-04-27 13:05:00,530 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 13:05:20,502 [TGReader] INFO: [FOREX ACADEMY] 4718💜
+2026-04-27 13:05:20,502 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 13:05:20,502 [TGReader] INFO: [FOREX ACADEMY] 4717.50💜
+2026-04-27 13:05:20,502 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 13:06:07,274 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-27 13:06:13,929 [TGReader] INFO: [👌 SMT - Education Group 👌] Safe Can Book Other Must Trail SL
+2026-04-27 13:06:13,929 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 13:12:33,208 [TGReader] INFO: [👌 SMT - Education Group 👌] 581++✅✅
+2026-04-27 13:12:33,224 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 13:17:13,642 [TGReader] INFO: [FOREX ACADEMY] 4715 To 4718🚀🚀
+
+30 PIPS RUNNING 🔥🔥
+
+WHAT A SUPER JACKPOT🤑🤑
+2026-04-27 13:17:13,642 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 CE entry=None conf=65
+2026-04-27 13:17:30,856 [TGReader] INFO: [👌 SMT - Education Group 👌] 590++✅✅
+2026-04-27 13:17:30,856 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 13:17:30,856 [TGReader] INFO: [FOREX ACADEMY] 🔤🔤🔤🔤🔤 🔤🔤🔤🔤🔤
+
+3 + 3 MONTH FREE 😍😍
+
+ONLY 2990 💠💠
+
+
+STILL THINK
+2026-04-27 13:17:30,872 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 3000 None entry=None conf=50
+2026-04-27 13:17:50,474 [TGReader] INFO: [FOREX ACADEMY] OLD LOSS BHI COVER HO JAYEGA SOCHO MT JOIN KRO😍😍😍
+2026-04-27 13:17:50,474 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None None None entry=None conf=40
+2026-04-27 13:17:50,974 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-27 13:17:50,974 [TGReader] INFO: [👌 SMT - Education Group 👌] 🔳  610++✅✅
+
+👉 1st Target🎯 done✅
+
+जय माता दी 🙏🏼
+2026-04-27 13:17:50,974 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 13:17:55,082 [TGReader] INFO: [👌 SMT - Education Group 👌] 634++✅✅
+2026-04-27 13:17:55,082 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 13:18:45,402 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-27 13:19:06,514 [TGReader] INFO: [👌 SMT - Education Group 👌] Update your screen shot here 👇
+
+@Smt_servicee
+2026-04-27 13:19:06,514 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 13:19:17,687 [TGReader] INFO: [👌 SMT - Education Group 👌] NO SS NO NEW TRADE …
+2026-04-27 13:19:17,703 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None None entry=None conf=40
+2026-04-27 13:19:51,399 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 13:21:22,465 [TGReader] INFO: [👌 Stock Market Tps👌] 77300 CE :- 535 To 634 ( 99 Pts
+
+यहाँ बोला नहीं जाता करके दि
+2026-04-27 13:21:22,465 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None 77300 CE entry=None conf=65
+2026-04-27 13:23:58,966 [TGReader] INFO: [FOREX ANYLIZER ™️] 🔤🔤🔤🔤         🔤🔤🔤🔤
+
+⭐  LIFETIME COPY MY TRADE (VIP ) CHHANEL 
+2026-04-27 13:23:58,966 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 259350 CE entry=None conf=65
+2026-04-27 13:26:23,079 [TGReader] INFO: [FOREX ANYLIZER ™️] VIP GROUP MAIN TANDAV HO RAHA HAI 😍😍😍SOCHO MAT ACCOUNT OPEN 
+2026-04-27 13:26:23,079 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None None CE entry=None conf=55
+2026-04-27 13:28:23,340 [TGReader] INFO: [PREMIUM LEARNING] ACCEPT LOSS OVERTRADING KRNE SE CAPITAL 0 HOTA HE AJ LOSS HU
+2026-04-27 13:28:23,356 [SignalParser] INFO: Parsed [PREMIUM LEARNING]: valid=False None None None entry=None conf=40
+2026-04-27 13:30:23,572 [TGReader] INFO: [GOLD TRADER SAM] Sell gold now
+2026-04-27 13:30:23,572 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None None None entry=None conf=40
+2026-04-27 13:30:48,856 [telethon.client.updates] INFO: Got difference for channel 1203364764 updates
+2026-04-27 13:30:48,856 [TGReader] INFO: [👌 Stock Market Tps👌] पहली बार इस RATE में जल्दी से लूट लो
+
+https://cosmofeed.com/
+2026-04-27 13:30:48,856 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-04-27 13:33:23,931 [TGReader] INFO: [GOLD TRADER SAM] Gold SELL @ 4714 - 4717
+
+SL- 4722
+
+TP1- 4712
+TP2- 4710
+TP3- 
+2026-04-27 13:33:23,931 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None 4700 None entry=4714.0 conf=65
+2026-04-27 13:33:28,572 [TGReader] INFO: [GOLD TRADER SAM] Follow proper risk managment and positiong sizing💯
+2026-04-27 13:33:28,572 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None None None entry=None conf=40
+2026-04-27 13:34:51,531 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 13:34:51,612 [TGReader] INFO: [GOLD TRADER SAM] 4714 To 4711 🪙🪙
+TP1 Hit done🚀🚀
+$300 Per Lot Captured 💥💥
+2026-04-27 13:34:51,612 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None 4700 CE entry=None conf=70
+2026-04-27 13:34:51,627 [TGReader] INFO: [GOLD TRADER SAM] 4714 To 4711 🪙🪙
+TP1 Hit done🚀🚀
+$300 Per Lot Captured 💥💥
+2026-04-27 13:34:51,627 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None 4700 CE entry=None conf=70
+2026-04-27 13:36:07,470 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-27 13:49:51,637 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 13:52:26,681 [TGReader] INFO: [GOLD TRADER SAM] 4714 To 4710 🪙🪙
+TP2 Hit done🚀🚀
+$400 Per Lot Captured 💥💥
+2026-04-27 13:52:26,681 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None 4700 CE entry=None conf=70
+2026-04-27 14:02:14,001 [TGReader] INFO: [FOREX ACADEMY] 2nd  GOLD JACKPOT DONE IN VIP GROUP 👆👆😍
+
+4714 To  4708++💥💥
+
+
+2026-04-27 14:02:14,001 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 14:02:51,378 [TGReader] INFO: [FOREX ACADEMY] 50$ To 5000$ Challenge Day :- 06
+
+Today Profit :- 9$
+
+Runnin
+2026-04-27 14:02:51,394 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 5000 None entry=None conf=55
+2026-04-27 14:03:28,115 [TGReader] INFO: [FOREX ACADEMY] 🔤🔤🔤🔤🔤 🔤🔤🔤🔤🔤
+
+3 + 3 MONTH FREE 😍😍
+
+ONLY 2990 💠💠
+
+
+STILL THINK
+2026-04-27 14:03:28,115 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 3000 None entry=None conf=50
+2026-04-27 14:04:28,279 [TGReader] INFO: [GOLD TRADER SAM] 4714 To 4707 🪙🪙
+All TP Hit done🚀🚀
+$700 Per Lot Captured 💥💥
+2026-04-27 14:04:28,279 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None 4700 CE entry=None conf=65
+2026-04-27 14:04:28,279 [TGReader] INFO: [GOLD TRADER SAM] 4714 To 4708 🪙🪙
+TP3 Hit done🚀🚀
+$600 Per Lot Captured 💥💥
+2026-04-27 14:04:28,279 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None 4700 CE entry=None conf=70
+2026-04-27 14:04:28,279 [TGReader] INFO: [FOREX ACADEMY] SAME DAY FEES COVER HO JAYEGI JOIN FAST😎😎
+2026-04-27 14:04:28,279 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None None None entry=None conf=40
+2026-04-27 14:12:11,737 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-04-27 14:14:29,593 [TGReader] INFO: [FOREX ANYLIZER ™️] NEW JACKPOT READY HAI MISS NHI HONA CHAIYE 🚨🚨🚨
+2026-04-27 14:14:29,593 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None None None entry=None conf=40
+2026-04-27 14:19:51,856 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 14:27:11,877 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-04-27 14:27:11,986 [TGReader] INFO: [GOLD TRADER SAM] 4714 To 4705.5 🪙🪙
+All TP Hit done🚀🚀
+$850 Per Lot Captured 💥💥
+2026-04-27 14:27:12,002 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None 4700 CE entry=None conf=65
+2026-04-27 14:27:12,002 [TGReader] INFO: [FOREX ANYLIZER ™️] 3rd MORE GOLD SELL DONE IN  VIP GROUP 👆👆
+
+4714  TO  4707🔥🔥
+
+
+2026-04-27 14:27:12,002 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 14:32:32,818 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-27 14:34:51,977 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 14:36:32,680 [TGReader] INFO: [FOREX ANYLIZER ™️] 🔤🔤🔤🔤         🔤🔤🔤🔤
+
+⭐  LIFETIME COPY MY TRADE (VIP ) CHHANEL 
+2026-04-27 14:36:32,680 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 259350 CE entry=None conf=65
+2026-04-27 14:42:12,022 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-04-27 14:43:33,601 [TGReader] INFO: [GOLD TRADER SAM] 4714 To 4703 🪙🪙
+All TP Hit done🚀🚀
+$1,100 Per Lot Captured 💥💥
+2026-04-27 14:43:33,601 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None 4700 CE entry=None conf=65
+2026-04-27 14:50:05,755 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-27 14:53:59,613 [telethon.client.updates] INFO: Got difference for channel 1242754182 updates
+2026-04-27 14:54:03,054 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-27 15:04:52,208 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 15:09:37,116 [KotakAPI] ERROR: LTP Nifty 50: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-27 15:11:37,783 [TGReader] INFO: [👌 Stock Market Tps👌] SMT MEANS TRUST ❤️ जय माता दी
+2026-04-27 15:11:37,783 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-04-27 15:11:38,237 [telethon.client.updates] INFO: Got difference for channel 1557229122 updates
+2026-04-27 15:12:12,447 [TGReader] INFO: [GOLD TRADER SAM] Those who are serious about earning profits from gold tradin
+2026-04-27 15:12:12,447 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None None PE entry=None conf=55
+2026-04-27 15:12:12,447 [TGReader] INFO: [GOLD TRADER SAM] 4714 To 4700 🪙🪙
+All TP Hit done🚀🚀
+$1,400 Per Lot Captured 💥💥
+2026-04-27 15:12:12,447 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None 4700 CE entry=None conf=65
+2026-04-27 15:15:38,268 [TGReader] INFO: [👌 Stock Market Tps👌] SMT MEANS TRUST ❤️ जय माता दी
+2026-04-27 15:15:38,268 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-04-27 15:19:52,388 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 15:20:38,928 [TGReader] INFO: [FOREX ACADEMY] SELL  XAU/USD BELOW :- 4700
+
+
+TARGET : VIP 
+
+
+STOPLOSS : VIP
+2026-04-27 15:20:38,928 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 PE entry=None conf=65
+2026-04-27 15:20:39,425 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-27 15:22:39,703 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-04-27 15:30:00,656 [TGReader] INFO: [Trading MasterMind] 💥🔥JOIN OUR ZERO HERO GROUP 🔥💥
+
+Mastermind Primium💝
+Our Zero 
+2026-04-27 15:30:00,656 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None 10000 None entry=None conf=50
+2026-04-27 15:30:51,860 [telethon.client.updates] INFO: Got difference for channel 1522139772 updates
+2026-04-27 15:32:40,599 [TGReader] INFO: [FOREX ACADEMY] 🔹NEXT GOLD TRADE COMING SOON IN PREMIUM GROUP PAY AND JOIN F
+2026-04-27 15:32:40,599 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None None None entry=None conf=40
+2026-04-27 15:32:40,599 [TGReader] INFO: [FOREX ACADEMY] 🔤🔤🔤🔤🔤 🔤🔤🔤🔤🔤
+
+3 + 3 MONTH FREE 😍😍
+
+ONLY 2990 💠💠
+
+
+STILL THINK
+2026-04-27 15:32:40,599 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 3000 None entry=None conf=50
+2026-04-27 15:32:52,013 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-27 15:34:52,544 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 15:42:41,935 [TGReader] INFO: [FOREX ANYLIZER ™️] ESA PROFIT AP BHI KR DAKTE HO 😍😍😍😍
+
+LAST TIME H
+ HAI ESA MOK
+2026-04-27 15:42:41,935 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None None CE entry=None conf=55
+2026-04-27 15:45:49,961 [telethon.client.updates] INFO: Got difference for channel 1203364764 updates
+2026-04-27 15:53:46,361 [telethon.client.updates] INFO: Got difference for channel 2554879920 updates
+2026-04-27 15:55:27,371 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-27 16:01:44,744 [TGReader] INFO: [FOREX ANYLIZER ™️] SOCHOGE TO YE PROFIT NHI KR PAOGE 🕯⬇️⬇️
+2026-04-27 16:01:44,744 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None None PE entry=None conf=55
+2026-04-27 16:20:39,987 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-27 16:50:05,723 [TGReader] INFO: [GOLD TRADER SAM] Those who are serious about earning profits from gold tradin
+2026-04-27 16:50:05,723 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None None PE entry=None conf=55
+2026-04-27 16:57:52,266 [TGReader] INFO: [Trading MasterMind] ZEROHERO PREMIUM GROUP 3rd SEAT BOOKED✅
+2026-04-27 16:57:52,266 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None None None entry=None conf=40
+2026-04-27 17:04:36,439 [TGReader] INFO: [FOREX ANYLIZER ™️] 4rd MORE GOLD SELL DONE IN  VIP GROUP 👆👆
+
+4700 TO  4711🔥🔥
+
+1
+2026-04-27 17:04:36,439 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 17:06:10,643 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-27 17:09:00,639 [telethon.client.updates] INFO: Got difference for channel 1242754182 updates
+2026-04-27 17:15:48,733 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-27 17:23:47,054 [telethon.client.updates] INFO: Got difference for channel 2554879920 updates
+2026-04-27 17:30:07,715 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-27 17:36:58,224 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-04-27 17:36:58,224 [TGReader] INFO: [FOREX ACADEMY] NEW JACKPOT READY HE JALDI KRO🚀🚀🚀🚀
+2026-04-27 17:36:58,240 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None None CE entry=None conf=55
+2026-04-27 17:39:58,138 [TGReader] INFO: [FOREX ANYLIZER ™️] 🔤🔤🔤🔤         🔤🔤🔤🔤
+
+⭐  LIFETIME COPY MY TRADE (VIP ) CHHANEL 
+2026-04-27 17:39:58,138 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 259350 CE entry=None conf=65
+2026-04-27 17:48:59,328 [TGReader] INFO: [FOREX ANYLIZER ™️] BACK TO BACK JACKPOT HO RAHE HAI 💥💥💥
+
+ACCOUNT OPEN FAST AND 
+2026-04-27 17:48:59,328 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None None CE entry=None conf=55
+2026-04-27 18:06:58,463 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-04-27 18:17:53,653 [TGReader] INFO: [FOREX ANYLIZER ™️] SELL XAU/USD BELOW :- 4700
+
+
+TARGET : VIP
+
+
+STOPLOSS : VIP
+2026-04-27 18:17:53,653 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 PE entry=None conf=65
+2026-04-27 18:21:58,566 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-04-27 18:30:04,982 [TGReader] INFO: [FOREX ANYLIZER ™️] 4699🔽🔽
+2026-04-27 18:30:04,982 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 18:30:04,982 [TGReader] INFO: [FOREX ANYLIZER ™️] 4700🔽🔽
+2026-04-27 18:30:04,982 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 18:30:04,982 [TGReader] INFO: [FOREX ANYLIZER ™️] 4699.50🔽🔽
+2026-04-27 18:30:04,982 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 18:30:04,998 [TGReader] INFO: [FOREX ANYLIZER ™️] 4697🔽🔽
+2026-04-27 18:30:04,998 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 18:30:04,998 [TGReader] INFO: [FOREX ANYLIZER ™️] 4697.50🔽🔽
+2026-04-27 18:30:04,998 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 18:30:04,998 [TGReader] INFO: [FOREX ANYLIZER ™️] 4698.50🔽🔽
+2026-04-27 18:30:04,998 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 18:30:04,998 [TGReader] INFO: [FOREX ANYLIZER ™️] 4698🔽🔽
+2026-04-27 18:30:04,998 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 18:37:20,523 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-27 18:45:51,452 [telethon.client.updates] INFO: Got difference for channel 2554879920 updates
+2026-04-27 18:51:58,871 [telethon.client.updates] INFO: Got difference for channel 2001462925 updates
+2026-04-27 18:59:09,494 [telethon.client.updates] INFO: Got difference for channel 2554879920 updates
+2026-04-27 18:59:09,510 [TGReader] INFO: [FOREX ANYLIZER ™️] 4696.50🔽
+2026-04-27 18:59:09,510 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 18:59:09,510 [TGReader] INFO: [FOREX ANYLIZER ™️] 4696🔽🔽
+2026-04-27 18:59:09,510 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 18:59:09,510 [TGReader] INFO: [FOREX ANYLIZER ™️] 4695.50🔽
+2026-04-27 18:59:09,510 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 18:59:09,510 [TGReader] INFO: [FOREX ANYLIZER ™️] 4695🔽🔽
+2026-04-27 18:59:09,510 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 18:59:09,510 [TGReader] INFO: [FOREX ANYLIZER ™️] 4694.50🔽🔽
+2026-04-27 18:59:09,510 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 18:59:09,510 [TGReader] INFO: [FOREX ANYLIZER ™️] 4694🔽🔽
+2026-04-27 18:59:09,510 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 19:00:09,078 [TGReader] INFO: [FOREX ANYLIZER ™️] 4693.50🔽🔽
+2026-04-27 19:00:09,078 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 19:00:09,094 [TGReader] INFO: [FOREX ANYLIZER ™️] 4693🔽🔽
+2026-04-27 19:00:09,094 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 19:00:53,623 [telethon.client.updates] INFO: Got difference for channel 1122984691 updates
+2026-04-27 19:53:16,604 [TGReader] INFO: [FOREX ANYLIZER ™️] 4690🔽🔽
+2026-04-27 19:53:16,604 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 19:53:16,620 [TGReader] INFO: [FOREX ANYLIZER ™️] 4692🔽
+2026-04-27 19:53:16,620 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 19:53:16,620 [TGReader] INFO: [FOREX ANYLIZER ™️] 4691🔽🔽
+2026-04-27 19:53:16,620 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 19:53:16,620 [TGReader] INFO: [FOREX ANYLIZER ™️] 4688🔽🔽
+2026-04-27 19:53:16,620 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 19:53:16,620 [TGReader] INFO: [FOREX ANYLIZER ™️] 4689🔽🔽
+2026-04-27 19:53:16,620 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 19:54:16,716 [TGReader] INFO: [FOREX ANYLIZER ™️] Gold Jackpot :- 4700TO 4788🚀🚀
+
+120  Pips Running Profit🔥🔥
+
+F
+2026-04-27 19:54:16,716 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4800 CE entry=None conf=65
+2026-04-27 19:55:16,863 [TGReader] INFO: [FOREX ANYLIZER ™️] 5rd MORE GOLD SELL DONE IN  VIP GROUP 👆👆
+
+4700 TO  4688🔥🔥
+
+1
+2026-04-27 19:55:16,863 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 4700 None entry=None conf=50
+2026-04-27 19:56:12,453 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-27 19:56:57,185 [TGReader] INFO: [FOREX ACADEMY] SELL  XAU/USD BELOW :- 4692
+
+
+TARGET : VIP 
+
+
+STOPLOSS : VIP
+2026-04-27 19:56:57,185 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 PE entry=None conf=65
+2026-04-27 19:59:09,960 [telethon.client.updates] INFO: Got difference for channel 2554879920 updates
+2026-04-27 20:01:17,635 [TGReader] INFO: [FOREX ACADEMY] 4692😍
+2026-04-27 20:01:17,635 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 20:01:17,650 [TGReader] INFO: [FOREX ACADEMY] 4691.50😍
+2026-04-27 20:01:17,650 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 20:01:17,650 [TGReader] INFO: [FOREX ACADEMY] 4690.60😍
+2026-04-27 20:01:17,650 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 20:01:17,650 [TGReader] INFO: [FOREX ACADEMY] 4690😍
+2026-04-27 20:01:17,650 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 20:02:17,662 [TGReader] INFO: [FOREX ACADEMY] 4689😍
+2026-04-27 20:02:17,662 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 20:02:17,662 [TGReader] INFO: [FOREX ACADEMY] 4689.50😍
+2026-04-27 20:02:17,662 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 20:02:17,662 [TGReader] INFO: [FOREX ACADEMY] 4688.50😍
+2026-04-27 20:02:17,662 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 20:02:17,677 [TGReader] INFO: [FOREX ACADEMY] 4688😍
+2026-04-27 20:02:17,677 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 20:02:17,677 [TGReader] INFO: [FOREX ACADEMY] 4686.50😍
+2026-04-27 20:02:17,677 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 20:02:17,677 [TGReader] INFO: [FOREX ACADEMY] 4686😍
+2026-04-27 20:02:17,677 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 20:02:17,677 [TGReader] INFO: [FOREX ACADEMY] 4687.50😍
+2026-04-27 20:02:17,677 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 20:02:17,693 [TGReader] INFO: [FOREX ACADEMY] 4687😍
+2026-04-27 20:02:17,693 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 20:02:54,659 [TGReader] INFO: [FOREX ACADEMY] 4685.60😍
+2026-04-27 20:02:54,659 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 20:02:54,659 [TGReader] INFO: [FOREX ACADEMY] 4685😍
+2026-04-27 20:02:54,659 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 None entry=None conf=50
+2026-04-27 20:03:17,912 [TGReader] INFO: [Trading MasterMind] 💥🔥JOIN OUR ZERO HERO GROUP 🔥💥
+
+Mastermind Primium💝
+Our Zero 
+2026-04-27 20:03:17,912 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None 10000 None entry=None conf=50
+2026-04-27 20:04:54,616 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-27 20:05:42,247 [TGReader] INFO: [GOLD TRADER SAM] $480 Profit booked by VIP member just in a single day🪙💎🔝🆒🚀
+
+
+2026-04-27 20:05:42,247 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None None CE entry=None conf=55
+2026-04-27 20:17:17,659 [TGReader] INFO: [FOREX ACADEMY] 🔤🔤🔤🔤🔤 🔤🔤🔤🔤🔤
+
+3 + 3 MONTH FREE 😍😍
+
+ONLY 2990 💠💠
+
+
+STILL THINK
+2026-04-27 20:17:17,659 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 3000 None entry=None conf=50
+2026-04-27 20:17:17,659 [TGReader] INFO: [FOREX ACADEMY] 🔹NEXT GOLD TRADE COMING SOON IN PREMIUM GROUP PAY AND JOIN F
+2026-04-27 20:17:17,659 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None None None entry=None conf=40
+2026-04-27 20:17:17,659 [TGReader] INFO: [FOREX ACADEMY] 4692 To 4685🚀🚀
+
+70 PIPS RUNNING 🔥🔥
+
+WHAT A SUPER JACKPOT🤑🤑
+2026-04-27 20:17:17,675 [SignalParser] INFO: Parsed [FOREX ACADEMY]: valid=False None 4700 CE entry=None conf=65
+2026-04-27 20:20:42,364 [TGReader] INFO: [FOREX ANYLIZER ™️] 🔤🔤🔤🔤         🔤🔤🔤🔤
+
+⭐  LIFETIME COPY MY TRADE (VIP ) CHHANEL 
+2026-04-27 20:20:42,364 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 259350 CE entry=None conf=65
+2026-04-27 20:21:59,775 [TGReader] INFO: [FOREX ANYLIZER ™️] BACK TO BACK JACKPOT HO RAHE HAI 🚀🚀🚀
+
+SOCHO MAT OPEN ACCOUNT
+2026-04-27 20:21:59,775 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None None CE entry=None conf=55
+2026-04-27 20:30:52,551 [telethon.client.updates] INFO: Got difference for channel 1242754182 updates
+2026-04-27 20:30:54,424 [telethon.client.updates] INFO: Got difference for channel 1122984691 updates
+2026-04-27 20:45:52,366 [telethon.client.updates] INFO: Got difference for account updates
+2026-04-27 20:45:52,381 [TGReader] INFO: [Trading MasterMind] Join krlo kal Nifty ki expiry hai 5K Capital Se 40K Profit K
+2026-04-27 20:45:52,381 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False NIFTY None None entry=None conf=55
+2026-04-27 21:04:26,309 [TGReader] INFO: [FOREX ANYLIZER ™️] NEW JACKPOT READY HAI MISS NHI HONA CHAHIYE 🚀🚀🚀🚀🚀
+2026-04-27 21:04:26,325 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None None CE entry=None conf=55
+2026-04-27 21:12:48,322 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)

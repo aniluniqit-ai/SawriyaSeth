@@ -1,0 +1,1001 @@
+2026-04-23 19:05:22,914 [MainGUI] INFO: Capital loaded: ₹1,000.00
+2026-04-23 19:05:23,287 [KotakAPI] INFO: TOTP: 830005
+2026-04-23 19:05:23,764 [MainGUI] INFO: Kotak API login successful.
+2026-04-23 19:05:23,829 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-23 19:05:23,887 [telethon.crypto.aes] INFO: cryptg detected, it will be used for encryption
+2026-04-23 19:05:24,377 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-23 19:05:24,483 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-23 19:06:09,658 [TGReader] ERROR: TG error: 3 consecutive sign-in attempts failed. Aborting
+2026-04-23 19:06:34,072 [MainGUI] INFO: Capital loaded: ₹1,000.00
+2026-04-23 19:06:34,395 [KotakAPI] INFO: TOTP: 974749
+2026-04-23 19:06:34,868 [MainGUI] INFO: Kotak API login successful.
+2026-04-23 19:06:34,906 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-23 19:06:34,910 [telethon.crypto.aes] INFO: cryptg detected, it will be used for encryption
+2026-04-23 19:06:35,203 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-23 19:06:35,298 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-23 19:07:07,167 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-23 19:07:07,170 [TGReader] INFO: Channel: THE MARKET GURU
+2026-04-23 19:07:07,171 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-04-23 19:07:07,171 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-04-23 19:07:07,172 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-04-23 19:07:07,172 [TGReader] INFO: Channel: Trading MasterMind
+2026-04-23 19:07:07,175 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,176 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,176 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,177 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,177 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,179 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,180 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,181 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,182 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,183 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,414 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,415 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,416 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,420 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,421 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,422 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,422 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,423 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,425 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,427 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,430 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,431 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,432 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,432 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,803 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,803 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,806 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,810 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,814 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,815 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-23 19:07:07,816 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,816 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,817 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,818 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,818 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,819 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,819 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,820 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,821 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,821 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,822 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,822 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,823 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,823 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,824 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,824 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,825 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,829 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,830 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,831 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,831 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,832 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,832 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,833 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,833 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,834 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,834 [TGReader] INFO: Channel: 
+2026-04-23 19:07:07,835 [TGReader] INFO: Channel: MARKET GURU
+2026-04-23 19:07:08,270 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,272 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,275 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,280 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,281 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,282 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,284 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,287 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,289 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,290 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,292 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,293 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,296 [TGReader] INFO: Channel: A
+2026-04-23 19:07:08,304 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,307 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,310 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,313 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,317 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,318 [TGReader] INFO: Channel: R
+2026-04-23 19:07:08,318 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,319 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,320 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,321 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,322 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,323 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,323 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,529 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,532 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,535 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,538 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,539 [TGReader] INFO: Channel: 
+2026-04-23 19:07:08,542 [TGReader] INFO: Channel: 
+2026-04-23 22:29:59,904 [MainGUI] INFO: Capital loaded: ₹1,000.00
+2026-04-23 22:30:00,866 [KotakAPI] INFO: TOTP: 998849
+2026-04-23 22:30:01,470 [MainGUI] INFO: Kotak API login successful.
+2026-04-23 22:30:01,682 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-23 22:30:01,732 [telethon.crypto.aes] INFO: cryptg detected, it will be used for encryption
+2026-04-23 22:30:02,064 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-23 22:30:02,157 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: THE MARKET GURU
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: Trading MasterMind
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,594 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,864 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,864 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,864 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,867 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,867 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,867 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,867 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,867 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,867 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,867 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,867 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,867 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,873 [TGReader] INFO: Channel: 
+2026-04-23 22:30:03,873 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,120 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,120 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,123 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,126 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,126 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,126 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-23 22:30:04,126 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,126 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,126 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,126 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,126 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,126 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,131 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,132 [TGReader] INFO: Channel: MARKET GURU
+2026-04-23 22:30:04,583 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,583 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,596 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,596 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,596 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,596 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,596 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,596 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,596 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,596 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,596 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,596 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,596 [TGReader] INFO: Channel: A
+2026-04-23 22:30:04,596 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,605 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,605 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,605 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,605 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,607 [TGReader] INFO: Channel: R
+2026-04-23 22:30:04,607 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,607 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,607 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,607 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,607 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,607 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,607 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,851 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,851 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,851 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,851 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,857 [TGReader] INFO: Channel: 
+2026-04-23 22:30:04,857 [TGReader] INFO: Channel: 
+2026-04-23 22:43:34,096 [MainGUI] INFO: Capital loaded: ₹1,000.00
+2026-04-23 22:43:34,432 [KotakAPI] INFO: TOTP: 761400
+2026-04-23 22:43:35,164 [MainGUI] INFO: Kotak API login successful.
+2026-04-23 22:43:35,382 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-23 22:43:35,382 [telethon.crypto.aes] INFO: cryptg detected, it will be used for encryption
+2026-04-23 22:43:35,696 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-23 22:43:35,795 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-23 22:43:36,594 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-23 22:43:36,594 [TGReader] INFO: Channel: THE MARKET GURU
+2026-04-23 22:43:36,594 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-04-23 22:43:36,594 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-04-23 22:43:36,594 [TGReader] INFO: Channel: Trading MasterMind
+2026-04-23 22:43:36,597 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-04-23 22:43:36,597 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,597 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,597 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,597 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,597 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,597 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,597 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,599 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,599 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,599 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,817 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,817 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,817 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,817 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,823 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,823 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,823 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,823 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,823 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,823 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,823 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,823 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,823 [TGReader] INFO: Channel: 
+2026-04-23 22:43:36,823 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,064 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,064 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,064 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,073 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,073 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,073 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-23 22:43:37,073 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,073 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,073 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,073 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,076 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,077 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,077 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,077 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,077 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,077 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,077 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,077 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,077 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,077 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,077 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,077 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,081 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,082 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,082 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,082 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,082 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,082 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,082 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,082 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,082 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,082 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,082 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,092 [TGReader] INFO: Channel: MARKET GURU
+2026-04-23 22:43:37,456 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,456 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,456 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,456 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,456 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,456 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,456 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,463 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,463 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,464 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,464 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,464 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,464 [TGReader] INFO: Channel: A
+2026-04-23 22:43:37,464 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,466 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,466 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,466 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,466 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,466 [TGReader] INFO: Channel: R
+2026-04-23 22:43:37,466 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,466 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,466 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,474 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,474 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,474 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,474 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,623 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,623 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,627 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,628 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,628 [TGReader] INFO: Channel: 
+2026-04-23 22:43:37,631 [TGReader] INFO: Channel: 
+2026-04-23 22:43:38,407 [MainGUI] INFO: Telegram connected monitoring 96 channels
+2026-04-23 23:16:08,444 [MainGUI] INFO: Capital loaded: ₹1,000.00
+2026-04-23 23:16:08,444 [MainGUI] INFO: Mapped CRUDEOIL to exact Kotak string: CRUDEOIL24NOVFUT
+2026-04-23 23:16:08,459 [MainGUI] INFO: Mapped NATURALGAS to exact Kotak string: NATURALGAS24NOVFUT
+2026-04-23 23:16:08,751 [KotakAPI] INFO: TOTP: 217887
+2026-04-23 23:16:09,082 [MainGUI] INFO: Kotak API login successful.
+2026-04-23 23:16:09,423 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-23 23:16:09,423 [telethon.crypto.aes] INFO: cryptg detected, it will be used for encryption
+2026-04-23 23:16:09,717 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-23 23:16:09,815 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-23 23:16:10,711 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-23 23:16:10,711 [TGReader] INFO: Channel: THE MARKET GURU
+2026-04-23 23:16:10,711 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-04-23 23:16:10,711 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-04-23 23:16:10,711 [TGReader] INFO: Channel: Trading MasterMind
+2026-04-23 23:16:10,711 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-04-23 23:16:10,713 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,713 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,714 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,714 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,714 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,714 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,714 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,714 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,714 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,714 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,911 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,911 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,914 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,914 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,914 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,914 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,914 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,921 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,923 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,923 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,923 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,923 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,923 [TGReader] INFO: Channel: 
+2026-04-23 23:16:10,923 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,264 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,264 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,264 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,271 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,271 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,273 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-23 23:16:11,273 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,273 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,273 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,273 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,273 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,273 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,273 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,277 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,278 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,281 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,282 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,282 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,282 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,282 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,282 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,290 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,291 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,291 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,291 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,291 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,291 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,291 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,291 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,291 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,301 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,301 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,301 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,301 [TGReader] INFO: Channel: MARKET GURU
+2026-04-23 23:16:11,524 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,524 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,530 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: A
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: R
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,532 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,737 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,737 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,737 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,737 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,737 [TGReader] INFO: Channel: 
+2026-04-23 23:16:11,737 [TGReader] INFO: Channel: 
+2026-04-23 23:16:12,514 [MainGUI] INFO: Telegram connected monitoring 96 channels
+2026-04-23 23:25:06,905 [MainGUI] INFO: Capital loaded: ₹1,000.00
+2026-04-23 23:25:06,908 [MainGUI] INFO: Mapped CRUDEOIL to exact Kotak string: CRUDEOIL24NOVFUT
+2026-04-23 23:25:06,919 [MainGUI] INFO: Mapped NATURALGAS to exact Kotak string: NATURALGAS24NOVFUT
+2026-04-23 23:25:07,243 [KotakAPI] INFO: TOTP: 766387
+2026-04-23 23:25:07,640 [MainGUI] INFO: Kotak API login successful.
+2026-04-23 23:25:07,882 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-23 23:25:07,884 [telethon.crypto.aes] INFO: cryptg detected, it will be used for encryption
+2026-04-23 23:25:08,156 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-23 23:25:08,247 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-23 23:25:09,256 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-23 23:25:09,257 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-04-23 23:25:09,258 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-04-23 23:25:09,258 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-04-23 23:25:09,259 [TGReader] INFO: Channel: Trading MasterMind
+2026-04-23 23:25:09,259 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-04-23 23:25:09,259 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-04-23 23:25:09,260 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,260 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,260 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,260 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,261 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,261 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,262 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,262 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,263 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,263 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,476 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,477 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,481 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,483 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,484 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,484 [TGReader] INFO: Channel: 9
+2026-04-23 23:25:09,484 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,485 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,485 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,486 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,486 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,487 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,487 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,488 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,488 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,711 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,712 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,715 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,718 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,719 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,719 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-23 23:25:09,721 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,721 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,721 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,723 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,724 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,729 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,731 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,734 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,735 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,737 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,742 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,743 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,744 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,745 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,746 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,747 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,748 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,749 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,749 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,750 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,750 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,751 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,751 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,751 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,752 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,752 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,752 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,985 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,985 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,991 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,991 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,992 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,992 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,992 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,993 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,993 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,994 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,994 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,995 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,995 [TGReader] INFO: Channel: A
+2026-04-23 23:25:09,995 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,996 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,996 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,996 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,997 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,997 [TGReader] INFO: Channel: R
+2026-04-23 23:25:09,998 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,998 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,999 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,999 [TGReader] INFO: Channel: 
+2026-04-23 23:25:09,999 [TGReader] INFO: Channel: 
+2026-04-23 23:25:10,000 [TGReader] INFO: Channel: 
+2026-04-23 23:25:10,000 [TGReader] INFO: Channel: 
+2026-04-23 23:25:10,158 [TGReader] INFO: Channel: 
+2026-04-23 23:25:10,158 [TGReader] INFO: Channel: 
+2026-04-23 23:25:10,162 [TGReader] INFO: Channel: 
+2026-04-23 23:25:10,163 [TGReader] INFO: Channel: 
+2026-04-23 23:25:10,164 [TGReader] INFO: Channel: 
+2026-04-23 23:25:10,164 [TGReader] INFO: Channel: 
+2026-04-23 23:25:11,052 [MainGUI] INFO: Telegram connected monitoring 97 channels
+2026-04-23 23:33:20,814 [MainGUI] INFO: Capital loaded: ₹1,000.00
+2026-04-23 23:33:20,821 [MainGUI] INFO: Mapped CRUDEOIL to exact Kotak string: CRUDEOIL24NOVFUT
+2026-04-23 23:33:20,823 [MainGUI] INFO: Mapped NATURALGAS to exact Kotak string: NATURALGAS24NOVFUT
+2026-04-23 23:33:21,164 [KotakAPI] INFO: TOTP: 181885
+2026-04-23 23:33:21,606 [MainGUI] INFO: Kotak API login successful.
+2026-04-23 23:33:21,845 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-23 23:33:21,847 [telethon.crypto.aes] INFO: cryptg detected, it will be used for encryption
+2026-04-23 23:33:22,163 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-23 23:33:22,264 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-23 23:33:23,395 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-23 23:33:23,395 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-04-23 23:33:23,395 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-04-23 23:33:23,395 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-04-23 23:33:23,395 [TGReader] INFO: Channel: Trading MasterMind
+2026-04-23 23:33:23,395 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-04-23 23:33:23,395 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-04-23 23:33:23,395 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,395 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,395 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,395 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,395 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,395 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,395 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,406 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,410 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,414 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,690 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,690 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,707 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,713 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,714 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,714 [TGReader] INFO: Channel: 9
+2026-04-23 23:33:23,714 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,721 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,723 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,723 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,723 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,723 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,731 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,731 [TGReader] INFO: Channel: 
+2026-04-23 23:33:23,731 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,039 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,048 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,048 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,048 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,056 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,056 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-23 23:33:24,063 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,064 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,064 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,064 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,064 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,072 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,077 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,080 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,081 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,081 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,081 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,081 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,081 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,081 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,081 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,081 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,081 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,090 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,090 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,096 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,096 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,096 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,096 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,096 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,096 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,107 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,107 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,484 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,484 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,484 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,501 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,501 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,501 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,506 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,508 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,508 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,508 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,508 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,508 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,508 [TGReader] INFO: Channel: A
+2026-04-23 23:33:24,513 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,514 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,515 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,519 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,519 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,519 [TGReader] INFO: Channel: R
+2026-04-23 23:33:24,523 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,523 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,523 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,531 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,531 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,531 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,531 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,873 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,873 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,880 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,882 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,882 [TGReader] INFO: Channel: 
+2026-04-23 23:33:24,882 [TGReader] INFO: Channel: 
+2026-04-23 23:33:25,756 [MainGUI] INFO: Telegram connected monitoring 97 channels
+2026-04-23 23:33:34,825 [telethon.client.users] INFO: Sleeping for 22s (0:00:22) on GetHistoryRequest flood wait
+2026-04-23 23:56:21,915 [MainGUI] INFO: Capital loaded: ₹1,000.00
+2026-04-23 23:56:21,924 [MainGUI] INFO: Mapped CRUDEOIL to exact Kotak string: CRUDEOIL24NOVFUT
+2026-04-23 23:56:21,932 [MainGUI] INFO: Mapped NATURALGAS to exact Kotak string: NATURALGAS24NOVFUT
+2026-04-23 23:56:22,514 [KotakAPI] INFO: TOTP: 403479
+2026-04-23 23:56:23,012 [MainGUI] INFO: Kotak API login successful.
+2026-04-23 23:56:23,482 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-23 23:56:23,482 [telethon.crypto.aes] INFO: cryptg detected, it will be used for encryption
+2026-04-23 23:56:23,884 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-23 23:56:23,973 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-23 23:56:24,827 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-23 23:56:24,827 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-04-23 23:56:24,827 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-04-23 23:56:24,827 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-04-23 23:56:24,827 [TGReader] INFO: Channel: Trading MasterMind
+2026-04-23 23:56:24,827 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-04-23 23:56:24,827 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-04-23 23:56:24,827 [TGReader] INFO: Channel: 
+2026-04-23 23:56:24,827 [TGReader] INFO: Channel: 
+2026-04-23 23:56:24,827 [TGReader] INFO: Channel: 
+2026-04-23 23:56:24,827 [TGReader] INFO: Channel: 
+2026-04-23 23:56:24,827 [TGReader] INFO: Channel: 
+2026-04-23 23:56:24,831 [TGReader] INFO: Channel: 
+2026-04-23 23:56:24,831 [TGReader] INFO: Channel: 
+2026-04-23 23:56:24,832 [TGReader] INFO: Channel: 
+2026-04-23 23:56:24,832 [TGReader] INFO: Channel: 
+2026-04-23 23:56:24,832 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,035 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,035 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,035 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,035 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,035 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,035 [TGReader] INFO: Channel: 9
+2026-04-23 23:56:25,050 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,050 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,050 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,056 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,056 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,056 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,056 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,056 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,056 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,273 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,273 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,273 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,273 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,273 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,273 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-23 23:56:25,273 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,273 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,273 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,273 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,281 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,281 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,282 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,282 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,282 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,282 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,282 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,282 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,282 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,282 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,282 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,282 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,282 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,282 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,282 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,288 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,288 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,288 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,288 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,288 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,288 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,288 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,288 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,490 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,490 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,496 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,496 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,496 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,496 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,496 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,496 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,496 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,506 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,506 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,507 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,507 [TGReader] INFO: Channel: A
+2026-04-23 23:56:25,507 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,507 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,507 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,507 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,507 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,507 [TGReader] INFO: Channel: R
+2026-04-23 23:56:25,511 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,513 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,513 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,514 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,514 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,514 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,514 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,673 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,673 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,673 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,681 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,682 [TGReader] INFO: Channel: 
+2026-04-23 23:56:25,682 [TGReader] INFO: Channel: 
+2026-04-23 23:56:26,431 [MainGUI] INFO: Telegram connected monitoring 97 channels
+2026-04-23 23:56:34,147 [telethon.client.users] INFO: Sleeping for 23s (0:00:23) on GetHistoryRequest flood wait
+2026-04-23 23:59:02,244 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:03,058 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:03,801 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:04,807 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:05,764 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:09,515 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:10,244 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:10,980 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:11,843 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:12,807 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:13,533 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:14,257 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:15,047 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:18,805 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:19,526 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:20,272 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:21,082 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:22,090 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:22,825 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:23,693 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:24,507 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:28,023 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:28,213 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:28,389 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:28,582 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:28,757 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:28,933 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:29,124 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:29,306 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:32,503 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:32,687 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:32,882 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:33,065 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:33,258 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:33,436 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:33,630 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:33,823 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:37,064 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:37,245 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:37,446 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:37,639 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:37,831 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:38,032 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:38,226 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:38,417 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:41,606 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:41,811 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:42,000 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:42,198 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:42,391 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:42,587 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:42,782 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:42,987 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:46,211 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:46,420 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:46,651 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:46,834 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:47,037 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:47,227 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:47,417 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:47,609 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:50,819 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:50,993 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:51,182 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:51,356 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:51,535 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:51,707 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:51,901 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:52,098 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:55,293 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:55,472 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:55,646 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:55,832 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:56,028 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:56,204 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:56,386 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:56,576 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:59,770 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-23 23:59:59,969 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:00,059 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:00,246 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:00,435 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:00,526 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:00,711 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:00,899 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:04,090 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:04,284 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:04,464 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:04,644 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:04,839 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:05,041 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:05,231 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:05,432 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:08,523 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:08,614 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:08,697 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:08,781 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:08,984 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:09,164 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:09,356 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:09,578 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:12,756 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:12,944 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:13,128 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:13,221 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:13,406 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:13,590 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:13,792 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:13,996 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:17,106 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:17,287 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:17,473 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:17,673 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:17,768 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:17,857 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:17,933 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:18,134 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:21,344 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:21,532 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:21,723 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:21,906 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:22,082 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:22,282 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:22,482 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:22,677 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:25,864 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:26,067 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:26,156 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:26,245 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:26,332 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:26,515 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:26,714 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:26,906 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:30,114 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:30,307 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:30,482 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:30,679 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:30,864 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:31,032 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:31,223 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:31,417 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:34,623 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:34,823 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:35,024 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:35,214 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:35,399 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:35,582 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:35,787 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:35,964 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:39,243 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:39,432 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:39,624 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:40,082 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:40,289 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:40,482 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:40,677 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:40,881 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:43,988 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:44,086 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:44,182 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:44,273 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:44,469 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:44,667 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:44,856 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:45,040 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:48,237 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:48,432 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:48,609 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:48,814 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:48,988 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:49,173 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:49,357 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:49,546 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:52,758 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:52,944 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:53,148 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:53,323 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:53,514 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:53,698 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:53,882 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:54,064 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:57,263 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:57,457 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:57,647 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:57,831 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:58,023 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:58,214 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:58,409 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:00:58,582 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:01,781 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:01,994 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:02,217 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:02,399 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:02,586 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:02,773 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:02,957 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:03,193 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:06,428 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:06,615 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:06,794 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:06,981 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:07,182 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:07,386 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:07,562 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:07,738 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:10,940 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:11,133 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:11,331 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:11,726 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:11,988 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:12,164 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:12,357 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:12,541 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:15,764 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:15,951 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:16,149 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:16,344 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:16,523 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:16,697 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:16,892 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:17,083 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:20,284 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:20,486 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:20,664 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:20,841 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:21,024 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:21,214 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:21,414 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:21,594 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:24,801 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:24,987 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:25,375 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:25,546 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:25,742 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:25,956 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:26,142 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:26,332 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:29,523 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:29,695 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:29,901 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:30,073 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:30,273 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:30,464 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:30,634 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:30,732 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:33,956 [KotakAPI] ERROR: LTP Nifty 50: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:34,138 [KotakAPI] ERROR: LTP Nifty Bank: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:34,323 [KotakAPI] ERROR: LTP Nifty Fin Service: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:34,507 [KotakAPI] ERROR: LTP NIFTY MID SELECT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:34,685 [KotakAPI] ERROR: LTP S&P BSE BANKEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:34,873 [KotakAPI] ERROR: LTP SENSEX: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:35,073 [KotakAPI] ERROR: LTP CRUDEOIL24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:35,264 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: Expecting value: line 1 column 1 (char 0)
+2026-04-24 00:01:59,359 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)

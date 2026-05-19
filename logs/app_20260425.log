@@ -1,0 +1,342 @@
+2026-04-25 22:08:52,693 [MainGUI] INFO: Capital loaded: ₹1,000.00
+2026-04-25 22:08:52,698 [MainGUI] INFO: Mapped CRUDEOIL to exact Kotak string: CRUDEOIL24NOVFUT
+2026-04-25 22:08:52,701 [MainGUI] INFO: Mapped NATURALGAS to exact Kotak string: NATURALGAS24NOVFUT
+2026-04-25 22:08:52,736 [MT5_API] ERROR: MT5 initialize() failed, error code: (-10003, 'IPC initialize failed, MetaTrader 5 x64 not found')
+2026-04-25 22:08:52,754 [MainGUI] INFO: XM MT5 Login Failed. Check credentials.
+2026-04-25 22:08:53,049 [KotakAPI] INFO: TOTP: 941653
+2026-04-25 22:08:53,612 [MainGUI] INFO: Kotak API login successful.
+2026-04-25 22:09:10,100 [Database] ERROR: SQL Connection Failed (Make sure database 'LKS_Trader_DB' is created): ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53].  (53) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (53)')
+2026-04-25 22:09:10,105 [MainGUI] INFO: Connected to Microsoft SQL Server Database.
+2026-04-25 22:09:10,107 [AIDirector] WARNING: No DB connection. AI Director using default rules.
+2026-04-25 22:09:10,190 [MainGUI] INFO: 🤖 AI Director Selected Strategy: SMC_SCALP
+2026-04-25 22:09:10,249 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-25 22:09:10,254 [telethon.crypto.aes] INFO: cryptg detected, it will be used for encryption
+2026-04-25 22:09:10,661 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-25 22:09:10,765 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-25 22:09:11,779 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-25 22:09:11,782 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-04-25 22:09:11,798 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-04-25 22:09:11,805 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-04-25 22:09:11,815 [TGReader] INFO: Channel: Trading MasterMind
+2026-04-25 22:09:11,850 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-04-25 22:09:11,852 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-04-25 22:09:11,853 [TGReader] INFO: Channel: 
+2026-04-25 22:09:11,853 [TGReader] INFO: Channel: 
+2026-04-25 22:09:11,856 [TGReader] INFO: Channel: 
+2026-04-25 22:09:11,863 [TGReader] INFO: Channel: 
+2026-04-25 22:09:11,864 [TGReader] INFO: Channel: 
+2026-04-25 22:09:11,877 [TGReader] INFO: Channel: 
+2026-04-25 22:09:11,895 [TGReader] INFO: Channel: 
+2026-04-25 22:09:11,896 [TGReader] INFO: Channel: 
+2026-04-25 22:09:11,898 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,146 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,146 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,155 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,158 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,160 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,173 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,174 [TGReader] INFO: Channel: 9
+2026-04-25 22:09:12,180 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,185 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,188 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,191 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,195 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,197 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,198 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,479 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,481 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,489 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,492 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,501 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,507 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,510 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,512 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-25 22:09:12,513 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,515 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,515 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,516 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,517 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,517 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,518 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,518 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,519 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,520 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,520 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,521 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,521 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,522 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,522 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,524 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,524 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,524 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,528 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,529 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,532 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,532 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,533 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,534 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,535 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,535 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,536 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,795 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,800 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,807 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,811 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,815 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,818 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,819 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,821 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,821 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,822 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,823 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,824 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,825 [TGReader] INFO: Channel: A
+2026-04-25 22:09:12,825 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,826 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,830 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,832 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,833 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,834 [TGReader] INFO: Channel: R
+2026-04-25 22:09:12,834 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,835 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,836 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,836 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,837 [TGReader] INFO: Channel: 
+2026-04-25 22:09:12,837 [TGReader] INFO: Channel: 
+2026-04-25 22:09:13,154 [TGReader] INFO: Channel: 
+2026-04-25 22:09:13,155 [TGReader] INFO: Channel: 
+2026-04-25 22:09:13,163 [TGReader] INFO: Channel: 
+2026-04-25 22:09:13,171 [TGReader] INFO: Channel: 
+2026-04-25 22:09:13,174 [TGReader] INFO: Channel: 
+2026-04-25 22:09:13,177 [TGReader] INFO: Channel: 
+2026-04-25 22:09:13,181 [TGReader] INFO: Channel: 
+2026-04-25 22:09:14,154 [MainGUI] INFO: Telegram connected monitoring 97 channels
+2026-04-25 22:09:24,341 [telethon.client.users] INFO: Sleeping for 21s (0:00:21) on GetHistoryRequest flood wait
+2026-04-25 22:22:13,852 [MainGUI] INFO: Capital loaded: ₹1,000.00
+2026-04-25 22:22:13,854 [MainGUI] INFO: Mapped CRUDEOIL to exact Kotak string: CRUDEOIL24NOVFUT
+2026-04-25 22:22:13,897 [MainGUI] INFO: Mapped NATURALGAS to exact Kotak string: NATURALGAS24NOVFUT
+2026-04-25 22:22:13,903 [MT5_API] ERROR: MT5 initialize() failed, error code: (-10003, 'IPC initialize failed, MetaTrader 5 x64 not found')
+2026-04-25 22:22:13,909 [MainGUI] INFO: XM MT5 Login Failed. Check credentials.
+2026-04-25 22:22:14,221 [KotakAPI] INFO: TOTP: 633123
+2026-04-25 22:22:14,708 [MainGUI] INFO: Kotak API login successful.
+2026-04-25 22:22:31,154 [Database] ERROR: SQL Connection Failed (Make sure database 'LKS_Trader_DB' is created): ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53].  (53) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (53)')
+2026-04-25 22:22:31,181 [MainGUI] INFO: Connected to Microsoft SQL Server Database.
+2026-04-25 22:22:31,181 [AIDirector] WARNING: No DB connection. AI Director using default rules.
+2026-04-25 22:22:31,220 [MainGUI] INFO: 🤖 AI Director Selected Strategy: SMC_SCALP
+2026-04-25 22:22:31,292 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-25 22:22:31,297 [telethon.crypto.aes] INFO: cryptg detected, it will be used for encryption
+2026-04-25 22:22:32,027 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-25 22:22:32,132 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-25 22:22:33,205 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-25 22:22:33,205 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-04-25 22:22:33,214 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-04-25 22:22:33,222 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-04-25 22:22:33,226 [TGReader] INFO: Channel: Trading MasterMind
+2026-04-25 22:22:33,232 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-04-25 22:22:33,238 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-04-25 22:22:33,254 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,257 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,257 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,257 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,259 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,261 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,263 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,265 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,270 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,480 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,486 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,493 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,494 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,495 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,501 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,503 [TGReader] INFO: Channel: 9
+2026-04-25 22:22:33,506 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,508 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,512 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,520 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,521 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,525 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,528 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,754 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,768 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,775 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,776 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,777 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,778 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,785 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,788 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-25 22:22:33,788 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,791 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,794 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,795 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,796 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,798 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,799 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,800 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,804 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,806 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,807 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,808 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,809 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,811 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,812 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,813 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,814 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,815 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,816 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,820 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,824 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,827 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,828 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,829 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,830 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,831 [TGReader] INFO: Channel: 
+2026-04-25 22:22:33,833 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,238 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,239 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,242 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,249 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,255 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,256 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,259 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,262 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,263 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,264 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,264 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,265 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,265 [TGReader] INFO: Channel: A
+2026-04-25 22:22:34,267 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,268 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,269 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,273 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,274 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,275 [TGReader] INFO: Channel: R
+2026-04-25 22:22:34,276 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,277 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,278 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,278 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,279 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,280 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,442 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,442 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,447 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,450 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,457 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,457 [TGReader] INFO: Channel: 
+2026-04-25 22:22:34,460 [TGReader] INFO: Channel: 
+2026-04-25 22:22:35,471 [MainGUI] INFO: Telegram connected monitoring 97 channels
+2026-04-25 22:22:44,203 [telethon.client.users] INFO: Sleeping for 22s (0:00:22) on GetHistoryRequest flood wait
+2026-04-25 22:30:22,521 [MainGUI] INFO: Capital loaded: ₹1,000.00
+2026-04-25 22:30:22,524 [MainGUI] INFO: Mapped CRUDEOIL to exact Kotak string: CRUDEOIL24NOVFUT
+2026-04-25 22:30:22,526 [MainGUI] INFO: Mapped NATURALGAS to exact Kotak string: NATURALGAS24NOVFUT
+2026-04-25 22:30:22,531 [MT5_API] ERROR: MT5 initialize() failed, error code: (-10003, 'IPC initialize failed, MetaTrader 5 x64 not found')
+2026-04-25 22:30:22,552 [MainGUI] INFO: XM MT5 Login Failed. Check credentials.
+2026-04-25 22:30:22,860 [KotakAPI] INFO: TOTP: 654014
+2026-04-25 22:30:23,432 [MainGUI] INFO: Kotak API login successful.
+2026-04-25 22:30:40,920 [Database] ERROR: SQL Connection Failed (Make sure database 'LKS_Trader_DB' is created): ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53].  (53) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (53)')
+2026-04-25 22:30:40,941 [MainGUI] INFO: Connected to Microsoft SQL Server Database.
+2026-04-25 22:30:40,942 [AIDirector] WARNING: No DB connection. AI Director using default rules.
+2026-04-25 22:30:40,978 [MainGUI] INFO: 🤖 AI Director Selected Strategy: SMC_SCALP
+2026-04-25 22:30:41,053 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-25 22:30:41,060 [telethon.crypto.aes] INFO: cryptg detected, it will be used for encryption
+2026-04-25 22:30:41,900 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-25 22:30:41,998 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-25 22:30:43,514 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-25 22:30:43,514 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-04-25 22:30:43,522 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-04-25 22:30:43,524 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-04-25 22:30:43,531 [TGReader] INFO: Channel: Trading MasterMind
+2026-04-25 22:30:43,531 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-04-25 22:30:43,533 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-04-25 22:30:43,544 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,557 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,584 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,585 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,586 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,589 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,592 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,594 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,595 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,908 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,909 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,912 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,913 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,914 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,914 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,914 [TGReader] INFO: Channel: 9
+2026-04-25 22:30:43,915 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,915 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,915 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,916 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,916 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,917 [TGReader] INFO: Channel: 
+2026-04-25 22:30:43,917 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,194 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,200 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,204 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,208 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,208 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,208 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,209 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,209 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-25 22:30:44,210 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,211 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,211 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,212 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,213 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,213 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,214 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,214 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,214 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,215 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,216 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,216 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,217 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,217 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,218 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,219 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,221 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,222 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,222 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,223 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,224 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,224 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,225 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,225 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,225 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,226 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,227 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,530 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,535 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,536 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,537 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,538 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,539 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,540 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,542 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,546 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,553 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,553 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,557 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,558 [TGReader] INFO: Channel: A
+2026-04-25 22:30:44,560 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,560 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,561 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,561 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,562 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,562 [TGReader] INFO: Channel: R
+2026-04-25 22:30:44,563 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,563 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,564 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,564 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,565 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,565 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,748 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,750 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,751 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,754 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,754 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,759 [TGReader] INFO: Channel: 
+2026-04-25 22:30:44,760 [TGReader] INFO: Channel: 
+2026-04-25 22:30:45,540 [MainGUI] INFO: Telegram connected monitoring 97 channels
+2026-04-25 22:30:54,656 [telethon.client.users] INFO: Sleeping for 22s (0:00:22) on GetHistoryRequest flood wait

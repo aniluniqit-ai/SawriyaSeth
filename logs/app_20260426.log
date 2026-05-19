@@ -1,0 +1,173 @@
+2026-04-26 08:30:40,101 [MainGUI] INFO: Capital loaded: ₹1,000.00
+2026-04-26 08:30:40,116 [MainGUI] INFO: Mapped CRUDEOIL to exact Kotak string: CRUDEOIL24NOVFUT
+2026-04-26 08:30:40,116 [MainGUI] INFO: Mapped NATURALGAS to exact Kotak string: NATURALGAS24NOVFUT
+2026-04-26 08:30:40,148 [MT5_API] ERROR: MT5 initialize() failed, error code: (-10003, 'IPC initialize failed, MetaTrader 5 x64 not found')
+2026-04-26 08:30:40,163 [MainGUI] INFO: XM MT5 Login Failed. Check credentials.
+2026-04-26 08:30:41,054 [KotakAPI] INFO: TOTP: 548718
+2026-04-26 08:30:42,101 [MainGUI] INFO: Kotak API login successful.
+2026-04-26 08:30:43,163 [Database] INFO: Connected to SQL Server: LKS_Trader_DB
+2026-04-26 08:30:43,319 [Database] INFO: Database Tables Verified
+2026-04-26 08:30:43,319 [MainGUI] INFO: Connected to Microsoft SQL Server Database.
+2026-04-26 08:30:43,319 [AIDirector] INFO: AI Director starting morning analysis...
+2026-04-26 08:30:43,616 [AIDirector] INFO: No past trade data found. Using SMC_SCALP default.
+2026-04-26 08:30:43,663 [MainGUI] INFO: 🤖 AI Director Selected Strategy: SMC_SCALP
+2026-04-26 08:30:44,663 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-26 08:30:44,663 [telethon.crypto.aes] INFO: cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-04-26 08:30:45,194 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-26 08:30:45,273 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-26 08:30:46,538 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-26 08:30:46,538 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-04-26 08:30:46,538 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-04-26 08:30:46,554 [TGReader] INFO: Channel: Trading MasterMind
+2026-04-26 08:30:46,554 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-04-26 08:30:46,554 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-04-26 08:30:46,554 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-04-26 08:30:46,554 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,554 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,554 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,554 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,554 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,554 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,570 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,570 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,570 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,820 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,820 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,835 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,835 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,835 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,851 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,851 [TGReader] INFO: Channel: 9
+2026-04-26 08:30:46,851 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,851 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,851 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,851 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,851 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,866 [TGReader] INFO: Channel: 
+2026-04-26 08:30:46,866 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,226 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,226 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,241 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,241 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,241 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,241 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,241 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,241 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-26 08:30:47,257 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,257 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,257 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,257 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,257 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,257 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,273 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,273 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,273 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,273 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,273 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,273 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,288 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,288 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,288 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,288 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,288 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,288 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,304 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,304 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,304 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,304 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,304 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,320 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,320 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,320 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,320 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,743 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,759 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,759 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,759 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,759 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,759 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,759 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,759 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,759 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,774 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,774 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,774 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,790 [TGReader] INFO: Channel: A
+2026-04-26 08:30:47,790 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,790 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,790 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,790 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,790 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,790 [TGReader] INFO: Channel: R
+2026-04-26 08:30:47,790 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,790 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,805 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,805 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,805 [TGReader] INFO: Channel: 
+2026-04-26 08:30:47,821 [TGReader] INFO: Channel: 
+2026-04-26 08:30:48,055 [TGReader] INFO: Channel: 
+2026-04-26 08:30:48,055 [TGReader] INFO: Channel: 
+2026-04-26 08:30:48,055 [TGReader] INFO: Channel: 
+2026-04-26 08:30:48,055 [TGReader] INFO: Channel: 
+2026-04-26 08:30:48,071 [TGReader] INFO: Channel: 
+2026-04-26 08:30:48,071 [TGReader] INFO: Channel: 
+2026-04-26 08:30:48,071 [TGReader] INFO: Channel: 
+2026-04-26 08:30:49,543 [MainGUI] INFO: Telegram connected monitoring 97 channels
+2026-04-26 08:30:55,942 [telethon.client.users] INFO: Sleeping for 25s (0:00:25) on GetHistoryRequest flood wait
+2026-04-26 08:45:47,205 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-26 08:51:48,583 [TGReader] INFO: [Trading MasterMind] 💥🔥JOIN OUR ZERO HERO GROUP 🔥💥
+
+Mastermind Primium💝
+Our Zero 
+2026-04-26 08:51:48,583 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None 10000 None entry=None conf=50
+2026-04-26 09:15:47,309 [telethon.client.updates] INFO: Got difference for channel 1203364764 updates
+2026-04-26 09:15:47,981 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-26 09:24:51,632 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-26 09:30:47,227 [telethon.client.updates] INFO: Got difference for channel 1242754182 updates
+2026-04-26 09:30:47,431 [telethon.client.updates] INFO: Got difference for channel 1203364764 updates
+2026-04-26 09:30:47,509 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-26 09:30:48,102 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-26 09:45:47,688 [telethon.client.updates] INFO: Got difference for channel 1203364764 updates
+2026-04-26 09:45:48,234 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-26 10:00:47,891 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-26 10:15:47,548 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-26 10:15:48,001 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-26 10:30:48,422 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-26 10:35:00,537 [TGReader] INFO: [👌 Stock Market Tps👌] आपकी सोच से भी सस्ता आज 🙈 लूट लो
+
+https://cosmofeed.com/vig/
+2026-04-26 10:35:00,537 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-04-26 10:35:00,616 [TGReader] INFO: [👌 Stock Market Tps👌] आपकी सोच से भी सस्ता आज 🙈 लूट लो
+
+https://cosmofeed.com/vig/
+2026-04-26 10:35:00,616 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-04-26 10:45:48,555 [telethon.client.updates] INFO: Got difference for channel 1203364764 updates
+2026-04-26 10:45:49,196 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-26 11:50:57,394 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-26 12:00:48,410 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-26 12:00:49,300 [telethon.client.updates] INFO: Got difference for channel 1203364764 updates
+2026-04-26 12:30:51,146 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-26 12:45:49,993 [telethon.client.updates] INFO: Got difference for channel 1203364764 updates
+2026-04-26 13:00:49,027 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-26 13:15:50,698 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-26 13:24:15,196 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-26 14:15:52,423 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-26 14:30:52,644 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-04-26 15:00:51,616 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-04-26 15:15:50,239 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-26 15:30:50,326 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-04-26 15:45:51,455 [telethon.client.updates] INFO: Got difference for channel 1203364764 updates
+2026-04-26 15:55:40,576 [TGReader] INFO: [Trading MasterMind] 💥🔥JOIN OUR ZERO HERO GROUP 🔥💥
+
+Mastermind Primium💝
+Our Zero 
+2026-04-26 15:55:40,576 [SignalParser] INFO: Parsed [Trading MasterMind]: valid=False None 10000 None entry=None conf=50
+2026-04-26 16:03:13,793 [TGReader] INFO: [👌 Stock Market Tps👌] Limited Seats Left /-
+2026-04-26 16:03:13,793 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-04-26 16:30:51,860 [telethon.client.updates] INFO: Got difference for channel 1203364764 updates
+2026-04-26 17:03:21,944 [KotakAPI] ERROR: LTP NATURALGAS24NOVFUT26APRFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-04-26 17:37:52,947 [TGReader] INFO: [FOREX ANYLIZER ™️] 🔤🔤🔤🔤         🔤🔤🔤🔤
+
+⭐  LIFETIME COPY MY TRADE (VIP ) CHHANEL 
+2026-04-26 17:37:52,963 [SignalParser] INFO: Parsed [FOREX ANYLIZER ™️]: valid=False None 259350 CE entry=None conf=65
+2026-04-26 17:45:51,398 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates

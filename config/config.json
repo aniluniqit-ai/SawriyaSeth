@@ -1,0 +1,65 @@
+{
+  "_comment_mcx": "MCX symbols are now auto-built by kotak_api.mcx_symbol() — no hardcoding needed",
+  "kotak": {
+    "client_code":  "XV3ZT",
+    "access_token": "72182fc2-5655-470b-97c8-6c8e4bcbed57",
+    "mobile":       "+919509675779",
+    "mpin":         "112151",
+    "totp_secret":  "YYDEDABS3PAAOWLECS3C33GUOM"
+  },
+  "telegram_reader": {
+    "api_id":      37698803,
+    "api_hash":    "4af1e926406dece6224947d6d66b3ee7",
+    "phone":       "+919509675779",
+    "session_file":"lks_session",
+    "channels": [
+      "SMT - Education Group 👌",
+      "THE MARKET GURU",
+      "@themarketguru29",
+      "FOREX ACADEMY",
+      "PREMIUM LEARNING",
+      "@forexelitetraders9",
+      "Trading MasterMind",
+      "@Banknifty_expert_future_options",
+      "BANKNIFTY EXPERT ™️ (SEBI REGISTERED)",
+      "ZERO TO HERO MASTER 💚 ™",
+      "👌 Stock Market Tps👌",
+      "FOREX ANYLIZER ™️",
+      "GOLD TRADER SAM"
+    ]
+  },
+  "telegram_bot": {
+    "bot_token": "7996284517:AAEL3r8fgSs2WuX3VBhLiuOINTBy3Rgq8xU",
+    "chat_id":   "2079064051"
+  },
+  "capital": {
+    "initial_capital":       2000,
+    "max_risk_per_trade_pct": 2,
+    "daily_loss_limit_pct":  10,
+    "max_daily_loss_amount": 1000,
+    "daily_profit_target_pct":20,
+    "max_concurrent_positions":2
+  },
+  "budget_guard": {
+    "min_premium": 2,
+    "max_premium": 250
+  },
+  "option_trading": {
+    "mode":           "paper",
+    "auto_trade":     true,
+    "product_type":   "MIS",
+    "square_off_time":"15:10",
+    "trade_start":    "09:20",
+    "trade_end":      "15:00",
+    "warmup_ticks":   20,
+    "min_confidence": 55,
+    "require_bos":    false
+  },
+  "simulation": {
+    "slippage_pct": 0.5,
+    "brokerage_per_order": 20,
+    "latency_ms": 200,
+    "rejection_prob": 0.02,
+    "spread_pct": 0.3
+  }
+}

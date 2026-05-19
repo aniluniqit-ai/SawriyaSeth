@@ -1,0 +1,683 @@
+2026-05-08 10:35:59,490 [matplotlib.font_manager] INFO: generated new fontManager
+2026-05-08 10:36:01,819 [Capital] INFO: Capital loaded: ₹2,110
+2026-05-08 10:36:01,827 [MainGUI] INFO: Capital loaded: ₹2,110.00
+2026-05-08 10:36:02,542 [KotakAPI] WARNING: Old session expired (HTTP 404) — deleting, will do fresh login
+2026-05-08 10:36:02,548 [KotakAPI] INFO: TOTP generated: 431564
+2026-05-08 10:36:03,170 [KotakAPI] INFO: Kotak TOTP login OK (format=raw) ✅
+2026-05-08 10:36:03,266 [KotakAPI] INFO: Session saved to sessions/kotak_session.json
+2026-05-08 10:36:03,276 [MainGUI] INFO: Kotak API login successful.
+2026-05-08 10:36:18,743 [Database] ERROR: SQL Connection Failed (Make sure database 'LKS_Trader_DB' is created): ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [1326].  (1326) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (1326)')
+2026-05-08 10:36:18,746 [MainGUI] INFO: Connected to Microsoft SQL Server Database.
+2026-05-08 10:36:18,746 [AIDirector] WARNING: No DB connection. AI Director using default rules.
+2026-05-08 10:36:18,773 [MainGUI] INFO: 🤖 AI Director Selected Strategy: SMC_SCALP
+2026-05-08 10:36:18,790 [MainGUI] INFO: 🤖 AI Director linked to trader successfully!
+2026-05-08 10:36:18,881 [MomentumScalper] INFO: [NIFTY] VWAP reset for new day
+2026-05-08 10:36:18,881 [PrevDayLevels] INFO: [PDL] NIFTY: First run — waiting to build today's H/L
+2026-05-08 10:36:18,985 [MomentumScalper] INFO: [BANKNIFTY] VWAP reset for new day
+2026-05-08 10:36:18,986 [PrevDayLevels] INFO: [PDL] BANKNIFTY: First run — waiting to build today's H/L
+2026-05-08 10:36:19,064 [MomentumScalper] INFO: [FINNIFTY] VWAP reset for new day
+2026-05-08 10:36:19,064 [PrevDayLevels] INFO: [PDL] FINNIFTY: First run — waiting to build today's H/L
+2026-05-08 10:36:19,138 [MomentumScalper] INFO: [MIDCPNIFTY] VWAP reset for new day
+2026-05-08 10:36:19,138 [PrevDayLevels] INFO: [PDL] MIDCPNIFTY: First run — waiting to build today's H/L
+2026-05-08 10:36:19,304 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-05-08 10:36:19,305 [telethon.crypto.aes] INFO: cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-05-08 10:36:19,631 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-05-08 10:36:19,727 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-05-08 10:36:20,800 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-05-08 10:36:20,800 [TGReader] INFO: Channel: THE MARKET GURU
+2026-05-08 10:36:20,801 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-05-08 10:36:20,801 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-05-08 10:36:20,801 [TGReader] INFO: Channel: ZERO TO HERO MASTER 💚 ™
+2026-05-08 10:36:20,801 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-05-08 10:36:20,801 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-05-08 10:36:20,801 [TGReader] INFO: Channel: Trading MasterMind
+2026-05-08 10:36:20,802 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-05-08 10:36:20,802 [TGReader] INFO: Channel: BANKNIFTY EXPERT ™️ (SEBI REGISTERED)
+2026-05-08 10:36:20,802 [TGReader] INFO: Channel: 
+2026-05-08 10:36:20,803 [TGReader] INFO: Channel: 
+2026-05-08 10:36:20,803 [TGReader] INFO: Channel: 
+2026-05-08 10:36:20,803 [TGReader] INFO: Channel: 
+2026-05-08 10:36:20,803 [TGReader] INFO: Channel: 
+2026-05-08 10:36:20,803 [TGReader] INFO: Channel: 
+2026-05-08 10:36:20,804 [TGReader] INFO: Channel: 
+2026-05-08 10:36:20,804 [TGReader] INFO: Channel: 
+2026-05-08 10:36:20,804 [TGReader] INFO: Channel: 
+2026-05-08 10:36:20,804 [TGReader] INFO: Channel: 
+2026-05-08 10:36:20,804 [TGReader] INFO: Channel: Stock
+2026-05-08 10:36:21,110 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,112 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,113 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,113 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,113 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,113 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,114 [TGReader] INFO: Channel: 9
+2026-05-08 10:36:21,114 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,114 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,114 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,115 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,115 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,115 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,115 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,401 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,401 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,401 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,401 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,402 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,402 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,402 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,402 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,402 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-05-08 10:36:21,402 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,402 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,403 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,403 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,403 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,403 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,403 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,403 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,404 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,404 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,404 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,404 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,404 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,405 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,405 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,405 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,405 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,405 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,406 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,406 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,406 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,406 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,406 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,406 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,406 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,407 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,407 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,407 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,871 [TGReader] INFO: Channel: MARKET GURU
+2026-05-08 10:36:21,871 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,871 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,871 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,871 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,872 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,872 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,872 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,872 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,872 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,872 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,872 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,873 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,873 [TGReader] INFO: Channel: A
+2026-05-08 10:36:21,873 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,873 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,874 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,874 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,874 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,874 [TGReader] INFO: Channel: R
+2026-05-08 10:36:21,874 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,874 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,875 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,875 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,875 [TGReader] INFO: Channel: 
+2026-05-08 10:36:21,875 [TGReader] INFO: Channel: 
+2026-05-08 10:36:22,066 [TGReader] INFO: Channel: 
+2026-05-08 10:36:22,066 [TGReader] INFO: Channel: 
+2026-05-08 10:36:22,066 [TGReader] INFO: Channel: 
+2026-05-08 10:36:22,067 [TGReader] INFO: Channel: 
+2026-05-08 10:36:22,067 [TGReader] INFO: Channel: 
+2026-05-08 10:36:22,067 [TGReader] INFO: Channel: 
+2026-05-08 10:36:22,067 [TGReader] INFO: Channel: 
+2026-05-08 10:36:23,060 [MainGUI] INFO: Telegram connected monitoring 105 channels
+2026-05-08 10:36:30,611 [telethon.client.users] INFO: Sleeping for 24s (0:00:24) on GetHistoryRequest flood wait
+2026-05-08 10:36:31,010 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:36:35,135 [MomentumScalper] INFO: [SENSEX] VWAP reset for new day
+2026-05-08 10:36:35,135 [PrevDayLevels] INFO: [PDL] SENSEX: First run — waiting to build today's H/L
+2026-05-08 10:37:36,066 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:37:52,067 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:38:23,260 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:38:47,238 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:39:14,358 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:39:45,558 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:40:05,471 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:40:25,321 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:40:33,843 [MomentumScalper] INFO: [BANKNIFTY] Armed PE on Momentum Candle Low: 55599.5
+2026-05-08 10:40:38,844 [OptionTrader] INFO: TF [BANKNIFTY] PE: passed=False Price>EMA50(0), RSI21 not 35-60
+2026-05-08 10:40:38,844 [OptionTrader] INFO: Auto signal TF blocked: Price>EMA50(0), RSI21 not 35-60
+2026-05-08 10:40:41,744 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:40:45,846 [MomentumScalper] INFO: [BANKNIFTY] Armed PE on Momentum Candle Low: 55599.5
+2026-05-08 10:40:50,847 [OptionTrader] INFO: TF [BANKNIFTY] PE: passed=False Price>EMA50(0), RSI21 not 35-60
+2026-05-08 10:40:50,847 [OptionTrader] INFO: Auto signal TF blocked: Price>EMA50(0), RSI21 not 35-60
+2026-05-08 10:40:57,469 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:40:57,852 [MomentumScalper] INFO: [BANKNIFTY] Armed PE on Momentum Candle Low: 55599.5
+2026-05-08 10:41:02,853 [OptionTrader] INFO: TF [BANKNIFTY] PE: passed=False Price>EMA50(0), RSI21 not 35-60
+2026-05-08 10:41:02,853 [OptionTrader] INFO: Auto signal TF blocked: Price>EMA50(0), RSI21 not 35-60
+2026-05-08 10:41:36,399 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:41:52,141 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:42:01,280 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:42:21,096 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:43:14,239 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:43:23,223 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:43:39,146 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:43:51,088 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:44:03,890 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:44:23,396 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:45:39,282 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:46:06,553 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:46:18,424 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:46:20,627 [TGReader] INFO: [PREMIUM LEARNING] 20 MINT SE HOLD KR RKHA H KOI MOVEMENT HI NHI HE 🥲
+2026-05-08 10:46:20,629 [SignalParser] INFO: Parsed [PREMIUM LEARNING]: valid=False None None None entry=None conf=40
+2026-05-08 10:48:25,834 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:48:45,814 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:48:58,358 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:49:21,131 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:49:30,177 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:49:54,361 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:50:21,691 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:51:21,049 [telethon.client.updates] INFO: Got difference for channel 1242754182 updates
+2026-05-08 10:51:21,387 [telethon.client.updates] INFO: Got difference for channel 2684335510 updates
+2026-05-08 10:51:22,619 [telethon.client.updates] INFO: Got difference for channel 2123899122 updates
+2026-05-08 10:52:09,970 [MomentumScalper] INFO: [SENSEX] Armed PE on Momentum Candle Low: 77422.93
+2026-05-08 10:52:27,666 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:52:43,830 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:52:52,376 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:53:08,266 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:53:20,184 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:53:36,804 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:53:48,562 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:54:00,721 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:54:20,839 [TGReader] INFO: [PREMIUM LEARNING] SL TRAIL AT CTC 👍🏻👍🏻
+2026-05-08 10:54:20,839 [SignalParser] INFO: Parsed [PREMIUM LEARNING]: valid=False None None None entry=None conf=40
+2026-05-08 10:54:29,989 [OptionTrader] INFO: TF [SENSEX] PE: passed=True EMA50✅ MOM✅ RSI47✅
+2026-05-08 10:54:30,050 [OptionChain] ERROR: Option chain fetch SENSEX attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-08 10:54:31,111 [OptionChain] ERROR: Option chain fetch SENSEX attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-08 10:54:32,629 [OptionChain] ERROR: Option chain fetch SENSEX attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-08 10:54:33,630 [OptionChain] INFO: [BudgetGuard] SENSEX PE | micro=True | capital=₹2110 | lot=10 | max_prem=₹211
+2026-05-08 10:54:33,631 [OptionChain] WARNING: No chain data — skipping strike selection
+2026-05-08 10:54:33,631 [OptionTrader] WARNING: [SENSEX] No option chain — estimated ATM premium: ₹211.0 (index=77422). Connect Kotak for real prices.
+2026-05-08 10:54:33,631 [OptionTrader] WARNING: Trade blocked: Cost ₹2110 > allowed capital ₹1688
+2026-05-08 10:54:39,725 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:54:48,292 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:54:55,635 [TGReader] INFO: [👌 Stock Market Tps👌] पहली बार इस RATE में जल्दी से लूट लो
+
+https://cosmofeed.com/
+2026-05-08 10:54:55,635 [SignalParser] INFO: Parsed [👌 Stock Market Tps👌]: valid=False None None None entry=None conf=40
+2026-05-08 10:55:00,317 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:55:12,508 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:56:07,042 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:56:20,886 [TGReader] INFO: [PREMIUM LEARNING] BOOK HALF QTY BAKI KI HOLD KREGE STOP-LOSS COST TO COST LGA 
+2026-05-08 10:56:20,887 [SignalParser] INFO: Parsed [PREMIUM LEARNING]: valid=False None None None entry=None conf=40
+2026-05-08 10:56:26,730 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:57:05,304 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:57:20,730 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:57:37,318 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:58:12,052 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:58:58,048 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:59:29,415 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:59:45,008 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 10:59:56,761 [MomentumScalper] INFO: [MIDCPNIFTY] Armed PE on Momentum Candle Low: 14559.65
+2026-05-08 11:00:01,763 [OptionTrader] INFO: TF [MIDCPNIFTY] PE: passed=False RSI30 not 35-60
+2026-05-08 11:00:01,763 [OptionTrader] INFO: Auto signal TF blocked: RSI30 not 35-60
+2026-05-08 11:00:08,669 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:00:08,765 [MomentumScalper] INFO: [MIDCPNIFTY] Armed PE on Momentum Candle Low: 14559.65
+2026-05-08 11:00:13,766 [OptionTrader] INFO: TF [MIDCPNIFTY] PE: passed=False RSI30 not 35-60
+2026-05-08 11:00:13,766 [OptionTrader] INFO: Auto signal TF blocked: RSI30 not 35-60
+2026-05-08 11:00:20,768 [MomentumScalper] INFO: [MIDCPNIFTY] Armed PE on Momentum Candle Low: 14559.65
+2026-05-08 11:00:28,282 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:00:40,399 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:00:50,790 [OptionTrader] INFO: TF [MIDCPNIFTY] PE: passed=False RSI21 not 35-60
+2026-05-08 11:00:50,790 [OptionTrader] INFO: Auto signal TF blocked: RSI21 not 35-60
+2026-05-08 11:00:57,791 [MomentumScalper] INFO: [FINNIFTY] Armed PE on Momentum Candle Low: 26170.05
+2026-05-08 11:01:23,616 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:01:32,796 [OptionTrader] INFO: TF [FINNIFTY] PE: passed=False RSI25 not 35-60
+2026-05-08 11:01:32,796 [OptionTrader] INFO: Auto signal TF blocked: RSI25 not 35-60
+2026-05-08 11:01:39,797 [MomentumScalper] INFO: [FINNIFTY] Armed PE on Momentum Candle Low: 26170.05
+2026-05-08 11:02:02,148 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:02:40,792 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:02:56,249 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:03:23,497 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:03:51,104 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:04:10,378 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:04:19,576 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:04:39,837 [MomentumScalper] INFO: [FINNIFTY] Armed CE on Momentum Candle High: 26202.35
+2026-05-08 11:04:44,839 [OptionTrader] INFO: TF [FINNIFTY] CE: passed=False RSI89 not 40-65
+2026-05-08 11:04:44,840 [OptionTrader] INFO: Auto signal TF blocked: RSI89 not 40-65
+2026-05-08 11:04:46,841 [MomentumScalper] INFO: [SENSEX] Armed CE on Momentum Candle High: 77460.9
+2026-05-08 11:04:51,844 [MomentumScalper] INFO: [FINNIFTY] Armed CE on Momentum Candle High: 26202.35
+2026-05-08 11:04:51,845 [OptionTrader] INFO: TF [SENSEX] CE: passed=False RSI93 not 40-65
+2026-05-08 11:04:51,846 [OptionTrader] INFO: Auto signal TF blocked: RSI93 not 40-65
+2026-05-08 11:04:54,849 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:04:58,855 [OptionTrader] INFO: TF [FINNIFTY] CE: passed=False RSI85 not 40-65
+2026-05-08 11:04:58,856 [OptionTrader] INFO: Auto signal TF blocked: RSI85 not 40-65
+2026-05-08 11:05:00,857 [MomentumScalper] INFO: [SENSEX] Armed CE on Momentum Candle High: 77460.9
+2026-05-08 11:05:05,859 [OptionTrader] INFO: TF [SENSEX] CE: passed=False RSI93 not 40-65
+2026-05-08 11:05:05,859 [OptionTrader] INFO: Auto signal TF blocked: RSI93 not 40-65
+2026-05-08 11:05:07,984 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:05:35,102 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:06:19,138 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:06:22,741 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-05-08 11:06:58,244 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:07:14,310 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:07:50,213 [Capital] INFO: Capital loaded: ₹2,110
+2026-05-08 11:07:50,223 [MainGUI] INFO: Capital loaded: ₹2,110.00
+2026-05-08 11:07:50,648 [KotakAPI] WARNING: Old session expired (HTTP 404) — deleting, will do fresh login
+2026-05-08 11:07:50,649 [KotakAPI] INFO: TOTP generated: 691767
+2026-05-08 11:07:51,070 [KotakAPI] INFO: Kotak TOTP login OK (format=raw) ✅
+2026-05-08 11:07:51,191 [KotakAPI] INFO: Session saved to sessions/kotak_session.json
+2026-05-08 11:07:51,200 [MainGUI] INFO: Kotak API login successful.
+2026-05-08 11:08:06,646 [Database] ERROR: SQL Connection Failed (Make sure database 'LKS_Trader_DB' is created): ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [1326].  (1326) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (1326)')
+2026-05-08 11:08:06,659 [MainGUI] INFO: Connected to Microsoft SQL Server Database.
+2026-05-08 11:08:06,659 [AIDirector] WARNING: No DB connection. AI Director using default rules.
+2026-05-08 11:08:06,696 [MainGUI] INFO: 🤖 AI Director Selected Strategy: SMC_SCALP
+2026-05-08 11:08:06,708 [MainGUI] INFO: 🤖 AI Director linked to trader successfully!
+2026-05-08 11:08:06,803 [MomentumScalper] INFO: [NIFTY] VWAP reset for new day
+2026-05-08 11:08:06,805 [PrevDayLevels] INFO: [PDL] NIFTY: First run — waiting to build today's H/L
+2026-05-08 11:08:06,890 [MomentumScalper] INFO: [BANKNIFTY] VWAP reset for new day
+2026-05-08 11:08:06,890 [PrevDayLevels] INFO: [PDL] BANKNIFTY: First run — waiting to build today's H/L
+2026-05-08 11:08:06,924 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-05-08 11:08:06,925 [telethon.crypto.aes] INFO: cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-05-08 11:08:06,962 [MomentumScalper] INFO: [FINNIFTY] VWAP reset for new day
+2026-05-08 11:08:06,962 [PrevDayLevels] INFO: [PDL] FINNIFTY: First run — waiting to build today's H/L
+2026-05-08 11:08:07,014 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-05-08 11:08:07,035 [MomentumScalper] INFO: [MIDCPNIFTY] VWAP reset for new day
+2026-05-08 11:08:07,035 [PrevDayLevels] INFO: [PDL] MIDCPNIFTY: First run — waiting to build today's H/L
+2026-05-08 11:08:07,093 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-05-08 11:08:07,189 [MomentumScalper] INFO: [SENSEX] VWAP reset for new day
+2026-05-08 11:08:07,189 [PrevDayLevels] INFO: [PDL] SENSEX: First run — waiting to build today's H/L
+2026-05-08 11:08:08,160 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-05-08 11:08:08,160 [TGReader] INFO: Channel: THE MARKET GURU
+2026-05-08 11:08:08,160 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-05-08 11:08:08,161 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-05-08 11:08:08,161 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-05-08 11:08:08,161 [TGReader] INFO: Channel: ZERO TO HERO MASTER 💚 ™
+2026-05-08 11:08:08,161 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-05-08 11:08:08,161 [TGReader] INFO: Channel: Trading MasterMind
+2026-05-08 11:08:08,161 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-05-08 11:08:08,162 [TGReader] INFO: Channel: BANKNIFTY EXPERT ™️ (SEBI REGISTERED)
+2026-05-08 11:08:08,666 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-05-08 11:08:10,148 [MainGUI] INFO: Telegram connected monitoring 11 channels
+2026-05-08 11:08:15,286 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:09:05,596 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:09:21,962 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:09:57,200 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:10:47,517 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:11:08,262 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:11:32,113 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:11:40,640 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:12:16,828 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:12:29,559 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:12:53,408 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:13:36,925 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:14:19,999 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:14:31,779 [MomentumScalper] INFO: [FINNIFTY] Armed CE on Momentum Candle High: 26229.8
+2026-05-08 11:14:44,458 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:14:56,782 [OptionTrader] INFO: TF [FINNIFTY] CE: passed=False RSI75 not 40-65
+2026-05-08 11:14:56,782 [OptionTrader] INFO: Auto signal TF blocked: RSI75 not 40-65
+2026-05-08 11:15:03,790 [MomentumScalper] INFO: [FINNIFTY] Armed CE on Momentum Candle High: 26229.8
+2026-05-08 11:15:08,791 [OptionTrader] INFO: TF [FINNIFTY] CE: passed=False RSI78 not 40-65
+2026-05-08 11:15:08,791 [OptionTrader] INFO: Auto signal TF blocked: RSI78 not 40-65
+2026-05-08 11:15:15,792 [MomentumScalper] INFO: [FINNIFTY] Armed CE on Momentum Candle High: 26229.8
+2026-05-08 11:15:20,793 [OptionTrader] INFO: TF [FINNIFTY] CE: passed=False RSI82 not 40-65
+2026-05-08 11:15:20,794 [OptionTrader] INFO: Auto signal TF blocked: RSI82 not 40-65
+2026-05-08 11:15:31,796 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:15:37,798 [MomentumScalper] INFO: [NIFTY] Armed CE on Momentum Candle High: 24237.4
+2026-05-08 11:15:37,798 [MomentumScalper] INFO: [BANKNIFTY] Armed CE on Momentum Candle High: 55650.7
+2026-05-08 11:15:42,799 [OptionTrader] INFO: TF [BANKNIFTY] CE: passed=False RSI82 not 40-65
+2026-05-08 11:15:42,799 [OptionTrader] INFO: Auto signal TF blocked: RSI82 not 40-65
+2026-05-08 11:15:49,801 [OptionTrader] INFO: TF [NIFTY] CE: passed=False RSI75 not 40-65
+2026-05-08 11:15:49,801 [OptionTrader] INFO: Auto signal TF blocked: RSI75 not 40-65
+2026-05-08 11:15:51,802 [MomentumScalper] INFO: [BANKNIFTY] Armed CE on Momentum Candle High: 55650.7
+2026-05-08 11:15:56,803 [MomentumScalper] INFO: [NIFTY] Armed CE on Momentum Candle High: 24237.4
+2026-05-08 11:15:56,804 [OptionTrader] INFO: TF [BANKNIFTY] CE: passed=False RSI89 not 40-65
+2026-05-08 11:15:56,805 [OptionTrader] INFO: Auto signal TF blocked: RSI89 not 40-65
+2026-05-08 11:16:03,806 [OptionTrader] INFO: TF [NIFTY] CE: passed=False RSI75 not 40-65
+2026-05-08 11:16:03,806 [OptionTrader] INFO: Auto signal TF blocked: RSI75 not 40-65
+2026-05-08 11:16:05,807 [MomentumScalper] INFO: [BANKNIFTY] Armed CE on Momentum Candle High: 55650.7
+2026-05-08 11:16:10,808 [MomentumScalper] INFO: [NIFTY] Armed CE on Momentum Candle High: 24237.4
+2026-05-08 11:16:29,961 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:16:42,291 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:16:58,306 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:17:46,074 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:18:06,391 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:18:25,728 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:19:00,329 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:19:35,606 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:19:48,024 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:20:00,121 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:20:20,849 [MomentumScalper] INFO: [BANKNIFTY] Armed PE on Momentum Candle Low: 55589.95
+2026-05-08 11:20:25,850 [OptionTrader] INFO: TF [BANKNIFTY] PE: passed=False RSI1 not 35-60
+2026-05-08 11:20:25,851 [OptionTrader] INFO: Auto signal TF blocked: RSI1 not 35-60
+2026-05-08 11:20:27,863 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:20:40,226 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:20:52,135 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:21:07,769 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:21:08,606 [telethon.client.updates] INFO: Got difference for channel 1242754182 updates
+2026-05-08 11:21:16,662 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:21:36,461 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:21:48,947 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:22:00,875 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:22:17,444 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:22:22,880 [MomentumScalper] INFO: [NIFTY] Armed PE on Momentum Candle Low: 24213.0
+2026-05-08 11:22:27,881 [OptionTrader] INFO: TF [NIFTY] PE: passed=True EMA50✅ MOM✅ RSI49✅
+2026-05-08 11:22:28,350 [OptionChain] ERROR: Option chain fetch NIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-08 11:22:29,411 [OptionChain] ERROR: Option chain fetch NIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-08 11:22:30,483 [OptionChain] ERROR: Option chain fetch NIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-08 11:22:31,484 [OptionChain] INFO: [BudgetGuard] NIFTY PE | micro=True | capital=₹2110 | lot=25 | max_prem=₹84
+2026-05-08 11:22:31,484 [OptionChain] WARNING: No chain data — skipping strike selection
+2026-05-08 11:22:31,485 [OptionTrader] WARNING: [NIFTY] No option chain — estimated ATM premium: ₹84.4 (index=24213). Connect Kotak for real prices.
+2026-05-08 11:22:31,485 [OptionTrader] WARNING: Trade blocked: Cost ₹2110 > allowed capital ₹1688
+2026-05-08 11:22:32,868 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:22:41,418 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:23:01,317 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:23:07,824 [telethon.client.updates] INFO: Got difference for account updates
+2026-05-08 11:23:08,429 [telethon.client.updates] INFO: Got difference for channel 1361867270 updates
+2026-05-08 11:23:09,682 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-05-08 11:23:09,683 [TGReader] INFO: [👌 SMT - Education Group 👌] NIFTY 24250 CE Looking good 
+
+Above @ 165
+
+TARGET - 180, 210
+2026-05-08 11:23:09,684 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=True NIFTY 24250 CE entry=165.0 conf=95
+2026-05-08 11:23:09,686 [MainGUI] INFO: Signal Received: BUY NIFTY CE
+2026-05-08 11:23:09,686 [OptionTrader] INFO: 📡 Telegram signal from [👌 SMT - Education Group 👌]: NIFTY CE — proceeding to buy best ATM
+2026-05-08 11:23:09,748 [OptionChain] ERROR: Option chain fetch NIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-08 11:23:10,810 [OptionChain] ERROR: Option chain fetch NIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-08 11:23:11,874 [OptionChain] ERROR: Option chain fetch NIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-08 11:23:12,875 [OptionChain] INFO: [BudgetGuard] NIFTY CE | micro=True | capital=₹2110 | lot=25 | max_prem=₹84
+2026-05-08 11:23:12,875 [OptionChain] WARNING: No chain data — skipping strike selection
+2026-05-08 11:23:12,875 [OptionTrader] WARNING: [NIFTY] No option chain — estimated ATM premium: ₹84.4 (index=24207). Connect Kotak for real prices.
+2026-05-08 11:23:12,876 [OptionTrader] WARNING: Trade blocked: Cost ₹2110 > allowed capital ₹1688
+2026-05-08 11:23:14,753 [MomentumScalper] INFO: [MIDCPNIFTY] Armed PE on Momentum Candle Low: 14553.7
+2026-05-08 11:23:17,929 [TGReader] INFO: [👌 SMT - Education Group 👌] SL HIT ❌
+2026-05-08 11:23:17,930 [SignalParser] INFO: Parsed [👌 SMT - Education Group 👌]: valid=False None None PE entry=None conf=55
+2026-05-08 11:23:40,992 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:23:59,770 [OptionTrader] INFO: TF [MIDCPNIFTY] PE: passed=False RSI25 not 35-60
+2026-05-08 11:23:59,771 [OptionTrader] INFO: Auto signal TF blocked: RSI25 not 35-60
+2026-05-08 11:24:06,772 [MomentumScalper] INFO: [MIDCPNIFTY] Armed PE on Momentum Candle Low: 14553.7
+2026-05-08 11:24:13,787 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:24:56,782 [OptionTrader] INFO: TF [MIDCPNIFTY] PE: passed=True EMA50✅ MOM✅ RSI43✅
+2026-05-08 11:24:56,937 [OptionChain] ERROR: Option chain fetch MIDCPNIFTY attempt 1: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-08 11:24:58,002 [OptionChain] ERROR: Option chain fetch MIDCPNIFTY attempt 2: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-08 11:24:59,089 [OptionChain] ERROR: Option chain fetch MIDCPNIFTY attempt 3: HTTP 503 <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></
+2026-05-08 11:25:00,090 [OptionChain] INFO: [BudgetGuard] MIDCPNIFTY PE | micro=True | capital=₹2110 | lot=50 | max_prem=₹42
+2026-05-08 11:25:00,090 [OptionChain] WARNING: No chain data — skipping strike selection
+2026-05-08 11:25:00,091 [OptionTrader] WARNING: [MIDCPNIFTY] No option chain — estimated ATM premium: ₹42.2 (index=14553). Connect Kotak for real prices.
+2026-05-08 11:25:00,091 [OptionTrader] WARNING: Trade blocked: Cost ₹2110 > allowed capital ₹1688
+2026-05-08 11:25:35,960 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:26:03,213 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:26:30,035 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:26:58,095 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:27:18,398 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:27:30,233 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:27:39,015 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:27:48,236 [MomentumScalper] INFO: [MIDCPNIFTY] Armed PE on Momentum Candle Low: 14541.55
+2026-05-08 11:27:58,243 [OptionTrader] INFO: TF [MIDCPNIFTY] PE: passed=False RSI21 not 35-60
+2026-05-08 11:27:58,246 [OptionTrader] INFO: Auto signal TF blocked: RSI21 not 35-60
+2026-05-08 11:28:10,376 [KotakAPI] ERROR: LTP SENSEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:28:45,833 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:29:55,253 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:30:37,676 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:31:34,105 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:32:08,303 [TGReader] INFO: [GOLD TRADER SAM] Good Morning Traders 😎
+
+The moment you realise your mind is 
+2026-05-08 11:32:08,304 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None None None entry=None conf=40
+2026-05-08 11:32:08,305 [TGReader] INFO: [GOLD TRADER SAM] Those who are serious about earning profits from gold tradin
+2026-05-08 11:32:08,306 [SignalParser] INFO: Parsed [GOLD TRADER SAM]: valid=False None None PE entry=None conf=55
+2026-05-08 11:32:25,758 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:32:37,132 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:33:04,555 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:33:20,426 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:33:40,130 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:34:04,292 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:34:13,134 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:34:25,369 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:34:37,286 [KotakAPI] ERROR: LTP CRUDEOIL26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:35:00,552 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:35:09,254 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:36:03,858 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:36:12,738 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:36:55,688 [KotakAPI] ERROR: LTP NATURALGAS26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:37:49,987 [KotakAPI] ERROR: LTP CRUDEOIL26JUNFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:38:01,756 [KotakAPI] ERROR: LTP Nifty Bank: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 11:38:07,946 [telethon.client.updates] INFO: Got difference for account updates
+2026-05-08 11:38:09,806 [telethon.client.updates] INFO: Got difference for channel 1470096877 updates
+2026-05-08 13:26:55,820 [Capital] INFO: Capital loaded: ₹2,110
+2026-05-08 13:26:55,833 [MainGUI] INFO: Capital loaded: ₹2,110.00
+2026-05-08 13:26:56,287 [KotakAPI] WARNING: Old session expired (HTTP 404) — deleting, will do fresh login
+2026-05-08 13:26:56,289 [KotakAPI] INFO: TOTP generated: 562174
+2026-05-08 13:26:56,754 [KotakAPI] INFO: Kotak TOTP login OK (format=raw) ✅
+2026-05-08 13:26:56,839 [KotakAPI] INFO: Session saved to sessions/kotak_session.json
+2026-05-08 13:26:56,859 [MainGUI] INFO: Kotak API login successful.
+2026-05-08 13:27:12,325 [Database] ERROR: SQL Connection Failed (Make sure database 'LKS_Trader_DB' is created): ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [1326].  (1326) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (1326)')
+2026-05-08 13:27:12,326 [MainGUI] INFO: Connected to Microsoft SQL Server Database.
+2026-05-08 13:27:12,327 [AIDirector] WARNING: No DB connection. AI Director using default rules.
+2026-05-08 13:27:12,351 [MainGUI] INFO: 🤖 AI Director Selected Strategy: SMC_SCALP
+2026-05-08 13:27:12,363 [MainGUI] INFO: 🤖 AI Director linked to trader successfully!
+2026-05-08 13:27:12,444 [MomentumScalper] INFO: [NIFTY] VWAP reset for new day
+2026-05-08 13:27:12,444 [PrevDayLevels] INFO: [PDL] NIFTY: First run — waiting to build today's H/L
+2026-05-08 13:27:12,519 [MomentumScalper] INFO: [BANKNIFTY] VWAP reset for new day
+2026-05-08 13:27:12,519 [PrevDayLevels] INFO: [PDL] BANKNIFTY: First run — waiting to build today's H/L
+2026-05-08 13:27:12,594 [MomentumScalper] INFO: [FINNIFTY] VWAP reset for new day
+2026-05-08 13:27:12,594 [PrevDayLevels] INFO: [PDL] FINNIFTY: First run — waiting to build today's H/L
+2026-05-08 13:27:12,680 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-05-08 13:27:12,681 [telethon.crypto.aes] INFO: cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-05-08 13:27:12,842 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-05-08 13:27:12,941 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-05-08 13:27:13,900 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-05-08 13:27:13,900 [TGReader] INFO: Channel: THE MARKET GURU
+2026-05-08 13:27:13,900 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-05-08 13:27:13,900 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-05-08 13:27:13,901 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-05-08 13:27:13,901 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-05-08 13:27:13,901 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-05-08 13:27:13,901 [TGReader] INFO: Channel: Trading MasterMind
+2026-05-08 13:27:13,901 [TGReader] INFO: Channel: ZERO TO HERO MASTER 💚 ™
+2026-05-08 13:27:13,901 [TGReader] INFO: Channel: BANKNIFTY EXPERT ™️ (SEBI REGISTERED)
+2026-05-08 13:27:14,364 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-05-08 13:27:15,965 [MainGUI] INFO: Telegram connected monitoring 11 channels
+2026-05-08 13:27:20,602 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 15:39:57,905 [Capital] INFO: Capital loaded: ₹2,110
+2026-05-08 15:39:57,914 [MainGUI] INFO: Capital loaded: ₹2,110.00
+2026-05-08 15:39:58,611 [KotakAPI] WARNING: Old session expired (HTTP 404) — deleting, will do fresh login
+2026-05-08 15:39:58,612 [KotakAPI] INFO: TOTP generated: 976059
+2026-05-08 15:39:59,314 [KotakAPI] INFO: Kotak TOTP login OK (format=raw) ✅
+2026-05-08 15:39:59,388 [KotakAPI] INFO: Session saved to sessions/kotak_session.json
+2026-05-08 15:39:59,402 [MainGUI] INFO: Kotak API login successful.
+2026-05-08 15:40:15,071 [Database] ERROR: SQL Connection Failed (Make sure database 'LKS_Trader_DB' is created): ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [1326].  (1326) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (1326)')
+2026-05-08 15:40:15,096 [MainGUI] INFO: Connected to Microsoft SQL Server Database.
+2026-05-08 15:40:15,096 [AIDirector] WARNING: No DB connection. AI Director using default rules.
+2026-05-08 15:40:15,123 [MainGUI] INFO: 🤖 AI Director Selected Strategy: SMC_SCALP
+2026-05-08 15:40:15,137 [MainGUI] INFO: 🤖 AI Director linked to trader successfully!
+2026-05-08 15:40:15,218 [MomentumScalper] INFO: [NIFTY] VWAP reset for new day
+2026-05-08 15:40:15,219 [PrevDayLevels] INFO: [PDL] NIFTY: First run — waiting to build today's H/L
+2026-05-08 15:40:15,415 [MomentumScalper] INFO: [BANKNIFTY] VWAP reset for new day
+2026-05-08 15:40:15,416 [PrevDayLevels] INFO: [PDL] BANKNIFTY: First run — waiting to build today's H/L
+2026-05-08 15:40:15,431 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-05-08 15:40:15,432 [telethon.crypto.aes] INFO: cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-05-08 15:40:15,489 [MomentumScalper] INFO: [FINNIFTY] VWAP reset for new day
+2026-05-08 15:40:15,489 [PrevDayLevels] INFO: [PDL] FINNIFTY: First run — waiting to build today's H/L
+2026-05-08 15:40:15,570 [MomentumScalper] INFO: [MIDCPNIFTY] VWAP reset for new day
+2026-05-08 15:40:15,571 [PrevDayLevels] INFO: [PDL] MIDCPNIFTY: First run — waiting to build today's H/L
+2026-05-08 15:40:15,625 [telethon.network.mtprotosender] INFO: Connecting to 149.154.167.51:443/TcpFull...
+2026-05-08 15:40:15,736 [MomentumScalper] INFO: [SENSEX] VWAP reset for new day
+2026-05-08 15:40:15,736 [PrevDayLevels] INFO: [PDL] SENSEX: First run — waiting to build today's H/L
+2026-05-08 15:40:16,771 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for CRUDEOIL...
+2026-05-08 15:40:18,413 [telethon.network.mtprotosender] INFO: Connection to 149.154.167.51:443/TcpFull complete!
+2026-05-08 15:40:19,184 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for CRUDEOIL: ['CRUDEOILM20JUL26FUT', 'CRUDEOIL18JUN26FUT', 'CRUDEOILM18JUN26FUT', 'CRUDEOIL19AUG26FUT', 'CRUDEOILM19AUG26FUT']
+2026-05-08 15:40:19,601 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for CRUDEOIL. Using CRUDEOIL26MAYFUT
+2026-05-08 15:40:19,939 [telethon.client.users] INFO: Phone migrated to 5
+2026-05-08 15:40:20,242 [telethon.client.telegrambaseclient] INFO: Reconnecting to new data center 5
+2026-05-08 15:40:20,544 [telethon.network.mtprotosender] INFO: Disconnecting from 149.154.167.51:443/TcpFull...
+2026-05-08 15:40:20,545 [telethon.network.mtprotosender] INFO: Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-05-08 15:40:20,546 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-05-08 15:40:20,803 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for NATURALGAS...
+2026-05-08 15:40:22,371 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-05-08 15:40:22,878 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for NATURALGAS: ['NATURALGAS28JUL26FUT', 'NATURALGAS25JUN26FUT', 'NATURALGAS26MAY26FUT', 'NATURALGAS26AUG26FUT', 'NATURALGAS25SEP26FUT']
+2026-05-08 15:40:31,240 [KotakAPI] ERROR: LTP NATURALGAS25SEP26FUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 15:40:31,240 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for NATURALGAS. Using NATURALGAS26MAYFUT
+2026-05-08 15:40:43,286 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-05-08 15:40:43,287 [TGReader] INFO: Channel: THE MARKET GURU
+2026-05-08 15:40:43,287 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-05-08 15:40:43,287 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-05-08 15:40:43,287 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-05-08 15:40:43,287 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-05-08 15:40:43,288 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-05-08 15:40:43,288 [TGReader] INFO: Channel: Trading MasterMind
+2026-05-08 15:40:43,288 [TGReader] INFO: Channel: ZERO TO HERO MASTER 💚 ™
+2026-05-08 15:40:43,288 [TGReader] INFO: Channel: BANKNIFTY EXPERT ™️ (SEBI REGISTERED)
+2026-05-08 15:40:43,902 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-05-08 15:40:45,903 [MainGUI] INFO: Telegram connected monitoring 11 channels
+2026-05-08 15:40:58,919 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:53:29,307 [Capital] INFO: Capital loaded: ₹2,110
+2026-05-08 16:53:29,315 [MainGUI] INFO: Capital loaded: ₹2,110.00
+2026-05-08 16:53:29,892 [KotakAPI] WARNING: Old session expired (HTTP 404) — deleting, will do fresh login
+2026-05-08 16:53:29,893 [KotakAPI] INFO: TOTP generated: 966274
+2026-05-08 16:53:30,448 [KotakAPI] INFO: Kotak TOTP login OK (format=raw) ✅
+2026-05-08 16:53:30,548 [KotakAPI] INFO: Session saved to sessions/kotak_session.json
+2026-05-08 16:53:30,560 [MainGUI] INFO: Kotak API login successful.
+2026-05-08 16:53:46,040 [Database] ERROR: SQL Connection Failed (Make sure database 'LKS_Trader_DB' is created): ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [1326].  (1326) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (1326)')
+2026-05-08 16:53:46,055 [MainGUI] INFO: Connected to Microsoft SQL Server Database.
+2026-05-08 16:53:46,057 [AIDirector] WARNING: No DB connection. AI Director using default rules.
+2026-05-08 16:53:46,100 [MainGUI] INFO: 🤖 AI Director Selected Strategy: SMC_SCALP
+2026-05-08 16:53:46,115 [MainGUI] INFO: 🤖 AI Director linked to trader successfully!
+2026-05-08 16:53:46,203 [MomentumScalper] INFO: [NIFTY] VWAP reset for new day
+2026-05-08 16:53:46,203 [PrevDayLevels] INFO: [PDL] NIFTY: First run — waiting to build today's H/L
+2026-05-08 16:53:46,297 [MomentumScalper] INFO: [BANKNIFTY] VWAP reset for new day
+2026-05-08 16:53:46,298 [PrevDayLevels] INFO: [PDL] BANKNIFTY: First run — waiting to build today's H/L
+2026-05-08 16:53:46,425 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-05-08 16:53:46,426 [telethon.crypto.aes] INFO: cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-05-08 16:53:46,475 [MomentumScalper] INFO: [FINNIFTY] VWAP reset for new day
+2026-05-08 16:53:46,475 [PrevDayLevels] INFO: [PDL] FINNIFTY: First run — waiting to build today's H/L
+2026-05-08 16:53:46,543 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-05-08 16:53:46,566 [MomentumScalper] INFO: [MIDCPNIFTY] VWAP reset for new day
+2026-05-08 16:53:46,566 [PrevDayLevels] INFO: [PDL] MIDCPNIFTY: First run — waiting to build today's H/L
+2026-05-08 16:53:46,644 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-05-08 16:53:46,751 [MomentumScalper] INFO: [SENSEX] VWAP reset for new day
+2026-05-08 16:53:46,752 [PrevDayLevels] INFO: [PDL] SENSEX: First run — waiting to build today's H/L
+2026-05-08 16:53:47,975 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for CRUDEOIL...
+2026-05-08 16:53:48,168 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-05-08 16:53:48,168 [TGReader] INFO: Channel: THE MARKET GURU
+2026-05-08 16:53:48,168 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-05-08 16:53:48,168 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-05-08 16:53:48,169 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-05-08 16:53:48,169 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-05-08 16:53:48,169 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-05-08 16:53:48,169 [TGReader] INFO: Channel: Trading MasterMind
+2026-05-08 16:53:48,169 [TGReader] INFO: Channel: ZERO TO HERO MASTER 💚 ™
+2026-05-08 16:53:48,169 [TGReader] INFO: Channel: BANKNIFTY EXPERT ™️ (SEBI REGISTERED)
+2026-05-08 16:53:48,932 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-05-08 16:53:49,978 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for CRUDEOIL: ['CRUDEOILM20JUL26FUT', 'CRUDEOIL18JUN26FUT', 'CRUDEOILM18JUN26FUT', 'CRUDEOIL19AUG26FUT', 'CRUDEOILM19AUG26FUT']
+2026-05-08 16:53:50,466 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for CRUDEOIL. Using CRUDEOIL26MAYFUT
+2026-05-08 16:53:50,621 [MainGUI] INFO: Telegram connected monitoring 11 channels
+2026-05-08 16:53:51,740 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for NATURALGAS...
+2026-05-08 16:53:53,980 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for NATURALGAS: ['NATURALGAS28JUL26FUT', 'NATURALGAS25JUN26FUT', 'NATURALGAS26MAY26FUT', 'NATURALGAS26AUG26FUT', 'NATURALGAS25SEP26FUT']
+2026-05-08 16:53:54,432 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for NATURALGAS. Using NATURALGAS26MAYFUT
+2026-05-08 16:54:02,464 [KotakAPI] ERROR: LTP NATURALGAS26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:54:04,011 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for NATGASMINI...
+2026-05-08 16:54:06,250 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for NATGASMINI: ['NATGASMINI26AUG26FUT', 'NATGASMINI28JUL26FUT', 'NATGASMINI27OCT26FUT', 'NATGASMINI25JUN26FUT', 'NATGASMINI26MAY26FUT']
+2026-05-08 16:54:14,535 [KotakAPI] ERROR: LTP NATGASMINI27OCT26FUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:54:15,544 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for NATGASMINI. Using NATGASMINI26MAYFUT
+2026-05-08 16:54:16,803 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for GOLD...
+2026-05-08 16:54:19,819 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for GOLD: ['GOLD05JUN26FUT', 'GOLD05AUG26FUT', 'GOLDPETAL30JUN26FUT', 'GOLDGUINEA30JUN26FUT', 'GOLDM05AUG26FUT']
+2026-05-08 16:54:20,402 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for GOLD. Using GOLD26MAYFUT
+2026-05-08 16:54:21,639 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for GOLDM...
+2026-05-08 16:54:24,157 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for GOLDM: ['GOLDM05AUG26FUT', 'GOLDM03JUL26FUT', 'GOLDM05JUN26FUT', 'GOLDM04SEP26FUT', 'GOLDM05NOV26FUT']
+2026-05-08 16:54:24,807 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for GOLDM. Using GOLDM26MAYFUT
+2026-05-08 16:54:32,827 [KotakAPI] ERROR: LTP GOLDM26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:54:34,566 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for GOLDGUINEA...
+2026-05-08 16:54:37,150 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for GOLDGUINEA: ['GOLDGUINEA30JUN26FUT', 'GOLDGUINEA29MAY26FUT', 'GOLDGUINEA31JUL26FUT', 'GOLDGUINEA30OCT26FUT', 'GOLDGUINEA31AUG26FUT']
+2026-05-08 16:54:37,859 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for GOLDGUINEA. Using GOLDGUINEA26MAYFUT
+2026-05-08 16:54:38,964 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for SILVER...
+2026-05-08 16:54:41,574 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for SILVER: ['SILVERM30JUN26FUT', 'SILVER03JUL26FUT', 'SILVERM30NOV26FUT', 'SILVERMIC30JUN26FUT', 'SILVERM31AUG26FUT']
+2026-05-08 16:54:42,017 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for SILVER. Using SILVER26MAYFUT
+2026-05-08 16:54:43,145 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for SILVERM...
+2026-05-08 16:54:46,632 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for SILVERM: ['SILVERM30JUN26FUT', 'SILVERM30NOV26FUT', 'SILVERMIC30JUN26FUT', 'SILVERM31AUG26FUT', 'SILVERMIC31AUG26FUT']
+2026-05-08 16:54:47,068 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for SILVERM. Using SILVERM26MAYFUT
+2026-05-08 16:54:48,536 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for SILVERMIC...
+2026-05-08 16:54:51,144 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for SILVERMIC: ['SILVERMIC30JUN26FUT', 'SILVERMIC31AUG26FUT', 'SILVERMIC30NOV26FUT']
+2026-05-08 16:54:51,451 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for SILVERMIC. Using SILVERMIC26MAYFUT
+2026-05-08 16:55:08,016 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:55:17,877 [KotakAPI] ERROR: LTP RELIANCE: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:55:46,496 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:56:06,103 [KotakAPI] ERROR: LTP GOLD26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:56:20,328 [KotakAPI] ERROR: LTP GOLDGUINEA26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:56:34,503 [KotakAPI] ERROR: LTP RELIANCE: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:56:47,645 [KotakAPI] ERROR: LTP GOLDGUINEA26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:57:02,401 [KotakAPI] ERROR: LTP HDFCBANK: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:57:14,713 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:57:24,383 [KotakAPI] ERROR: LTP SILVER26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:57:57,073 [KotakAPI] ERROR: LTP S&P BSE BANKEX: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:58:10,618 [KotakAPI] ERROR: LTP NIFTY MID SELECT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:58:25,245 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:58:38,889 [KotakAPI] ERROR: LTP Nifty Fin Service: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 16:58:56,600 [KotakAPI] ERROR: LTP Nifty 50: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 17:13:37,002 [Capital] INFO: Capital loaded: ₹2,110
+2026-05-08 17:13:37,010 [MainGUI] INFO: Capital loaded: ₹2,110.00
+2026-05-08 17:13:37,559 [KotakAPI] WARNING: Old session expired (HTTP 404) — deleting, will do fresh login
+2026-05-08 17:13:37,560 [KotakAPI] INFO: TOTP generated: 622720
+2026-05-08 17:13:38,077 [KotakAPI] INFO: Kotak TOTP login OK (format=raw) ✅
+2026-05-08 17:13:38,178 [KotakAPI] INFO: Session saved to sessions/kotak_session.json
+2026-05-08 17:13:38,187 [MainGUI] INFO: Kotak API login successful.
+2026-05-08 17:13:53,587 [Database] ERROR: SQL Connection Failed (Make sure database 'LKS_Trader_DB' is created): ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [1326].  (1326) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (1326)')
+2026-05-08 17:13:53,589 [MainGUI] INFO: Connected to Microsoft SQL Server Database.
+2026-05-08 17:13:53,589 [AIDirector] WARNING: No DB connection. AI Director using default rules.
+2026-05-08 17:13:53,612 [MainGUI] INFO: 🤖 AI Director Selected Strategy: SMC_SCALP
+2026-05-08 17:13:53,627 [MainGUI] INFO: 🤖 AI Director linked to trader successfully!
+2026-05-08 17:13:53,712 [MomentumScalper] INFO: [NIFTY] VWAP reset for new day
+2026-05-08 17:13:53,712 [PrevDayLevels] INFO: [PDL] NIFTY: First run — waiting to build today's H/L
+2026-05-08 17:13:53,800 [MomentumScalper] INFO: [BANKNIFTY] VWAP reset for new day
+2026-05-08 17:13:53,800 [PrevDayLevels] INFO: [PDL] BANKNIFTY: First run — waiting to build today's H/L
+2026-05-08 17:13:53,867 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-05-08 17:13:53,868 [telethon.crypto.aes] INFO: cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-05-08 17:13:53,887 [MomentumScalper] INFO: [FINNIFTY] VWAP reset for new day
+2026-05-08 17:13:53,888 [PrevDayLevels] INFO: [PDL] FINNIFTY: First run — waiting to build today's H/L
+2026-05-08 17:13:53,963 [MomentumScalper] INFO: [MIDCPNIFTY] VWAP reset for new day
+2026-05-08 17:13:53,963 [PrevDayLevels] INFO: [PDL] MIDCPNIFTY: First run — waiting to build today's H/L
+2026-05-08 17:13:53,968 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-05-08 17:13:54,056 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-05-08 17:13:55,121 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-05-08 17:13:55,121 [TGReader] INFO: Channel: THE MARKET GURU
+2026-05-08 17:13:55,122 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-05-08 17:13:55,122 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-05-08 17:13:55,122 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-05-08 17:13:55,122 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-05-08 17:13:55,122 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-05-08 17:13:55,123 [TGReader] INFO: Channel: Trading MasterMind
+2026-05-08 17:13:55,123 [TGReader] INFO: Channel: ZERO TO HERO MASTER 💚 ™
+2026-05-08 17:13:55,123 [TGReader] INFO: Channel: BANKNIFTY EXPERT ™️ (SEBI REGISTERED)
+2026-05-08 17:13:55,442 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for CRUDEOIL...
+2026-05-08 17:13:55,620 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-05-08 17:13:57,208 [MainGUI] INFO: Telegram connected monitoring 11 channels
+2026-05-08 17:13:58,058 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for CRUDEOIL: ['CRUDEOILM20JUL26FUT', 'CRUDEOIL18JUN26FUT', 'CRUDEOILM18JUN26FUT', 'CRUDEOIL19AUG26FUT', 'CRUDEOILM19AUG26FUT']
+2026-05-08 17:13:58,517 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for CRUDEOIL. Using CRUDEOIL26MAYFUT
+2026-05-08 17:13:59,736 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for NATURALGAS...
+2026-05-08 17:14:01,384 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for NATURALGAS: ['NATURALGAS28JUL26FUT', 'NATURALGAS25JUN26FUT', 'NATURALGAS26MAY26FUT', 'NATURALGAS26AUG26FUT', 'NATURALGAS25SEP26FUT']
+2026-05-08 17:14:01,950 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for NATURALGAS. Using NATURALGAS26MAYFUT
+2026-05-08 17:14:03,187 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for NATGASMINI...
+2026-05-08 17:14:04,942 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for NATGASMINI: ['NATGASMINI26AUG26FUT', 'NATGASMINI28JUL26FUT', 'NATGASMINI27OCT26FUT', 'NATGASMINI25JUN26FUT', 'NATGASMINI26MAY26FUT']
+2026-05-08 17:14:05,354 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for NATGASMINI. Using NATGASMINI26MAYFUT
+2026-05-08 17:14:06,582 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for GOLD...
+2026-05-08 17:14:08,539 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for GOLD: ['GOLD05JUN26FUT', 'GOLD05AUG26FUT', 'GOLDPETAL30JUN26FUT', 'GOLDGUINEA30JUN26FUT', 'GOLDM05AUG26FUT']
+2026-05-08 17:14:08,983 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for GOLD. Using GOLD26MAYFUT
+2026-05-08 17:14:10,158 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for GOLDM...
+2026-05-08 17:14:12,357 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for GOLDM: ['GOLDM05AUG26FUT', 'GOLDM03JUL26FUT', 'GOLDM05JUN26FUT', 'GOLDM04SEP26FUT', 'GOLDM05NOV26FUT']
+2026-05-08 17:14:12,807 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for GOLDM. Using GOLDM26MAYFUT
+2026-05-08 17:14:13,968 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for GOLDGUINEA...
+2026-05-08 17:14:15,743 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for GOLDGUINEA: ['GOLDGUINEA30JUN26FUT', 'GOLDGUINEA29MAY26FUT', 'GOLDGUINEA31JUL26FUT', 'GOLDGUINEA30OCT26FUT', 'GOLDGUINEA31AUG26FUT']
+2026-05-08 17:14:16,166 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for GOLDGUINEA. Using GOLDGUINEA26MAYFUT
+2026-05-08 17:14:24,189 [KotakAPI] ERROR: LTP GOLDGUINEA26MAYFUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 17:14:26,042 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for SILVER...
+2026-05-08 17:14:27,979 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for SILVER: ['SILVERM30JUN26FUT', 'SILVER03JUL26FUT', 'SILVERM30NOV26FUT', 'SILVERMIC30JUN26FUT', 'SILVERM31AUG26FUT']
+2026-05-08 17:14:36,317 [KotakAPI] ERROR: LTP SILVERM31AUG26FUT: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 17:14:36,318 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for SILVER. Using SILVER26MAYFUT
+2026-05-08 17:14:37,943 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for SILVERM...
+2026-05-08 17:14:39,640 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for SILVERM: ['SILVERM30JUN26FUT', 'SILVERM30NOV26FUT', 'SILVERMIC30JUN26FUT', 'SILVERM31AUG26FUT', 'SILVERMIC31AUG26FUT']
+2026-05-08 17:14:40,307 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for SILVERM. Using SILVERM26MAYFUT
+2026-05-08 17:14:41,639 [KotakAPI] INFO: [MCX AutoDetect] Downloading MCX master file for SILVERMIC...
+2026-05-08 17:14:43,512 [KotakAPI] INFO: [MCX AutoDetect] Found candidates for SILVERMIC: ['SILVERMIC30JUN26FUT', 'SILVERMIC31AUG26FUT', 'SILVERMIC30NOV26FUT']
+2026-05-08 17:14:43,767 [KotakAPI] WARNING: [MCX AutoDetect] All candidates returned 0 LTP for SILVERMIC. Using SILVERMIC26MAYFUT
+2026-05-08 17:14:47,851 [MomentumScalper] INFO: [SENSEX] VWAP reset for new day
+2026-05-08 17:14:47,852 [PrevDayLevels] INFO: [PDL] SENSEX: First run — waiting to build today's H/L
+2026-05-08 17:15:01,613 [KotakAPI] ERROR: LTP TATAMOTORS: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)
+2026-05-08 17:15:19,405 [KotakAPI] ERROR: LTP HDFCBANK: HTTPSConnectionPool(host='e43.kotaksecurities.com', port=443): Read timed out. (read timeout=8)

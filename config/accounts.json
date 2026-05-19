@@ -1,0 +1,16 @@
+{
+    "kotak": {
+        "mobile": "+919509675779",
+        "client_code": "XV3ZT",
+        "mpin": "112151",
+        "access_token": "72182fc2-5655-470b-97c8-6c8e4bcbed57",
+        "totp_secret": "YYDEDABS3PAAOWLECS3C33GUOM"
+    },
+    "xm_mt5": {
+        "account_name": "Standard",
+        "server": "XMGlobal-MT5 6",
+        "mt_id": "1301188969",
+        "email": "anilxiomi1s@gmail.com",
+        "password": "QAZwsx&2414"
+    }
+}

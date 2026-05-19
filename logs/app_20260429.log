@@ -1,0 +1,250 @@
+2026-04-29 23:20:16,644 [Capital] INFO: Capital loaded: ₹2,000
+2026-04-29 23:20:16,648 [MainGUI] INFO: Capital loaded: ₹2,000.00
+2026-04-29 23:20:16,653 [MT5_API] ERROR: MT5 initialize() failed, error code: (-10003, 'IPC initialize failed, MetaTrader 5 x64 not found')
+2026-04-29 23:20:16,667 [MainGUI] INFO: XM MT5 Login Failed. Check credentials.
+2026-04-29 23:20:17,040 [KotakAPI] INFO: TOTP: 242094
+2026-04-29 23:20:17,646 [MainGUI] INFO: Kotak API login successful.
+2026-04-29 23:20:34,095 [Database] ERROR: SQL Connection Failed (Make sure database 'LKS_Trader_DB' is created): ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53].  (53) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (53)')
+2026-04-29 23:20:34,097 [MainGUI] INFO: Connected to Microsoft SQL Server Database.
+2026-04-29 23:20:34,097 [AIDirector] WARNING: No DB connection. AI Director using default rules.
+2026-04-29 23:20:34,121 [MainGUI] INFO: 🤖 AI Director Selected Strategy: SMC_SCALP
+2026-04-29 23:20:34,168 [MainGUI] INFO: 🤖 AI Director linked to trader successfully!
+2026-04-29 23:20:34,204 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-29 23:20:34,255 [MomentumScalper] INFO: [NIFTY] VWAP reset for new day
+2026-04-29 23:20:34,255 [PrevDayLevels] INFO: [PDL] NIFTY: First run — waiting to build today's H/L
+2026-04-29 23:20:34,255 [telethon.crypto.aes] INFO: cryptg detected, it will be used for encryption
+2026-04-29 23:20:34,345 [MomentumScalper] INFO: [BANKNIFTY] VWAP reset for new day
+2026-04-29 23:20:34,346 [PrevDayLevels] INFO: [PDL] BANKNIFTY: First run — waiting to build today's H/L
+2026-04-29 23:20:34,467 [MomentumScalper] INFO: [FINNIFTY] VWAP reset for new day
+2026-04-29 23:20:34,471 [PrevDayLevels] INFO: [PDL] FINNIFTY: First run — waiting to build today's H/L
+2026-04-29 23:20:34,567 [MomentumScalper] INFO: [MIDCPNIFTY] VWAP reset for new day
+2026-04-29 23:20:34,567 [PrevDayLevels] INFO: [PDL] MIDCPNIFTY: First run — waiting to build today's H/L
+2026-04-29 23:20:34,744 [MomentumScalper] INFO: [SENSEX] VWAP reset for new day
+2026-04-29 23:20:34,744 [PrevDayLevels] INFO: [PDL] SENSEX: First run — waiting to build today's H/L
+2026-04-29 23:20:34,834 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-29 23:20:34,941 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-29 23:20:35,812 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-29 23:20:35,813 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-04-29 23:20:35,818 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-04-29 23:20:35,821 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-04-29 23:20:35,830 [TGReader] INFO: Channel: Trading MasterMind
+2026-04-29 23:20:35,834 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-04-29 23:20:35,848 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-04-29 23:20:35,849 [TGReader] INFO: Channel: 
+2026-04-29 23:20:35,851 [TGReader] INFO: Channel: 
+2026-04-29 23:20:35,851 [TGReader] INFO: Channel: 
+2026-04-29 23:20:35,852 [TGReader] INFO: Channel: 
+2026-04-29 23:20:35,853 [TGReader] INFO: Channel: 
+2026-04-29 23:20:35,853 [TGReader] INFO: Channel: 
+2026-04-29 23:20:35,853 [TGReader] INFO: Channel: 
+2026-04-29 23:20:35,854 [TGReader] INFO: Channel: 
+2026-04-29 23:20:35,855 [TGReader] INFO: Channel: 
+2026-04-29 23:20:35,857 [TGReader] INFO: Channel: 
+2026-04-29 23:20:35,858 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,051 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,053 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,061 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,068 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,077 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,083 [TGReader] INFO: Channel: 9
+2026-04-29 23:20:36,086 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,088 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,090 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,093 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,094 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,094 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,095 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,096 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,360 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,360 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,367 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,372 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,374 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,378 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,381 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-29 23:20:36,385 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,392 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,393 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,394 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,395 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,396 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,397 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,398 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,399 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,402 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,404 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,405 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,406 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,407 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,408 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,411 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,411 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,412 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,413 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,414 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,418 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,420 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,425 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,427 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,429 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,434 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,438 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,747 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,749 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,752 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,756 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,766 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,769 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,772 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,776 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,780 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,782 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,785 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,786 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,789 [TGReader] INFO: Channel: A
+2026-04-29 23:20:36,790 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,793 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,796 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,797 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,798 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,798 [TGReader] INFO: Channel: R
+2026-04-29 23:20:36,799 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,800 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,801 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,802 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,803 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,803 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,805 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,967 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,968 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,972 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,975 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,976 [TGReader] INFO: Channel: 
+2026-04-29 23:20:36,977 [TGReader] INFO: Channel: 
+2026-04-29 23:20:38,152 [MainGUI] INFO: Telegram connected monitoring 98 channels
+2026-04-29 23:20:45,706 [telethon.client.users] INFO: Sleeping for 24s (0:00:24) on GetHistoryRequest flood wait
+2026-04-29 23:21:08,751 [Capital] INFO: Capital loaded: ₹2,000
+2026-04-29 23:21:08,770 [MainGUI] INFO: Capital loaded: ₹2,000.00
+2026-04-29 23:21:08,773 [MT5_API] ERROR: MT5 initialize() failed, error code: (-10003, 'IPC initialize failed, MetaTrader 5 x64 not found')
+2026-04-29 23:21:08,778 [MainGUI] INFO: XM MT5 Login Failed. Check credentials.
+2026-04-29 23:21:09,093 [KotakAPI] INFO: TOTP: 375479
+2026-04-29 23:21:09,684 [MainGUI] INFO: Kotak API login successful.
+2026-04-29 23:21:26,092 [Database] ERROR: SQL Connection Failed (Make sure database 'LKS_Trader_DB' is created): ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53].  (53) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (53)')
+2026-04-29 23:21:26,105 [MainGUI] INFO: Connected to Microsoft SQL Server Database.
+2026-04-29 23:21:26,106 [AIDirector] WARNING: No DB connection. AI Director using default rules.
+2026-04-29 23:21:26,167 [MainGUI] INFO: 🤖 AI Director Selected Strategy: SMC_SCALP
+2026-04-29 23:21:26,283 [MainGUI] INFO: 🤖 AI Director linked to trader successfully!
+2026-04-29 23:21:26,336 [telethon.crypto.libssl] INFO: Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-04-29 23:21:26,343 [telethon.crypto.aes] INFO: cryptg detected, it will be used for encryption
+2026-04-29 23:21:26,392 [MomentumScalper] INFO: [NIFTY] VWAP reset for new day
+2026-04-29 23:21:26,393 [PrevDayLevels] INFO: [PDL] NIFTY: First run — waiting to build today's H/L
+2026-04-29 23:21:26,599 [MomentumScalper] INFO: [BANKNIFTY] VWAP reset for new day
+2026-04-29 23:21:26,601 [PrevDayLevels] INFO: [PDL] BANKNIFTY: First run — waiting to build today's H/L
+2026-04-29 23:21:26,740 [MomentumScalper] INFO: [FINNIFTY] VWAP reset for new day
+2026-04-29 23:21:26,742 [PrevDayLevels] INFO: [PDL] FINNIFTY: First run — waiting to build today's H/L
+2026-04-29 23:21:26,847 [MomentumScalper] INFO: [MIDCPNIFTY] VWAP reset for new day
+2026-04-29 23:21:26,848 [PrevDayLevels] INFO: [PDL] MIDCPNIFTY: First run — waiting to build today's H/L
+2026-04-29 23:21:27,041 [MomentumScalper] INFO: [SENSEX] VWAP reset for new day
+2026-04-29 23:21:27,042 [PrevDayLevels] INFO: [PDL] SENSEX: First run — waiting to build today's H/L
+2026-04-29 23:21:27,067 [telethon.network.mtprotosender] INFO: Connecting to 91.108.56.189:443/TcpFull...
+2026-04-29 23:21:27,190 [telethon.network.mtprotosender] INFO: Connection to 91.108.56.189:443/TcpFull complete!
+2026-04-29 23:21:28,084 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-29 23:21:28,085 [TGReader] INFO: Channel: FOREX ACADEMY
+2026-04-29 23:21:28,093 [TGReader] INFO: Channel: PREMIUM LEARNING
+2026-04-29 23:21:28,096 [TGReader] INFO: Channel: FOREX ANYLIZER ™️
+2026-04-29 23:21:28,098 [TGReader] INFO: Channel: Trading MasterMind
+2026-04-29 23:21:28,099 [TGReader] INFO: Channel: GOLD TRADER SAM
+2026-04-29 23:21:28,109 [TGReader] INFO: Channel: 👌 Stock Market Tps👌
+2026-04-29 23:21:28,115 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,118 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,119 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,121 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,122 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,126 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,127 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,132 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,134 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,136 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,139 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,463 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,467 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,477 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,482 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,483 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,484 [TGReader] INFO: Channel: 9
+2026-04-29 23:21:28,488 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,488 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,491 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,494 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,500 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,500 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,503 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,504 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,863 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,864 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,873 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,878 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,883 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,885 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,887 [TGReader] INFO: Channel: 👌 SMT - Education Group 👌
+2026-04-29 23:21:28,890 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,893 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,895 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,895 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,897 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,898 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,900 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,904 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,908 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,910 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,915 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,917 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,921 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,922 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,925 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,926 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,928 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,930 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,931 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,932 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,936 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,937 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,940 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,941 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,944 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,946 [TGReader] INFO: Channel: 
+2026-04-29 23:21:28,948 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,190 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,191 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,201 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,201 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,202 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,206 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,210 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,212 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,215 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,217 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,219 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,222 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,223 [TGReader] INFO: Channel: A
+2026-04-29 23:21:29,225 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,227 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,228 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,233 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,239 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,244 [TGReader] INFO: Channel: R
+2026-04-29 23:21:29,245 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,245 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,246 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,248 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,250 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,251 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,253 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,417 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,419 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,429 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,430 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,430 [TGReader] INFO: Channel: 
+2026-04-29 23:21:29,432 [TGReader] INFO: Channel: 
+2026-04-29 23:21:30,469 [MainGUI] INFO: Telegram connected monitoring 98 channels
+2026-04-29 23:21:38,348 [telethon.client.users] INFO: Sleeping for 23s (0:00:23) on GetHistoryRequest flood wait
